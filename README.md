@@ -11,4 +11,14 @@ If you don't have access to this repo, fork it, make your changes, and submit a 
 
 For any other problem please don't hesitate to file an issue.
 
+***
+
+To preview the site while editing:
+
+1. Install [Jekyll](http://jekyllrb.com).
+2. Type `jekyll serve` into the console.
+3. Load `http://127.0.0.1:4000` in the browser.
+
+Jekyll is the same tool that Github uses to generate the site.
+
 — Baldur and Tom
