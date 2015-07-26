@@ -1,0 +1,8 @@
+exclude: ["*.sh", "node_modules", "package.json"]
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "post"

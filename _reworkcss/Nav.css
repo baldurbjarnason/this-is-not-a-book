@@ -1,0 +1,32 @@
+/** @define Nav */
+
+
+.Nav-backlink, .Nav-backlink:link, .Nav-backlink:visited {
+	/* color: var(--link-color); */
+}
+
+.Nav-description {
+	text-indent: 0;
+	padding: 1rem 2rem;
+	-webkit-hyphens: manual;
+	hyphens: manual;
+}
+
+.Nav-name {
+	text-indent: 0;
+	padding: 0 2rem;
+		color: #999;
+		font-size: var(--small-font);
+}
+
+.Nav a {
+	color: #000;
+	background-color: #f9f9e0;
+	text-decoration: none;
+	padding: 6px;
+	text-transform: uppercase;
+}
+
+.Nav {
+	margin-bottom: 1rem;
+}

@@ -1,0 +1,31 @@
+/** @define EntryContent */
+
+
+.EntryContent img {
+	height: auto;
+	max-width: 100%;
+	margin: 0;
+}
+
+.EntryContent blockquote {
+	font-size: var(--small-font);
+	-webkit-hyphens: auto;
+	-ms-hyphens: auto;
+	hyphens: auto;
+	background-color: var(--emphasis-background);
+	margin: 1rem 0;
+	padding: 2rem;
+}
+
+.EntryContent figure {
+	margin: 0.5rem 0;
+	padding: 2rem 2rem;
+	padding-bottom: 1rem;
+	background-color: var(--emphasis-background);
+	text-align: right;
+}
+
+.EntryContent figcaption {
+	font-size: var(--small-font);
+	text-align: right;
+}

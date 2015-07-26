@@ -1,0 +1,14 @@
+---
+layout: layout
+---
+
+<main class="Main Main--post">
+
+<article class="h-entry Entry Entry--post Entry--page" id="{{ page.title | slugify }}">
+
+<div class="e-content EntryContent EntryContent--page{% if page.tags %} EntryContent--{{ page.tags | first }}{% endif %}">
+{{ content }}
+</div>
+
+</article>
+</main>

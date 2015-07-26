@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>This is not a book</title>
+ <link href="http://thisisnotabook.baldurbjarnason.com/atom.xml" rel="self"/>
+ <link href="http://thisisnotabook.baldurbjarnason.com/"/>
+ <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <id>http://thisisnotabook.baldurbjarnason.com/</id>
+ <author>
+   <name>Baldur Bjarnason</name>
+   <email>baldur.bjarnason@gmail.com</email>
+ </author>
+ <author>
+   <name>Tom Abba</name>
+   <email>tomabba@gmail.com</email>
+ </author>
+
+{{ content }}
+
+</feed>

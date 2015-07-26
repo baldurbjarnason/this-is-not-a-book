@@ -1,0 +1,19 @@
+{
+  "name": "baldurblog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mod.js",
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-concat": "^2.5.2",
+    "gulp-csslint": "^0.1.5",
+    "gulp-csso": "^1.0.0",
+    "gulp-rework": "^1.0.3",
+    "rework": "^1.0.1",
+    "rework-inherit": "^0.2.3",
+    "rework-suit-conformance": "^0.4.2",
+    "rework-vars": "^3.1.1"
+  }
+}

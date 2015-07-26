@@ -1,0 +1,27 @@
+/** @define EntryHeader */
+
+
+.EntryHeader-permalink, .EntryHeader-permalink:link, .EntryHeader-permalink:visited {
+	text-decoration: none;
+	color: #666;
+}
+
+.EntryHeader-title {
+	padding: 0;
+	margin: 0 0 1rem;
+	font-weight: lighter;
+	text-decoration: none;
+	font-size: var(--large-font);
+	line-height: 1.2;
+}
+
+.EntryHeader-title a {
+	text-decoration: none;
+	color: var(--link-color);
+}
+
+.EntryHeader-meta {
+	text-transform: lowercase;
+	margin-bottom: 0.25rem;
+	color: #aaa;
+}

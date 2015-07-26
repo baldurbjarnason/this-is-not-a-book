@@ -1,0 +1,50 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+	<title>{{ page.title | strip_html }} &ndash; This is not a book</title>
+	<meta name="description" content="{{ page.description | strip_html }}" />
+    <meta name="author" content="Baldur Bjarnason" />
+    <meta name="author" content="Tom Abba" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@fakebaldur" />
+    <meta property="og:title" name="twitter:title" content="{{ page.title | strip_html }}" />
+    <meta property="og:site_name" content="This is not a book" />
+    {% if page.description %}<meta property="og:description" name="twitter:description" content="{{ page.description | strip_html }}" />{% else %}<meta property="og:description" name="twitter:description" content="{{ page.excerpt | strip_html }}" />{% endif %}
+    <meta property="og:url" content="https://thisisnotabook.baldurbjarnason.com{{ page.url }}/" />
+	{% if page.id %}<meta property="og:type" content="article" />{% endif %}
+  <link rel="stylesheet" media="all" href="/css/style.css"/>
+    <style type="text/css">
+    </style>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+	<link rel="icon" type="image/png" href="http://thisisnotabook.baldurbjarnason.com/apple-touch-icon.png" />
+    <link rel="alternate" type="application/atom+xml" href="http://thisisnotabook.baldurbjarnason.com/feed.xml">
+    <link rel="canonical" href="https://thisisnotabook.baldurbjarnason.com{{ page.url }}/">
+    <script>
+function loadCSS(e,n,o,t){"use strict"
+var d=window.document.createElement("link"),s=n||window.document.getElementsByTagName("script")[0],i=window.document.styleSheets
+return d.rel="stylesheet",d.href=e,d.media="only x",t&&(d.onload=t),s.parentNode.insertBefore(d,s),d.onloadcssdefined=function(n){for(var o,t=0;t<i.length;t++)i[t].href&&i[t].href.indexOf(e)>-1&&(o=!0)
+o?n():setTimeout(function(){d.onloadcssdefined(n)})},d.onloadcssdefined(function(){d.media=o||"all"}),d}loadCSS("/css/alegreyasans.css")
+</script>
+<noscript><link href="/css/font.css" rel="stylesheet"></noscript>
+  </head>
+  <body class="{% if page.id %}page {{ page.id | slugify }}{% else %}front{% endif %}{% if page.tags %} {{ page.tags }}{% endif %}">
+
+
+
+<div class="SiteBody">
+
+<header><nav class="Nav{% if page.tags %} Nav--{{ page.tags | first }}{% endif %}"><p class="Nav-name"><a href="/" class="front-page Nav-backlink">This is not a book</a> &ndash; by <a href="https://www.baldurbjarnason/">Baldur</a> and <a href="http://www.tomabba.com/">Tom</a> &ndash; get updates at the <a href="/feed.xml">Feed</a> or <a href="/Newsletter.html">Newsletter</a></p>
+</nav>
+</header>
+
+{{ content }}
+
+<footer>
+
+
+</footer>
+
+</div>
+  </body>
+</html>
