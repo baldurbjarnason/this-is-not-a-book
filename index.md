@@ -29,7 +29,7 @@ This is not a book. But it *is*:
 
 - *[What does the reader want?](/What_does_the_reader_want.html)*.
 
-- *[What does the writer want?](/What_does_the_writer_want.html)*. And digital myths)
+- *[What does the writer want?](/What_does_the_writer_want.html)*. And digital myths.
 
 - *[Transmedia](/Transmedia.html)*.
 
@@ -39,7 +39,7 @@ This is not a book. But it *is*:
 
 - *[Serial fiction](/Serial_fiction.html)*.
 
-- *[A Literature of Ambience, or Ambient Literature?](/Ambience.html)*.
+- *[A Literature of Ambience, or Ambient Literature?](/Ambience.html)*
 
 - *[Writing a fugue](/Writing_a_fugue.html)*.
 
