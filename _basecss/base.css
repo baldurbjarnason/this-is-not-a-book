@@ -47,6 +47,7 @@ p {
 
 p+p, .decking+p {
 	text-indent: 1.5em;
+  margin-top: 0.5rem;
 }
 
 hr {
@@ -129,4 +130,8 @@ pre {
 
 footer {
 	font-size: var(--small-font);
+}
+
+.houseblue {
+  color: #6086d1;
 }
