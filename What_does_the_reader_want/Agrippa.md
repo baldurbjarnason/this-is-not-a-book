@@ -17,7 +17,7 @@ Especially as it’s inbuilt rarity appears to exist in complete
 contradiction to digital’s mutiplicity. Artists make books to present
 work and express ideas. They live within a fine print tradition, and
 often challenge the physical conventions of the book to the point of
-being unreadable. ++Guy Begbie’s unreadable book would be useful here++
+being unreadable. 
 
 If we address their scarcity as a function of production, rather than
 intention (the processes used to make them are typically much more
@@ -32,8 +32,12 @@ sometimes bound within a section as an interruption to the page flow.
 Equally likely is a three-dimensional treatment of the page sequence as
 something to be explored in an unlinear fashion. The whole book may be
 presented as one sheet of folded and cut paper, or take the form of a
-paper engineered object. ++Francisca Preito’s Antibook - which exists as
-an origami icosahedron++
+paper engineered object. 
+
+![Francisca Preito's Antibook] (http://www.blankproject.co.uk/sites/default/files/styles/artwork_image/public/artwork/antibook_1.jpg?itok=tbF2nAmh)
+
+Francisca Preito’s Antibook, which exists as
+an origami icosahedron
 
 The nature of these approaches to making books might suggest a disregard
 for the reading experience, but closer examination of Artists Book
