@@ -5,7 +5,7 @@ date: "2015-07-25 13:06:44"
 
 They have little to no practical value for *making* in most cases and
 their social role can be easily supplanted by meeting up in a café. As
-an exercise, they are pretty pointless. Here, with attribution, is Clare
+an exercise, they are pretty pointless. Here, <a href=http://www.watershed.co.uk/ished/news/getting-comfortable-with-change/>with attribution</a>, is Clare
 Reddington on innovation:
 
 > “You can’t crowbar your innovation and change into one weekend of the
