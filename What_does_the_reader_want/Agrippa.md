@@ -69,8 +69,7 @@ memory and the impact of technology on reading and the impossibility of
 possessing an ‘edition’ of a digital work. The entire content is
 reflective of a primary concern with these issues. Ashbaugh’s etchings
 explore our common ancestry though images printed on rag paper and
-presented as loose leaves inside the metal case. Gibson’s 305 line poem
-- a meditation on Gibson’s and his father’s youth and their relationship
+presented as loose leaves inside the metal case. Gibson’s 305 line poem - a meditation on Gibson’s and his father’s youth and their relationship
 with the photographic images Gibson Snr made during his life - is
 arguably the most striking aspect of the work, and accordingly of most
 interest to digital writers. the poem is contained on a 1.4Mb diskette
