@@ -50,16 +50,16 @@ Gibson and Ashbaugh’s *Aggripa* is presented as follows (text reproduced
 from UC Santa Barbara’s exemplary [Agrippa Files](http://agrippa.english.ucsb.edu/) site, which
 examines the book in all its aspects and contents):
 
-The Deluxe Edition of *Agrippa* comes in a heavy, distressed case. In
-the honeycombed bed of the under-case, wrapped in a shroud, lies the 11⅛
-x 15 ⅞ x 1⅛ inch book, whose title is hand-burned into the cover. The
-Deluxe Edition contains 63 viewable pages with ragged, sometimes
-scorched edges, including copperplate aquatint etchings by Dennis
-Ashbaugh alluding to DNA gel patterns and body text pages consisting of
-dual, 42-line columns excerpting a DNA sequence from thebicoid maternal
-morphogen gene of the fruitfly. Page 63 (and another underlying 20 pages
-glued together) has a hollowed-out cavity holding the diskette with
-William Gibson’s poem.
+>The Deluxe Edition of *Agrippa* comes in a heavy, distressed case. In
+>the honeycombed bed of the under-case, wrapped in a shroud, lies the 11⅛
+>x 15 ⅞ x 1⅛ inch book, whose title is hand-burned into the cover. The
+>Deluxe Edition contains 63 viewable pages with ragged, sometimes
+>scorched edges, including copperplate aquatint etchings by Dennis
+>Ashbaugh alluding to DNA gel patterns and body text pages consisting of
+>dual, 42-line columns excerpting a DNA sequence from thebicoid maternal
+>morphogen gene of the fruitfly. Page 63 (and another underlying 20 pages
+>glued together) has a hollowed-out cavity holding the diskette with
+>William Gibson’s poem.
 
 *Agrippa* originally appeared during the earliest years of contemporary
 digital technology, and reflects a number of concerns under discussion
