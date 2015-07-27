@@ -1,7 +1,7 @@
 ---
 title: "The wealth of change"
 date: "2015-07-25 14:22:10"
-return: /This_is_not_a_disruption.html
+category: This_is_not_a_disruption
 ---
 
 > When the individual scientist can take a paradigm for granted, he need

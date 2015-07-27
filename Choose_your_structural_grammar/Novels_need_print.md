@@ -1,7 +1,7 @@
 ---
 title: "Novels need print"
 date: "2015-07-25 13:52:54"
-return: /Choose_your_structural_grammar.html
+category: Choose_your_structural_grammar
 ---
 
 The novel has a longer history than people expect. How long, exactly, is

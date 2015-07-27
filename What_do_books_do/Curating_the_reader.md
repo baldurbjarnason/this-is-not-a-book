@@ -1,7 +1,7 @@
 ---
 title: "Curating your reader"
 date: "2015-07-25 13:51:06"
-return: /What_do_books_do.html
+category: What_do_books_do
 ---
 
 Okay, time to move on to something else, but before we go, a few

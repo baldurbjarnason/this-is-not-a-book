@@ -1,7 +1,7 @@
 ---
 title: "What can distract"
 date: "2015-07-25 14:10:32"
-return: /Ambience.html
+category: Ambience
 ---
 
 Nothing, and everything, on a spectral scale. It really depends on how

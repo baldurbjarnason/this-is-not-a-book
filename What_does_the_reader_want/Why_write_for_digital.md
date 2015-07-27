@@ -1,7 +1,7 @@
 ---
 title: "Why do we want to write for a digital platform?"
 date: "2015-07-25 13:13:45"
-return: /What_does_the_reader_want.html
+category: What_does_the_reader_want
 ---
 
 Now that’s a question we’re not going to approach an answer for. You

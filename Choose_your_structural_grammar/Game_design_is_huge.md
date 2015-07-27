@@ -1,7 +1,7 @@
 ---
 title: "Games design is huge."
 date: "2015-07-25 13:55:32"
-return: /Choose_your_structural_grammar.html
+category: Choose_your_structural_grammar
 ---
 
 Lucky for us, there are a lot of books and websites covering the subject

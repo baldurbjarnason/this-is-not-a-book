@@ -1,6 +1,7 @@
 ---
 title: "’Hackathons’ aren’t useful"
 date: "2015-07-25 13:06:44"
+category: What_is_digital_writing
 ---
 
 They have little to no practical value for *making* in most cases and

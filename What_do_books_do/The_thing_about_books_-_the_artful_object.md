@@ -1,7 +1,7 @@
 ---
 title: "The thing about books – the artful object"
 date: "2015-07-25 13:49:35"
-return: /What_do_books_do.html
+category: What_do_books_do
 ---
 
 There’s an art to books. Not just in the writing but in the physical

@@ -1,7 +1,7 @@
 ---
 title: "The Print Paradigm"
 date: "2015-07-25 14:19:32"
-return: /This_is_not_a_disruption.html
+category: This_is_not_a_disruption
 ---
 
 > When, in the development of a natural science, an individual or group

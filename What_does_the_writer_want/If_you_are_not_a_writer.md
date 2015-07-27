@@ -1,7 +1,7 @@
 ---
 title: "If you are not a writer"
 date: "2015-07-25 13:34:53"
-return: /What_does_the_writer_want.html
+category: What_does_the_writer_want
 ---
 
 Then what’s written above is doubly important. Good digital work

@@ -1,7 +1,7 @@
 ---
 title: "Neoteric"
 date: "2015-07-25 13:37:29"
-return: /What_does_the_writer_want.html
+category: What_does_the_writer_want
 ---
 
 The Mote in Your Eye

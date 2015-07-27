@@ -1,7 +1,7 @@
 ---
 title: "Early obsolescence"
 date: "2015-07-25 13:30:34"
-return: /What_does_the_writer_want.html
+category: What_does_the_writer_want
 ---
 
 **All digital projects are going to be obsolete with the next (OS, new

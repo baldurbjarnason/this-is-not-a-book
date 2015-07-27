@@ -1,7 +1,7 @@
 ---
 title: "The adaptive radiation of modern media"
 date: "2015-07-25 14:21:54"
-return: /This_is_not_a_disruption.html
+category: This_is_not_a_disruption
 ---
 
 We don’t need a theory for disruptive innovation because practice is
