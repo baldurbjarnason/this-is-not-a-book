@@ -47,7 +47,7 @@ conversation about the borders of the Avant Garde, as it might be
 applied to the book.
 
 Gibson and Ashbaugh’s *Aggripa* is presented as follows (text reproduced
-from UC Santa Barbara’s exemplary ‘\[Agrippa Files\]’ site, which
+from UC Santa Barbara’s exemplary [Agrippa Files](http://agrippa.english.ucsb.edu/) site, which
 examines the book in all its aspects and contents):
 
 The Deluxe Edition of *Agrippa* comes in a heavy, distressed case. In
@@ -78,8 +78,7 @@ and when inserted into a 1992-era Macintosh computer, displays the whole
 text, line by line, as it slowly scrolls up the screen. On completion of
 the ‘reading’, the poem is encrypted by an additional programme within
 the disc, rendering it unreadable, remaining in existence only as the
-reader’s memory of the text, of their experience. ++can we insert video?
-there’s a copy of the poem in simulation online++
+reader’s memory of the text, of their experience. 
 
 What makes *Agrippa* such a pertinent example of digital writing is the
 implicit connection between subject matter and overarching theme, and
