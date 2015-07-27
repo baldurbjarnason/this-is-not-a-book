@@ -1,7 +1,8 @@
 ---
 title: "So, what is digital writing?"
 date: "2015-07-25 13:02:34"
-return: /The_Form_of_the_Thing.html
+category: The_Form_of_the_Thing
+includeMap: true
 ---
 
 Writing is a personal process. There are books, and courses, and classes

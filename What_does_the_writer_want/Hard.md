@@ -1,7 +1,7 @@
 ---
 title: "Digital is hard"
 date: "2015-07-25 13:30:05"
-return: /What_does_the_writer_want.html
+category: What_does_the_writer_want
 ---
 
 This one isn’t without merit - knowing what you want, how to achieve it,

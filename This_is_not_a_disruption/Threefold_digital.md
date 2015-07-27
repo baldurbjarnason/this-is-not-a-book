@@ -1,7 +1,7 @@
 ---
 title: "The three strands of digital"
 date: "2015-07-25 14:20:57"
-return: /This_is_not_a_disruption.html
+category: This_is_not_a_disruption
 ---
 
 > In the interim, however, during the period when the paradigm is

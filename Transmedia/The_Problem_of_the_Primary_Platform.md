@@ -1,7 +1,7 @@
 ---
 title: "The Problem of the Primary Platform"
 date: "2015-07-25 13:44:50"
-return: /Transmedia.html
+category: Transmedia
 ---
 
 The digital site is an example of unease and paranoid behaviour. The

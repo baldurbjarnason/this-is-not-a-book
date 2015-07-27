@@ -1,6 +1,7 @@
 ---
 title: "Digital writing is messy and full of seams"
 date: "2015-07-25 13:03:59"
+category: What_is_digital_writing
 ---
 
 Like so many other media, digital writing started out by copying its

@@ -1,6 +1,7 @@
 ---
 title: "Iterate away from things, not towards them"
 date: "2015-07-25 13:05:29"
+category: What_is_digital_writing
 ---
 
 You think you know where you’re going? You don’t. You know where you

@@ -1,7 +1,7 @@
 ---
 title: "Would I do this again?"
 date: "2015-07-25 13:53:52"
-return: /Choose_your_structural_grammar.html
+category: Choose_your_structural_grammar
 ---
 
 Back when I was a kid in gagnfræðaskóli (the Icelandic equivalent of

@@ -1,6 +1,7 @@
 ---
 title: "Writing in the age of the web"
 date: "2015-07-25 14:32:24"
+category: Metadata
 ---
 
 This is not a book. But it *is*:

@@ -1,7 +1,7 @@
 ---
 title: "A stillborn hybrid – the ebook ‘killer bee’ born of two paradigms"
 date: "2015-07-25 14:21:31"
-return: /This_is_not_a_disruption.html
+category: This_is_not_a_disruption
 ---
 
 (The lies are an attempt to pander to a dead paradigm which can never

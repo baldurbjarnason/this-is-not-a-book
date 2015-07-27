@@ -10,6 +10,12 @@ layout: layout
 <div class="e-content EntryContent EntryContent--page{% if page.tags %} EntryContent--{{ page.tags | first }}{% endif %}">
 {{ content }}
 </div>
-{% if page.return %}<hr><p class="Entry-return"><a href="{{ page.return }}">&larr; Back</a></p>{% endif %}
+{% if page.category %}<hr><p class="Entry-return"><a href="/{{ page.category }}.html">&larr; Back</a></p>{% endif %}
+
+
+<footer>
+<p class="ReadMore"><a href="https://twitter.com/intent/tweet?url={{ "https://thisisnotabook.baldurbjarnason.com" | uri_escape }}{{ page.url }}&amp;related=fakebaldur,tomabba&amp;text={{ "This is not a book: " | uri_encode }}{{ page.title | strip_html | uri_encode }}">Share on Twitter</a> <a href="https://github.com/baldurbjarnason/this-is-not-a-book">Github</a> <a href="/Map.html">Site Map</a></p>
+
+</footer>
 </article>
 </main>

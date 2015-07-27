@@ -46,8 +46,8 @@ p {
 }
 
 p+p, .decking+p {
-	text-indent: 1.5em;
-  margin-top: 0.5rem;
+	/* text-indent: 1.5em; */
+  margin-top: 0.75rem;
 }
 
 hr {
@@ -134,4 +134,9 @@ footer {
 
 .houseblue {
   color: #6086d1;
+}
+
+li > ul {
+  list-style: circle;
+  margin: 0;
 }
