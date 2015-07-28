@@ -72,7 +72,7 @@ explore our common ancestry though images printed on rag paper and
 presented as loose leaves inside the metal case. Gibson’s 305 line poem - a meditation on Gibson’s and his father’s youth and their relationship
 with the photographic images Gibson Snr made during his life - is
 arguably the most striking aspect of the work, and accordingly of most
-interest to digital writers. the poem is contained on a 1.4Mb diskette
+interest to digital writers. The poem is contained on a 1.4Mb diskette
 and when inserted into a 1992-era Macintosh computer, displays the whole
 text, line by line, as it slowly scrolls up the screen. On completion of
 the ‘reading’, the poem is encrypted by an additional programme within
