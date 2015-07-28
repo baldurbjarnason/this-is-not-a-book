@@ -17,10 +17,10 @@ caught.
 
 Readers do like what is familiar. They like to be told a story - a
 little while after her death, a Susan Sontag essay addressed this
-point(fn), she remarks that ‘A novel is not a set of proposals, or a
+point[^1]; she remarks that ‘*A novel is not a set of proposals, or a
 list, or a collection of agendas, or an (open-ended, revisable)
 itinerary. It is the journey itself – made, experienced and
-completed’(fn). However, as the title of this book suggests, digital
+completed*’[^2]. However, as the title of this book suggests, digital
 stories are not *necessarily* novels, and that’s a critical distinction.
 If we persist in thinking of them as a novelistic form, in creating them
 that way and assessing them against the requirements of the conventional
@@ -42,3 +42,7 @@ Because we can’t not write.
 - *[What is a digital book?](/What_does_the_reader_want/What_is_a_digital_book.html)* Cheating. What it isn't. Public and private. Purpose.
 - *[Agrippa](/What_does_the_reader_want/Agrippa.html).* Blast from the past. Scarcity. Form and content. Everything is connected.
 - *[Choose your own adventure](/What_does_the_reader_want/Choose_your_own_adventure.html).* Why not. Lowest common denominator. Contexts. Avoiding remediation.
+
+[^1]: It’s not available at the Guardian website anymore, but here’s a cheeky link: [http://laurencemiall.com/stuff/pay-attention-to-the-world/]
+
+[^2]: The whole essay is sublime, perfect and a genuinely must-read for anyone thinking of writing for new platforms and audiences,. Know what the territory is, and address it. Especially if you think you can do better. 
