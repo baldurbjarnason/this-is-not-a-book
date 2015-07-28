@@ -113,8 +113,8 @@ pages. We make sense of what we can, and we search for the rest.
 A transposition of House of Leaves has to start somewhere, though, and
 in the absence of the author, I offer this:
 
-I have a folder on my laptop. It is called \_‘House Of Leaves
-Exploration \#4\_’. Honestly, I do not know where it came from, other
+I have a folder on my laptop. It is called *‘House Of Leaves
+Exploration #4*’. Honestly, I do not know where it came from, other
 than the sure knowledge that I downloaded it as a torrent file, and that
 this would have been sometime in the last 3 years (the age of this
 machine). The folder contains music files. A few I recognise from Poe’s
