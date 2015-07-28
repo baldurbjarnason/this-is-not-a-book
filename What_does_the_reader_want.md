@@ -45,4 +45,4 @@ Because we can’t not write.
 
 [^1]: It’s not available at the Guardian website anymore, but here’s a cheeky link: [http://laurencemiall.com/stuff/pay-attention-to-the-world/]
 
-[^2]: The whole essay is sublime, perfect and a genuinely must-read for anyone thinking of writing for new platforms and audiences,. Know what the territory is, and address it. Especially if you think you can do better. 
+[^2]: The whole essay is sublime, perfect and a genuinely must-read for anyone thinking of writing for new platforms and audiences. Know what the territory is, and address it. Especially if you think you can do better. 
