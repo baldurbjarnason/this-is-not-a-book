@@ -12,7 +12,8 @@ obscures with an obvious frame (we’ll amend this chapter when
 GoogleGlass II is available, and works, and doesn’t make you look like a
 dork), and sound operates in 360 degrees, not a 20/20 field. Binaural
 sound spatially transcends stereo, allowing a writer/designer the
-opportunity to create a genuinely immersed experience. 
+opportunity to create a genuinely immersed experience.
+
 ![Audio](http://tomabba.com/notabook/audio.jpg)
 
 [Circumstance](http://wearecircumstance.com)
