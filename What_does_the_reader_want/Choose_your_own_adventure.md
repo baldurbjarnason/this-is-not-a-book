@@ -4,9 +4,7 @@ date: "2015-07-25 13:15:09"
 return: /What_does_the_reader_want.html
 ---
 
-++to readers: this next bit is almost certainly going to be reworked in a major way
-- it doesn’t work as it is, but says useful things. Comments and edits
-are welcome++
+++to readers: this next bit is almost certainly going to be reworked in a major way - it doesn’t work as it is, but says useful things. Comments and edits are welcome++
 
 ##Why not Choose Your Own Adventure? 
 *Caveat - this short essay pertains to digital implementation of Choose Your Own Adventure. Paper is fine. Go for it.*
