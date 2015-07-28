@@ -36,8 +36,8 @@ paper engineered object.
 
 ![Francisca Preito's Antibook] (http://www.blankproject.co.uk/sites/default/files/styles/artwork_image/public/artwork/antibook_1.jpg?itok=tbF2nAmh)
 
-Francisca Preito’s Antibook, which exists as
-an origami icosahedron
+(Francisca Preito’s [Antibook] (http://www.blankproject.co.uk/artwork/antibook), which exists as
+an origami icosahedron)
 
 The nature of these approaches to making books might suggest a disregard
 for the reading experience, but closer examination of Artists Book
