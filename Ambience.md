@@ -93,12 +93,17 @@ or makes use of the ambient though, is not in short supply. We’d like to
 draw your attention to a few starting points if you want to read
 further:
 
-Teju Cole’s *Open City*. Robert MacFarlane’s *The Old Ways* and
-*Landmarks*. Iain Sinclair’s *London Orbital*, *Lights out for the
-Territory* and *Slow Chocolate Autopsy*. WG Sebald’s *Rings of Saturn*,
-and *Austerlitz*. Janet Cardiff’s work can be found here:
-<http://www.cardiffmiller.com/> Circumstance’s work can be found here:
-<http://wearecircumstance.com/>
+Teju Cole’s *Open City*. 
+
+Robert MacFarlane’s *The Old Ways* and *Landmarks*. 
+
+Iain Sinclair’s *London Orbital*, *Lights out for the Territory* and *Slow Chocolate Autopsy*. 
+
+WG Sebald’s *Rings of Saturn*, and *Austerlitz*. 
+
+Janet Cardiff’s work can be found [here](http://www.cardiffmiller.com/).
+
+Circumstance’s work can be found [here](http://wearecircumstance.com/).
 
 ***
 
