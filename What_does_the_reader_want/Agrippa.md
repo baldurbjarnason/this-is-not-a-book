@@ -17,7 +17,7 @@ Especially as it’s inbuilt rarity appears to exist in complete
 contradiction to digital’s mutiplicity. Artists make books to present
 work and express ideas. They live within a fine print tradition, and
 often challenge the physical conventions of the book to the point of
-being unreadable. 
+being unreadable.
 
 If we address their scarcity as a function of production, rather than
 intention (the processes used to make them are typically much more
@@ -34,7 +34,7 @@ something to be explored in an unlinear fashion. The whole book may be
 presented as one sheet of folded and cut paper, or take the form of a
 paper engineered object. 
 
-![Francisca Preito's Antibook](http://www.blankproject.co.uk/sites/default/files/styles/artwork_image/public/artwork/antibook_1.jpg?itok=tbF2nAmh)
+![Francisca Preito's Antibook](/images/antibook_1.jpg)
 
 (Francisca Preito’s [Antibook](http://www.blankproject.co.uk/artwork/antibook), which exists as
 an origami icosahedron)
@@ -77,7 +77,7 @@ and when inserted into a 1992-era Macintosh computer, displays the whole
 text, line by line, as it slowly scrolls up the screen. On completion of
 the ‘reading’, the poem is encrypted by an additional programme within
 the disc, rendering it unreadable, remaining in existence only as the
-reader’s memory of the text, of their experience. 
+reader’s memory of the text, of their experience.
 
 What makes *Agrippa* such a pertinent example of digital writing is the
 implicit connection between subject matter and overarching theme, and
