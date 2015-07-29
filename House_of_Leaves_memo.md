@@ -113,8 +113,13 @@ pages. We make sense of what we can, and we search for the rest.
 A transposition of <span class="houseblue">House</span> of Leaves has to start somewhere, though, and
 in the absence of the author, I offer this:
 
+<<<<<<< HEAD
+I have a folder on my laptop. It is called *‘House Of Leaves
+Exploration #4*’. Honestly, I do not know where it came from, other
+=======
 I have a folder on my laptop. It is called \_‘<span class="houseblue">House</span> Of Leaves
 Exploration \#4\_’. Honestly, I do not know where it came from, other
+>>>>>>> master
 than the sure knowledge that I downloaded it as a torrent file, and that
 this would have been sometime in the last 3 years (the age of this
 machine). The folder contains music files. A few I recognise from Poe’s
@@ -163,6 +168,4 @@ Digital is nothing if not dishonest.
 
 Thank you for reading. Now, back to the book.
 
-[^1]: Applied deliberately here. If <span class="houseblue">House</span> of Leaves is unadaptable,
-without changing some fundamental aspect of the book, then a
-transposition is the most sensible course.
+[^1]: Applied deliberately here. If <span class="houseblue">House</span> of Leaves is unadaptable, without changing some fundamental aspect of the book, then a transposition is the most sensible course.
