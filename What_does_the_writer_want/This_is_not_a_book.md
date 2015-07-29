@@ -1,7 +1,7 @@
 ---
 title: "This is not a book"
 date: "2015-07-25 13:36:34"
-return: /What_does_the_writer_want.html
+category: What_does_the_writer_want
 ---
 
 We believe every word we’ve written here. Especially the short ‘What is

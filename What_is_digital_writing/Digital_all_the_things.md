@@ -1,6 +1,7 @@
 ---
 title: "You cannot, and never should, ‘digital’ something for someone"
 date: "2015-07-25 13:07:39"
+category: What_is_digital_writing
 ---
 
 If some bright spark anywhere, no matter how well paid they are,

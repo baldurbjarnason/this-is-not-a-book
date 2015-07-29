@@ -1,6 +1,7 @@
 ---
 title: "Version control, please!"
 date: "2015-07-25 13:09:17"
+category: What_is_digital_writing
 ---
 
 *For the love of God, use version control and then back it up, offsite.*

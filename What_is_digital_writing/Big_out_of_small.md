@@ -1,6 +1,7 @@
 ---
 title: "Build big things out of the small"
 date: "2015-07-25 13:06:04"
+category: What_is_digital_writing
 ---
 
 If you want to make something interesting, something that challenges

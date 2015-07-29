@@ -1,6 +1,7 @@
 ---
 title: "It’s fine not to know what you’re doing"
 date: "2015-07-25 13:07:14"
+category: What_is_digital_writing
 ---
 
 *No-one else out there has the faintest idea what they’re doing either.*

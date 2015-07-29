@@ -1,7 +1,7 @@
 ---
 title: "Digital is expensive"
 date: "2015-07-25 13:29:33"
-return: /What_does_the_writer_want.html
+category: What_does_the_writer_want
 ---
 
 Bullshit. Digital can be expensive, and digital projects made without a

@@ -1,7 +1,7 @@
 ---
 title: "What is a book?"
 date: "2015-07-25 13:01:25"
-return: /The_Form_of_the_Thing.html
+category: The_Form_of_the_Thing
 ---
 
 What’s your relationship to a written work? Peter Mendelsund explores

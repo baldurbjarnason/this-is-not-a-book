@@ -1,7 +1,7 @@
 ---
 title: "Choose your own clichè"
 date: "2015-07-25 13:31:25"
-return: /What_does_the_writer_want.html
+category: What_does_the_writer_want
 ---
 
 **Digital is choose-your-own-adventure / open-ended / transmedia /

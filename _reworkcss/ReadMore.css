@@ -14,12 +14,10 @@
 .ReadMore a {
 	text-decoration: none;
 display: inline-block;
-padding: 0.5rem 1rem;
-color: var(--button-color);
-background-color: var(--button-background);
-border-radius: 1rem;
-width: 100%;
+padding: 8px;
+background-color: #f9f9e0;
+color: black;
 text-align: center;
-max-width: 333px;
-	border: 1px solid var(--button-border);
+text-transform: uppercase;
+margin-right: 0.5rem;
 }

@@ -1,6 +1,7 @@
 ---
 title: "Critics are useless"
 date: "2015-07-25 13:08:29"
+category: What_is_digital_writing
 ---
 
 For just the same reason as the ‘faintest idea’ rule above. Just ignore

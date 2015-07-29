@@ -1,7 +1,7 @@
 ---
 title: "The thing about books – affordances"
 date: "2015-07-25 13:50:12"
-return: /What_do_books_do.html
+category: What_do_books_do
 ---
 
 A book is a set of structural affordances wrapped up in paper. Much like

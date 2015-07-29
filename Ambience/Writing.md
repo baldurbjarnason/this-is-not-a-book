@@ -1,7 +1,7 @@
 ---
 title: "Writing"
 date: "2015-07-25 14:11:54"
-return: /Ambience.html
+category: Ambience
 ---
 
 The ubiquity of digital media shouldn’t be taken to mean that always-on

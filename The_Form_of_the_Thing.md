@@ -47,6 +47,6 @@ and potentials that are markedly different to digital.
 
 - *[What is a book?](/The_Form_of_the_Thing/What_is_a_book.html)*. Relationships and difference. Fish. Affordances.
 
-- *[What is digital writing?](/The_Form_of_the_Thing/What_is_digital_writing.html)*. Messy and full of seams. For an audience. Communities. Iteration. Big out of small. Failures. Snapshots. Critics. Version control.
+- *[What is digital writing?](/What_is_digital_writing.html)*. Messy and full of seams. For an audience. Communities. Iteration. Big out of small. Failures. Snapshots. Critics. Version control.
 
 - *[The medium matters](/The_Form_of_the_Thing/The_Medium_Matters.html)*. Expressive. John Dewey. Marshal McLuhan. Language. Art. The youth of the medium.

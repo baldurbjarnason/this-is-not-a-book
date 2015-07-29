@@ -1,7 +1,7 @@
 ---
 title: "What is a digital book?"
 date: "2015-07-25 13:14:12"
-return: /What_does_the_reader_want.html
+category: What_does_the_reader_want
 ---
 
 It’s cheating to offer a definition that’s built on absences, but a

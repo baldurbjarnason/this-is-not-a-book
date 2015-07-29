@@ -1,7 +1,7 @@
 ---
 title: "Architecture"
 date: "2015-07-25 14:09:06"
-return: /Ambience.html
+category: Ambience
 ---
 
 Look up. Look at every facade, and each piece of decoration, each tiny

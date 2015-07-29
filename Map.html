@@ -1,0 +1,23 @@
+---
+title: Map
+category: Metadata
+---
+
+<ul>
+{% for page in site.pages %}
+{% if page.category == nil or page.includeMap == true %}
+{% if page.title %}
+  <li id="{{ page.title | slugify }}"><a href="{{ page.url }}">{{ page.title }}</a>
+  <ul>
+  {% capture slug %}{{ page.path | replace:"/" | replace:".md" }}{% endcapture %}
+    {% for sub in site.pages %}
+    {% if sub.category == slug %}
+    <li id="{{ sub.title | slugify }}"><a href="{{ sub.url }}">{{ sub.title }}</a></li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+  </li>
+{% endif %}
+{% endif %}
+{% endfor %}
+<ul>
