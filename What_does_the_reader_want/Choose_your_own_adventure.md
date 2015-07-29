@@ -4,16 +4,13 @@ date: "2015-07-25 13:15:09"
 category: What_does_the_reader_want
 ---
 
-++this next bit is almost certainly going to be reworked in a major way
-- it doesn’t work as it is, but says useful things. Comments and edits
-are welcome++
+++to readers: this next bit is almost certainly going to be reworked in a major way - it doesn’t work as it is, but says useful things. Comments and edits are welcome++
 
-Why not Choose Your Own Adventure? *Caveat - this short essay pertains
-to digital implementation of Choose Your Own Adventure. Paper is fine.
-Go for it.*
+##Why not Choose Your Own Adventure? 
+*Caveat - this short essay pertains to digital implementation of Choose Your Own Adventure. Paper is fine. Go for it.*
 
-(This essay originally came about because Duncan Speakman\[\] tweeted to
-suggest the Sherlock Holmes piece we were working on could offer more in
+(This essay originally came about because [Duncan Speakman](http://www.wearecircumstance.com) tweeted to
+suggest the [Sherlock Holmes piece](http://www.ahollowbody.com) we were working on could offer more in
 the way of agency to the participant, proposing a caveat that he knows
 how much I hate CYOA)
 
@@ -97,8 +94,9 @@ As we work our way through the text, we are continually aware of how far
 we’ve come and how far we have to go in a simultaneous, forward/backward
 state. I’m a short way through this book, and so there’s a lot of story
 to go, a lot of things still to happen, a lot to be told by the author.
-All of those things are tied up in the physical form of the book. CYOA
-messes with our heads. It subverts those physical affordances of the
+All of those things are tied up in the physical form of the book. 
+
+CYOA messes with our heads. It subverts those physical affordances of the
 book, or the page count and offers us something markedly different. The
 story does not go as far as the end of the book, in fact it’s very
 likely that it will end - through decisions we’ve taken, or by the
@@ -126,7 +124,7 @@ ape an analogue antecedent as if it were still 1995 is a missed
 opportunity.
 
 That’s not to say there have not been valuable steps in a natively
-digital direction. Geoff Ryman’ *253* (ryman-novel.com) is a
+digital direction. Geoff Ryman’s [*253*](http://www.ryman-novel.com) is a
 hypertextual, CYOA-derived text that does something new with the form,
 and does so well aware that it is being read in a digital space, not as
 a book (the print remix of 253, published after the fact, falls far
@@ -135,7 +133,7 @@ extends into digital non-space, it’s physical analogue the boundaries of
 a tube train, rendered through html tables and textual links, by the
 relationship of one passenger to another.
 
-Robin Sloan’s *Fish* (http://www.robinsloan.com/fish/) isn’t CYOA, but
+Robin Sloan’s [*Fish*](http://www.robinsloan.com/fish/) isn’t CYOA, but
 is hypertextual writing. Sloan is completely aware of the mechanic that
 hypertext offers, and *Fish* is designed to reflect that mechanic. It
 can’t be read any way other that forward, and the skim-reading we’re
@@ -149,8 +147,7 @@ CYOA, as a digital catch-all solution - if you want to see how far this
 perception permeates then try having a conversation with; a TV
 executive, a publisher, a director; in fact anyone who works with story
 and storytelling (Bring up digital storytelling and set a timer - you’ll
-have to deal with the CYOA question before the end of the first coffee)
-- is a vicious double-edged sword. It opens a conversation, and provides
+have to deal with the CYOA question before the end of the first coffee) - is a vicious double-edged sword. It opens a conversation, and provides
 common ground, something that everyone present can understand, and
 curtails that conversation by its sheer ubiquity (BBC, I am looking at
 you here, you are guilty of this in spades). That it provides a common
@@ -180,10 +177,12 @@ that can only be told that way, stories that don’t remediate existing
 narratives, or are simply being shoehorned into a CYOA shape because it
 looks easy to do so.
 
-There are two things you can guarantee as a result of that: 1. It isn’t
-as easy as it looks. CYOA is a particular mechanic, and form is tied to
-content in ways we haven’t figured out yet. 2. Shoehorning is painful
-and unnecessary. Your readers will be unsatisfied, no-one outside your
+There are two things you can guarantee as a result of that: 
+
+1. It isn’t as easy as it looks. CYOA is a particular mechanic, and form is tied to
+content in ways we haven’t figured out yet. 
+
+2. Shoehorning is painful and unnecessary. Your readers will be unsatisfied, no-one outside your
 production team will think it’s any good, and you won’t have told a good
 story. Not even close.
 

@@ -13,6 +13,8 @@ Security? What does that tell you about what’s inside. What about the
 doorway; does anyone sleep in it? If so, is there a trace of them the
 next day? What is the pavement made of? The road?
 
+![architecture](http://tomabba.com/notabook/architecture.jpg)
+
 Stanley Kubrick had his nephew, Manuel Harlan, document an entire road
 for pre-production on *Eyes Wide Shut*, stitching photographs together
 into a 6-meter-long recreation of space in order that his uncle could
