@@ -163,6 +163,4 @@ Digital is nothing if not dishonest.
 
 Thank you for reading. Now, back to the book.
 
-[^1]: Applied deliberately here. If <span class="houseblue">House</span> of Leaves is unadaptable,
-without changing some fundamental aspect of the book, then a
-transposition is the most sensible course.
+[^1]: Applied deliberately here. If <span class="houseblue">House</span> of Leaves is unadaptable, without changing some fundamental aspect of the book, then a transposition is the most sensible course.
