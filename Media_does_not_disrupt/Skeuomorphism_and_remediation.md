@@ -14,7 +14,7 @@ single mind performing a single act, is doing the same: some copy from
 their elders, some search for the new and the native. It’s all
 problematic, of course (it wouldn’t be fun otherwise).
 
-N Katherine Hayles Writing Machines calls to attention the instability
+N Katherine Hayles [*Writing Machines*](https://mitpress.mit.edu/books/writing-machines) calls to attention the instability
 of material transfers between forms. She proposes Material Specificity
 as a mechanism by which to deconstruct the existence of texts in a
 mixed-media ecology. For Hayles, a number of texts composed in our
@@ -32,8 +32,8 @@ has been written many times that the computer - initially the beige box
 on your desk, then the silver-grey laptop and now the smartphone and
 tablet, is a medium that consumes all others. Several influential texts
 of what we might propose as the first-wave of digital criticism and
-futurology4 espouse this framework as a critical basis on which to
-approach content creation. Bolter and Grusin’s Remediation, an otherwise
+futurology espouse this framework as a critical basis on which to
+approach content creation. Bolter and Grusin’s *Remediation*, an otherwise
 thorough study of early new media and the emergence of natively digital
 artefacts, makes the error of leaving the wisdom of this foundation
 unchallenged.
