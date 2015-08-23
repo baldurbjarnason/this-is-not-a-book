@@ -16,7 +16,7 @@ This is not a book. But it *is*:
 
 … written by a couple of over-educated opinion-givers. The 'I' in this text could refer to either one of us.
 
-… over 34 000 words of observations you can easily ignore.
+… over 38 000 words of observations you can easily ignore.
 
 … woefully incomplete and still in progress.
 
