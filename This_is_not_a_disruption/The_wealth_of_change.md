@@ -45,8 +45,3 @@ This is a *no win* situation because the pundit controls the frame of the discus
 Occasionally, especially on Twitter, you will find the pundit using a slightly different setup to this routine. The cycle isn't triggered by a post but by the pundit coming in with an innocent question—often one that's either a bit strange or out of the left-field. You answer, and before you know it, you've been pulled into a cycle of nonsense where the pundit is trying to brand you as a troll, crank, or madman in front of their chosen community.
 
 No good comes from engaging with these people.
-
-
-
-\[And this. The point is that debating print paradigm people is utterly
-pointless.\]
