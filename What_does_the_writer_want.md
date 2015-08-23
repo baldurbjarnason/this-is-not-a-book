@@ -37,3 +37,4 @@ for granted. Because we don’t take about dominant ideologies, here goes:
 - *[Believe what you write](/What_does_the_writer_want/This_is_not_a_book.html)*. This is not a book.
 - *[Neoteric](/What_does_the_writer_want/Neoteric.html)*. The mote.
 - *[Escalating requirements](/What_does_the_writer_want/Escalating_requirements.html)*: cyanide for projects.
+- *[Choose your context](/What_does_the_writer_want/Choose_your_context.html)* and work better.
