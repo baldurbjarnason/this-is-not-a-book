@@ -12,7 +12,7 @@ have at the start, decades ago, but the web, ebooks, interactive media,
 and apps have each manifestly become their own thing, each growing on
 its own in new directions.
 
-The development of ereaders are a microcosm of this process. iBooks
+The development of ereaders are a microcosm of this process. Apple's iBooks
 launched as little more than a book simulator but with its latest
 version it supports dynamic EPUB3 files, multi-touch ebooks created in
 iBooks Author, and interactive fixed layout ebooks, each less book-like
@@ -22,7 +22,7 @@ than their predecessor.
 desire to replicated print conventions and systems that have evolved
 over many years, but those issues are irrelevant to this discussion.)
 
-Ebook platforms such as the Kindle and the late, lamented Readmill cite
+Ebook platforms such as the Kindle and the late, lamented [Readmill](https://readmill.com/) cite
 social reading, shared highlights and annotations, and discussions as
 big features of their systems. The ebook, from the reader’s perspective,
 has evolved into a beast very unlike the printed book with advantages,

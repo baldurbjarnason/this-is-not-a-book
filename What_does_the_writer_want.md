@@ -36,3 +36,4 @@ for granted. Because we don’t take about dominant ideologies, here goes:
 - *[If you're not a writer](/What_does_the_writer_want/If_you_are_not_a_writer.html)*. The requirements of good work.
 - *[Believe what you write](/What_does_the_writer_want/This_is_not_a_book.html)*. This is not a book.
 - *[Neoteric](/What_does_the_writer_want/Neoteric.html)*. The mote.
+- *[Escalating requirements](/What_does_the_writer_want/Escalating_requirements.html)*: cyanide for projects.
