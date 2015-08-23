@@ -260,3 +260,5 @@ to react to what Area X contains.
 Platform](/Transmedia/The_Problem_of_the_Primary_Platform.html)*. Primary versus secondary. More on <http://www.thesouthernreach.com/>.
 
 - *[Unchapters and the Raw Shark Texts](/Transmedia/Unchapters.html)*. Steven Hall. Finding. Cross-media.
+
+* *[Fan fiction is what transmedia wanted to be](/Transmedia/Fan_fiction_is_what_transmedia_wanted_to_be.html)*
