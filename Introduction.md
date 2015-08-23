@@ -61,5 +61,5 @@ and offer ideas, and some of them will find a home.
 
 ***
 
-- *[The stories we tell in digital](The_stories_we_tell_in_digital.html)
-- *[The stories we miss in digital](The_stories_we_miss_in_digital.html)
+- *[The stories we tell in digital](/Introduction/The_stories_we_tell_in_digital.html)
+- *[The stories we miss in digital](/Introduction/The_stories_we_miss_in_digital.html)
