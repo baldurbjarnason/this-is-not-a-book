@@ -22,7 +22,7 @@ This is not a book. But it *is*:
 
 ***
 
-- *[Introduction](/The_Blindness_of_Mandated_Prophecy.html)*. The blindness of mandated prophecy.
+- *[Introduction](/Introduction.html)*. The blindness of mandated prophecy.
 
 - *[How did we get here?](/Media_does_not_disrupt.html)*. Media doesn’t disrupt, it speciates.
 
