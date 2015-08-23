@@ -1,7 +1,9 @@
 ---
-title: "The blindness of mandated prophecy"
+title: "Introduction"
 date: "2015-07-25 12:57:24"
 ---
+
+## The blindness of mandated prophecy
 
 > Take the case of Alexander the Great. He is once again about to make a
 > far-reaching decision, and has been told of a woman who can predict
@@ -56,3 +58,8 @@ The world is in flux, and so is writing. As creators in a networked
 world, we can sit by the shore and wait for a defining text, watching
 the tide for each sighting of a sail on the horizon, or we can write,
 and offer ideas, and some of them will find a home.
+
+***
+
+- *[The stories we tell in digital](The_stories_we_tell_in_digital.html)
+- *[The stories we miss in digital](The_stories_we_miss_in_digital.html)
