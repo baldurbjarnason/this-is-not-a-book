@@ -1,5 +1,5 @@
 ---
-title: "Escalating requirements\: cyanide for projects"
+title: "Escalating requirements – cyanide for projects"
 date: "2015-08-22 13:51:53"
 category: What_does_the_writer_want
 ---
