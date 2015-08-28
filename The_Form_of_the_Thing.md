@@ -32,7 +32,7 @@ Obligatory mis-quotation from Nick Cave:
 There’s nothing wrong with digitising books, but there’s a fundamental
 mistruth at the heart of the e/print relationship. The book is an
 object, and as we’ve suggested in the previous chapter, digital text is
-fluid, and can change. A physical book cannot do that. 
+fluid, and can change. A physical book cannot do that.
 
 But we persist in seeing one thing as the other. We write one thing and
 accept the imperfections of the surgery to transpose that one thing from
@@ -50,3 +50,5 @@ and potentials that are markedly different to digital.
 - *[What is digital writing?](/What_is_digital_writing.html)*. Messy and full of seams. For an audience. Communities. Iteration. Big out of small. Failures. Snapshots. Critics. Version control.
 
 - *[The medium matters](/The_Form_of_the_Thing/The_Medium_Matters.html)*. Expressive. John Dewey. Marshal McLuhan. Language. Art. The youth of the medium.
+
+- *[Don't get seduced by adaptations](/The_Form_of_the_Thing/Do_not_get_seduced_by_adaptations.html)*. Own your successes.
