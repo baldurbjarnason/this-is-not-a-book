@@ -52,3 +52,5 @@ and potentials that are markedly different to digital.
 - *[The medium matters](/The_Form_of_the_Thing/The_Medium_Matters.html)*. Expressive. John Dewey. Marshal McLuhan. Language. Art. The youth of the medium.
 
 - *[Don't get seduced by adaptations](/The_Form_of_the_Thing/Do_not_get_seduced_by_adaptations.html)*. Own your successes.
+
+- *[The problem with comments](/The_Form_of_the_Thing/The_problem_with_comments.html)*. Don't be rude.
