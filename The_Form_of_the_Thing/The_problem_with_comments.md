@@ -21,7 +21,7 @@ Of all these options, the first one is not only the easiest, it is also the tact
 
 One of the common arguments for keeping comments on a site is the idea that in doing so you pull in discussions from the web that would otherwise take place somewhere else.
 
-This is untrue in quite a few ways.
+This is untrue in a couple of ways.
 
 1. The discussion will *always* be spread across the web. Social media means that any hope of controlling or centralising the discussion was lost ages ago.
 2. Keeping track of all of other people's discussions is a very bad idea. Some, sure. All, no.
