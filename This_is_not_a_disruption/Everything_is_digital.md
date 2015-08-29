@@ -34,6 +34,8 @@ connections that imply structure. It isn’t amorphous but [loosely
 coupled](http://en.wikipedia.org/wiki/Loose_coupling) and, yes, a little
 bit messy.
 
+(And of course, from this perspective the print world looks stiff, unyielding, and full of meaningless busy-work so incomprehension of the other paradigm very much goes both ways.)
+
 Because the networked worldview is all about loose coupling and
 adaptation to changing environments, print is a first class citizen.
 Print books can be made that only make sense in a networked context.
@@ -49,11 +51,12 @@ as a proxy for the material form.
 
 The network’s trump card is the fact that its worldview offers a clearer
 path towards solving the problems facing modern book production, both
-print and digital. From the print perspective each format requires its
-own expensive and involved production pipeline. It doesn’t matter if its
+print and digital. From the print perspective each format has to go through an expensive and involved production pipeline. It doesn’t matter if its
 a hardcover, paperback, or an ebook, they all have to pass through the
-same sort of error-prone, inflexible, and slow pipeline: Editing -&gt;
-Design -&gt; Typesetting -&gt; Proofing -&gt; Distribution.
+same sort of error-prone, inflexible, and slow pipeline: Editing &rarr;
+Design &rarr; Typesetting &rarr; Proofing &rarr; Distribution.
+
+(It's error-prone because it tries to catch all errors in advance, which is impossible, but at the same time its extended production pipeline makes every error catastrophic and unfixable. The print pipeline magnifies errors.)
 
 From the networked perspective all representation is dynamic and all
 content is fluid. Removing the adaptability of digital media without
@@ -64,11 +67,15 @@ towards readers who don’t have tablets or have needs that don’t conform
 to the expectations you baked into the fixed layout ebook.
 
 Conversely, rendering a dynamic work into printed form isn’t an act of
-violence because you get something artful in return: a crafted object.
+violence, provided that it was a part of the work's design, because you get something artful in return: a crafted object.
+
+Some dynamic works don't lend themselves to linearity, like hypertexts, but it's a less of an act of violence to turn them into print than into ebooks. Print is simultaneously a medium, furniture, and a souvenir. It has value beyond its content while ebooks are a barely adequate delivery system for content with little value in and of themselves. Print's inherent value partially makes up for the violence of forcing linearity on non-linearity, especially when you consider that print enables more non-linearity than ebooks. Flipping back and forth in a book is easier in print and less confusing than in current ebooks.
+
 The art of the book as an object becomes *more* important in the
 networked world, not less, because that’s the role it plays in the
-larger networked picture—the value it brings to the table. Print
-production in this worldview is an iterative and fluid process, more
+larger networked picture—the value it brings to the table. Print is the souvenir—abstract ideas turned into display and furniture. It becomes a way of turning the implicit and unreal into something concrete and, yes, decorative.
+
+Print production in the networked worldview is an iterative and fluid process, more
 like sketching than the industrialised process of the print worldview.
 Print-ready PDFs can be rendered at every stage of writing, editing, and
 proofing. You can order one-off copies of your book on a whim using
@@ -80,15 +87,24 @@ non-digital grandmother—provided you’ve used tools built in the
 networked worldview where both an ebook and a print-ready PDF is only a
 button press away.
 
+Or you could do what me and my sister did and create a one off coffee table book of your grandmother's life and give it to her for her birthday.
+
+***
+
+> In the interim, however, during the period when the paradigm is
+> successful, the profession will have solved problems that its members
+> could scarcely have imagined and would never have undertaken without
+> commitment to the paradigm. And at least part of that achievement
+> always proves to be permanent. (Thomas S. Kuhn, The Structure of
+> Scientific Revolutions)
+
 The print worldview dismisses the network’s intrusions into print as
 being of a lower quality than what the print worldview’s processes
 create.
 
 But they are lying to themselves when they make that comparison because
 they are comparing on the one hand their process which is built on
-hard-earned, expensive, and rare expertise, and the digital process
-which is admittedly mediocre but is *consistently* mediocre and
-predictable and, as time goes by, needs less and less skill to operate.
+hard-earned, expensive, and rare expertise—people who can do this work well are few and their rates are high—and the digital process which is admittedly mediocre but is *consistently* mediocre and predictable and, as time goes by, needs less and less skill to operate. (That's provided you are doing it right, which a lot of people aren't.)
 
 Expert typesetting varies because experts vary. For every master
 designer you have a dozen rubbish InDesign operators churning out PDFs
@@ -96,6 +112,6 @@ that make PrinceXML’s output look like bloody [Robert
 Bringhurst](https://en.wikipedia.org/wiki/The_Elements_of_Typographic_Style).
 
 The networked worldview is already better at solving the problems print
-is facing than the print worldview itself and the network has much
+is facing than the print worldview itself. The network has much
 greater untapped resources for solving what so far has looked
 unsolvable.

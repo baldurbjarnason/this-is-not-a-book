@@ -20,16 +20,17 @@ actually going on. We lie to you by omitting important context because
 we labour under the delusion that skipping years of study will somehow
 make the issues *more* comprehensible to you, not less.
 
+And you, you want canned truth—easily opened and delivered, pre-digested so that you don't have to think about it—because you think knowledge and understanding is a liquid thing that can be poured from one container to another.
+
 Most of all, because we need you to listen and pay attention to what we
 say, we lie to you by telling you what you want to hear.
 
 We lie to you because it’s the only way to get you to listen, because we
-know you’ll never change your mind, and because it’s the only way to get
+know you’ll *never* change your mind, and because it’s the only way to get
 things done.
 
 Calling the various digital storytelling forms ‘hybrids’ is one such
-lie, albeit one of omission. It’s a useful lie for useful idiots and
-it’s been an essential touchstone concept for those of us who have been
+lie, albeit one of omission. It’s a useful lie for useful idiots. It’s been an essential touchstone concept for those of us who have been
 trying to work in traditional media—trying to arbitrate between the two
 paradigms. All at once it implies a blend of two forms—an attempt to get
 the best of both—a fidelity with the past, a marriage of equals, while
@@ -41,7 +42,7 @@ things.
 No matter how useful, it is a lie designed to flatter the past and is
 built on a thick, mucous layer of platonic essentialism: the idea that
 these forms can exist, or that their characteristics even make sense,
-outside of their native environments. It’s a tactic for navigating
+outside of their native environments—that abstract ideas exist somewhere pure and isolated from their context. It’s a tactic for navigating
 around those who are stuck in the print paradigm while you try to get
 things done.
 
@@ -50,8 +51,8 @@ specific kind of evolution in action.
 
 Now, a lot of people don’t actually understand the concept of
 evolution\[^1\]. They think they do but they don’t. In their minds
-evolution is a hotchpotch of progress, manifest destiny, all mixed in
-with a strange sprinkling of Protestant-style unconditional election.
+evolution is a hotchpotch of [progress](https://en.wikipedia.org/wiki/Idea_of_Progress#Myth_of_Progress), [manifest destiny](https://en.wikipedia.org/wiki/Manifest_destiny), all mixed in
+with a strange sprinkling of Protestant-style [unconditional election](https://en.wikipedia.org/wiki/Unconditional_election).
 
 (I’m not talking to *you*, of course. I’m talking about the other ones.
 The ones that brag about not understanding maths and how sciences “don’t
@@ -82,10 +83,10 @@ results is speciation.
 And that—speciation—is a word that comes a lot closer to describing what
 is happening in digital media than hybridisation, especially since
 hybridisation is merely one of the many forms that speciation can take.
-The former is a subset of the other. And sometimes it fails; sometimes
+The former is a subset of the other. Sometimes it fails; sometimes
 it doesn’t.
 
-So, let’s brush aside our jargon catch phrases for a moment. Let’s
+Let’s brush aside our jargon catch phrases for a moment; let’s
 forget disruption; let’s assume that the paradigm shift is behind us;
 and let’s just focus on what is happening in the here and now.
 
@@ -104,11 +105,9 @@ bear](https://en.wikipedia.org/wiki/Grizzly–polar_bear_hybrid). The
 ebook didn’t appear organically as publishing professionals began to
 make digital projects filled with book-like qualities. It didn’t emerge
 through experimentation as developers tried to infuse the values of
-readability and novelistic storytelling into their digital projects, but
+readability and novelistic storytelling into their websites, but
 is instead defined by the backwards necessities of the old print
-environment. Instead of making websites or apps that take cues and steal
-ideas, concepts, and methods from books, those who put together ebook
-platforms went the route of crippling web technology so that it would
+environment and the thinking of the print paradigm. Instead of making websites or apps that take cues and steal ideas, concepts, and methods from books, those who put together ebook platforms went the route of crippling web technology so that it would
 fit the production processes, structures, and design of an environment
 it will never inhabit. It is digital media constructed to fit the
 limited confines of the print paradigm. It is a network node removed
@@ -129,9 +128,7 @@ are competitive ones, even the media environment, and ebooks simply
 don’t work as well in digital as their peers.
 
 This is why regular ebooks fall between the cracks in this ‘book’ of
-ours. They don’t have the physical manifestation of meaning and the art
-of the printed book but suffer from most of its limitations. It has some
-of the instability that makes digital design difficult but less of the
+ours. They don’t have the physical manifestation of meaning nor do they demonstrate a shred of the art of the printed book but manage to suffer from most of its limitations. It has some of the instability that makes digital design difficult but less of the
 massive adaptability that digital forms get in return. It has some of
 the readability and reader-oriented flexibility that other mediated
 digital forms have (e.g. feed readers, Tumblr’s dashboard, Flipboard,
@@ -144,7 +141,7 @@ development) but the latter is immeasurably richer because it remains a
 part of a larger, interconnected, and social context. A book written and
 published on Wattpad is undeniably better adapted to the digital
 environment than a regular ebook, even when it’s the same book that has
-just been republished in a different context.
+just been republished in a different context and even though it has much fewer features in terms of layout or typography.
 
 So, the focus here will be on the less compromised digital forms,
 comparing contrasting them to the more embodied media like print. At

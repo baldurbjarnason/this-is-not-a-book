@@ -56,12 +56,10 @@ dominated.
 <a href="../images/printparadigm.jpg"><img src="../images/printparadigm.jpg" alt="A diagram of the print process"></a>
 
 If the above is your reality—if this is the world you inhabit—then you
-are in serious trouble because the print paradigm is dead. The baboons
-have fought and you are the ape clutching its jugular, staring up from
-the ground at the screeching ape that just bit your throat.
+are in serious trouble because the print paradigm is dying. It doesn't provide the speed and responsiveness that your customers demand. It isn't capable of adapting to the problems that you and your customers are facing.
 
 For better or for worse, networked media—the web and apps—now have
-primacy over other media. Print is dead. Not the printed book, of
+primacy over other media. The print worldview is dead. Not the printed book, of
 course. The book has been around for centuries and will be here for
 centuries to come. What is dead is the print worldview—its
 paradigm—because the practices and concepts of the print paradigm are
