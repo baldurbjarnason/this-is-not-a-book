@@ -34,7 +34,7 @@ connections that imply structure. It isn’t amorphous but [loosely
 coupled](http://en.wikipedia.org/wiki/Loose_coupling) and, yes, a little
 bit messy.
 
-(And of course, from this perspective the print world looks stiff, unyielding, and full of meaningless busy-work so incomprehension of the other paradigm very much goes both ways.)
+(From this perspective the print world looks stiff, unyielding, and full of meaningless busy-work so incomprehension of the other paradigm very much goes both ways.)
 
 Because the networked worldview is all about loose coupling and
 adaptation to changing environments, print is a first class citizen.

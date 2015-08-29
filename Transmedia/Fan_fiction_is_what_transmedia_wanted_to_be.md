@@ -14,6 +14,6 @@ The community is the thing, not the media.
 
 To truly replicate fan-created media you first need to make something that interests a lot of people. Then you need to nurture the community around it, make sure it has spaces that are safe from *you* and your involvement and then you hope for the best.
 
-If you have enough fans and they feel safe enough to do so and if they care enough about your work, then they will create. And the diversity of the stories and the meida they will tell will be directly proportional to your fandom.
+If you have enough fans and they feel safe enough to do so and if they care enough about your work, then they will create. The diversity of the stories and the media they will tell will be directly proportional to your fandom.
 
 Trying to build that phenomenon artificially from the top down will always fail.

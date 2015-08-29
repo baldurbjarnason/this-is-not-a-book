@@ -10,7 +10,7 @@ wrong in designing something that operates as a heritage tour -
 directing the reader’s attention to things, explaining them and focusing
 them exactly where you want them to be, but it’s like being inside an
 Occulus Rift - suffocating, with an absence of peripheral vision, and no
-awareness of the real stuff around you. And if you want to write VR,
+awareness of the real stuff around you. If you want to write VR,
 then write VR.
 
 The value in digital’s relationship to reality is that it

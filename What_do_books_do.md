@@ -9,7 +9,7 @@ dropped in for tea. A library, however small, is an act of vanity. We
 display books, treasure them and show them off to indicate how far we’ve
 come as adults.
 
-I do anyway. And don’t invite me round for dinner, unless you want your
+I do anyway. Don’t invite me round for dinner, unless you want your
 shelves examined.
 
 But why do we read? What do we want books for? What might that tell us

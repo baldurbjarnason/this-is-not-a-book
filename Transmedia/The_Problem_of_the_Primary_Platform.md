@@ -15,7 +15,7 @@ If the audience for the digital comprises the potential audience for the
 book, then it’s the first platform they find. It’s job is therefore to
 entice, to persuade them to part with their money and buy the book – the
 goal of the whole exercise. However, that audience don’t have anything
-to work with other than the digital content. So it also has to function
+to work with other than the digital content. It also has to function
 as the Primary Platform for the period between first click and the
 reader’s encounter with Vandermeer’s book. It’s caught on a high wire
 between enticement and exposition and has to face in both directions at

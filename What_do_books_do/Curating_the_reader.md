@@ -13,7 +13,7 @@ something different, that writing for digital asks new questions of you
 mutability of digital technology is key to all of this. For a medium
 that’s ostensibly all about play; control and scaffolds are paramount.
 
-So, what about the thing you really cannot control. We began this book
+What about the thing you really cannot control. We began this book
 with the following admission:
 
 > We, the authors of this text, have no substantive idea how you are

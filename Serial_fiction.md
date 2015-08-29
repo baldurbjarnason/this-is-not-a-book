@@ -73,7 +73,7 @@ things moderated, and as streams of data. We move through information
 and some of it, some of the aggregation of novelty, the consensual
 hallucination, strikes us as interesting.
 
-And our attention lingers.
+Our attention lingers.
 
 Each of the three examples above was chosen because it does something
 with the nature of serial storytelling and short, social media-stream

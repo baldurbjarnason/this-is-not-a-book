@@ -14,7 +14,7 @@ own choice. He’d been too lazy to read something so he just gave the
 session a title and wrote a literary ‘review’ of it for the class. The
 teacher couldn’t tell the difference and none of the kids blabbed.
 
-Much ink (and pixels) has been spilled on the issue of the role of
+Much ink (and many pixels) has been spilled on the issue of the role of
 storytelling in games. There’s always been a narrative element to games
 but the use and importance of stories in games exploded in the late 20th
 century. Even without computer games, roleplaying games, board games
@@ -31,7 +31,7 @@ play in at least two other historically important art forms:
     them as a form.
 -   Music? Ditto.
 
-Of course, this complicates all attempts to define a theory of games. Is
+This complicates all attempts to define a theory of games. Is
 it a good game when you’re just using the mechanics of the form to
 deliver a story? Is it a good game if the story is rubbish but does an
 excellent job of serving the gameplay? How many angels can dance on the

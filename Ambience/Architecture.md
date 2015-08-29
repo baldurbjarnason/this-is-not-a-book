@@ -4,7 +4,7 @@ date: "2015-07-25 14:09:06"
 category: Ambience
 ---
 
-Look up. Look at every facade, and each piece of decoration, each tiny
+Look up. Look around you. Look at every facade, and each piece of decoration, each tiny
 detail. Now ignore them. Instead, focus on the shapes of the buildings
 in front of you, behind and around you. What are they made of? Why are
 they built the way they are? What’s their history, their purpose. How do
