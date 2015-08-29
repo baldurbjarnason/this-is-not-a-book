@@ -47,7 +47,7 @@ places—but it needs to be of a kind with your understanding. Emotions
 need the same build-up, practice, demonstration, and experience as any
 other thing you teach.
 
-And to be able to do that you need to understand your medium. You need
+To be able to do that you need to understand your medium. You need
 to have at least made a conscious note about what you’re doing. Choose
 your medium. You need to know how that medium is and has been used. It
 doesn’t matter if your colleagues in that form aren’t doing what you’re

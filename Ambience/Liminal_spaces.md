@@ -31,7 +31,7 @@ our own, attention.
 > listen for a while.
 
 McCullough provides a set of notes early in the book. Twelve ways to
-describe the ambient. Here’s one: 
+describe the ambient. Here’s one:
 >That which surrounds, but does not distract…
 
 Attention, and the manner in which we read in a public place (assume for
@@ -55,7 +55,7 @@ attention to, are gone, only to reappear in the world a few steps later.
 Where they went during their absence is a mystery, we only know that
 we’re safe again and they’re back.
 
-And one more, for now: 
+And one more, for now:
 >A persistent layer of messages for somebody else….
 
 We invade literature. We impose ourselves into a relationship between
@@ -64,7 +64,7 @@ pick at stories though, we want to find them in the detritus of the
 world. It’s rare that a book is written expressly for you to read. It’s
 author might have an ideal reader in mind, but the odds of you being
 them are pretty long. But we read, and we continue to seek out stories.
-So we’re leaning over the shoulder of another, reading words meant for
+We’re leaning over the shoulder of another, reading words meant for
 someone else.
 
 Those examples aren’t liminal. We’re trying to describe something
@@ -74,11 +74,11 @@ elephant.
 But in asking what use liminality might be to this field, the first
 question that came to mind was this:
 
->*How do we know that we’re operating on the edge of something?* 
+>*How do we know that we’re operating on the edge of something?*
 
-Several answers immediately present themselves: 
-- When there’s a sheer drop to one side of your feet. 
-- When there’s a wall in front of you. 
+Several answers immediately present themselves:
+- When there’s a sheer drop to one side of your feet.
+- When there’s a wall in front of you.
 - When the lights go out  
 - When there’s an evident change in our surroundings.
 
@@ -111,7 +111,7 @@ a fiction.
 
 
 
-[^1]: Of course, the danger of mapping any landscape is that eventually
+[^1]: The danger of mapping any landscape is that eventually
     your focus becomes so fine, so acute, that you mistake the map for
     the territory, and here’s a moment for Borges: ‘*In time, those
     Unconscionable Maps no longer satisfied, and the Cartographers Guild

@@ -32,13 +32,13 @@ Unless you pay through the nose for a top-tier property, pre-existing properties
 
 But the biggest risk of adaptation for interactive media is structural. Adaptation risks locking you into plots, structures and ideas that are simply not conducive to interactive media storytelling. You can work around it but in doing so you risk losing the core advantage of adaptation: a story that an audience recognises and craves while being presented in a way that appeals to those who are fans of the original.
 
-And that audience can easily turn on you if they don't think you've done a good enough job on the adaptation. The backlash that an angry fanbase is capable of is ferocious.
+That audience can easily turn on you if they don't think you've done a good enough job on the adaptation. The backlash that an angry fanbase is capable of is ferocious.
 
 Unlike adaptation, original work can build its audience on its own merit. It will be judged on its own quality and originality.
 
 Original work is often easier to work with in interactive media, minimising process risk, because there is less of a mismatch between the structure that the idea requires and what the medium lends itself to.
 
-And if it actually works, if the project *does* take off (unlikely, but possible) then you own all of the upside.
+If it actually works, if the project *does* take off (unlikely, but possible) then you own all of the upside.
 
 The failure is yours to own both with adaptations and original work, but only with original work is the success wholly yours.
 

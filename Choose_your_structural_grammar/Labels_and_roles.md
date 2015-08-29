@@ -81,7 +81,7 @@ through digital media. You don’t get here without an essential
 curiosity—a compulsion to chip away at the unexplored and to wander into
 the dimly lit unknown.
 
-And the first step in that wandering is a decision to choose. Once
+The first step in that wandering is a decision to choose. Once
 you’ve made that decision, whether you end up going with the default or
 not doesn’t matter, because you will have considered and weighed your
 options, instead of just being pulled along with the crowd.

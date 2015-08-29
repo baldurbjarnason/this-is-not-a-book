@@ -16,7 +16,7 @@ adorable way of completely fucking up your life. They don’t understand
 what they want. They don’t understand what the audience wants. They
 don’t understand what you can do. They don’t understand what the work
 can do. They are what the platonic ideal of Ignorance aspires to become
-when it grows up. So just don’t work with them. Unless, of course, they
+when it grows up. So just don’t work with them. Unless they
 offer you a fuck-ton of money which would leave you in the black for the
 next six months. If that’s the case, take the money and use it to fund
 your actual practice. (Sometimes dignity means not eating canned food

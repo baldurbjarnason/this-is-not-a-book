@@ -59,11 +59,7 @@ Guin put it eloquently (Ursula K Le Guin never puts anything less than
 eloquently, and we should read more of her writing) in From Elfand to
 Ploughkeepsie:
 
-*There is only a construct built in a void, with every joint and seam
-and nail exposed. To create what Tolkien calls “a secondary universe” is
-to make a new world. A world where no voice has ever spoken before;
-where the act of speech is the act of creation. The only voice that
-speaks there is the creator’s voice. And every word counts.*
+> There is only a construct built in a void, with every joint and seam and nail exposed. To create what Tolkien calls “a secondary universe” is to make a new world. A world where no voice has ever spoken before; where the act of speech is the act of creation. The only voice that speaks there is the creator’s voice. And every word counts.
 
 Transmedia wants to have its cake and to eat it. It wants the construct
 to be provided - the fabric of the world exists, ready to be populated
@@ -80,8 +76,7 @@ nudges into another platform just to show you something storyable,
 something that pertains and cannot be told another way. Writing is
 rules, and care, and (Le Guin again):
 
-*It is a journey into the subconscious mind, just as psychoanalysis is.
-Like psychoanalysis, it can be dangerous; and it will change you.*
+> It is a journey into the subconscious mind, just as psychoanalysis is. Like psychoanalysis, it can be dangerous; and it will change you.
 
 What Transmedia is good at is the illusion of emerging story. Like
 serial fiction, Transmedia narratives emerge a piece at a time, over
@@ -142,7 +137,7 @@ film familiar to audiences viewing ‘The Blair Witch Project’.
 Transmedia offers the opportunity to engage with the characters in a
 story, to be a part of the storied events. It is difficult to match the
 intention of a crafted paragraph with the multiple-channel,
-cross-platform future we seem to be wandering headlong into. And worse,
+cross-platform future we seem to be wandering headlong into. Worse,
 its even harder to imagine who is going to pay attention long enough to
 actually read it all.
 
@@ -182,10 +177,9 @@ atmosphere through sound and vision in place of good storytelling.
 
 Transmedia is Sigue Sigue Sputnik.
 
-And that’s the problem. When we throw the contents of the whole kitchen
+That’s the problem. When we throw the contents of the whole kitchen
 cupboard at story, it just makes a mess. An inedibe, glutinous, sticky,
-disorienting mess. A recipe is built up carefully, with attention. So
-let’s get to the cookbook.
+disorienting mess. A recipe is built up carefully, with attention. Let’s get to the cookbook.
 
 If you want to write transmedia, then don’t make the mistake of thinking
 that The Matrix is what you’re making. The Matrix is loud, and
@@ -205,18 +199,7 @@ John Clute, in his review of William Gibson’s Pattern Recognition
 (2003), identifies within Gibson’s text transmedia phenomenons useful
 for Transmedia writers to consider:
 
-*It would be inappropriate – this early in the life of the book – to
-strip the latter parts of the story wide open; but this can be said. All
-135 sequences of the footage (film fragments released anonymously on the
-internet by the ‘Garage Kubrick’) to date are numbered
-steganographically – that is, through a complex process of ‘digital
-watermarking’ which must be deciphered to be read – in a pattern that
-seems unmistakably to represent the map of some urban area. That the
-pattern is in fact not a city map, that it is in fact something whose
-implications wrench the heart, the reader will discover. For the
-pattern, and the story embedded in the pattern, and the maker of the
-pattern, are one. Together, they are the wound of the world doing story.
-(2003: 405)*
+> It would be inappropriate – this early in the life of the book – to strip the latter parts of the story wide open; but this can be said. All 135 sequences of the footage (film fragments released anonymously on the internet by the ‘Garage Kubrick’) to date are numbered steganographically – that is, through a complex process of ‘digital watermarking’ which must be deciphered to be read – in a pattern that seems unmistakably to represent the map of some urban area. That the pattern is in fact not a city map, that it is in fact something whose implications wrench the heart, the reader will discover. For the pattern, and the story embedded in the pattern, and the maker of the pattern, are one. Together, they are the wound of the world doing story. (2003: 405)
 
 Clute isn’t terribly interested in digital writing. What he’s
 identifying in Gibson’s story - through the means of its telling - is,

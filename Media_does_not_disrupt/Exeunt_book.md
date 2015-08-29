@@ -5,7 +5,7 @@ category: Media_does_not_disrupt
 ---
 
 The book as a model, as an interface and object to be replicated, has no
-role to play in digital text. It’ll continue to exist, of course, as its
+role to play in digital text. It’ll continue to exist as its
 own thing, as it has for centuries. But it is a mistake to assume that
 the book has any bearing on how digital text evolves from here. It might
 have at the start, decades ago, but the web, ebooks, interactive media,

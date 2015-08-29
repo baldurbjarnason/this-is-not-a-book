@@ -12,7 +12,7 @@ category: This_is_not_a_disruption
 
 Much as in the sciences, when you stop wasting your time on defending your paradigm, when you stop having to build your field from scratch in every debate, re-presenting its history and best practices from scratch to every interlocutor, a wellspring of time and energy opens up for you to tap into.
 
-There isn't much point in trying to talk somebody out of a firmly held belief. A person's worldview isn't up to debate. And that's what we are dealing with: paradigms, worldviews, beliefs. Faith. We aren't talking about sports where, no matter what you think about the players, the winner is the winner and the loser is the loser. Debate the qualities of each team but, if they won, they won. You can't talk a person out of their perspective on the world no matter how many points you score.
+There isn't much point in trying to talk somebody out of a firmly held belief. A person's worldview isn't up to debate. That's what we are dealing with: paradigms, worldviews, beliefs. Faith. We aren't talking about sports where, no matter what you think about the players, the winner is the winner and the loser is the loser. Debate the qualities of each team but, if they won, they won. You can't talk a person out of their perspective on the world no matter how many points you score.
 
 Scoring points just makes people more angry.
 

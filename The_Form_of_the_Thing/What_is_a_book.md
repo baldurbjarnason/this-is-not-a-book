@@ -21,7 +21,7 @@ is not fixed. It is personal.
 The book, in that case, is a vehicle for ideas, and those ideas are not
 fixed things. They talk to each reader differently.
 
-So what do we do when we digitise books? Do we attempt to retain that
+What do we do when we digitise books? Do we attempt to retain that
 fragile tension between object and author, reader and memory? Do we
 appreciate the platform’s role in that tension?
 

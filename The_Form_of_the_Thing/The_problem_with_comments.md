@@ -30,6 +30,6 @@ Remember how readers tend to react when an author randomly butts into a discussi
 
 The only discussion you should follow on the web about your work are the ones in communities you are already a part of. They don't have to be communities that you build but you do have to be a long-standing member.
 
-So don't be rude and butt into other people's conversations. Don't be egotistical and expect everybody to discuss your work in the places you want them to.
+Don't be rude and butt into other people's conversations. Don't be egotistical and expect everybody to discuss your work in the places you want them to.
 
 Think in terms of community participation and your online discussions and comment threads will be more pleasant and fruitful.

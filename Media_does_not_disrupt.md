@@ -45,7 +45,7 @@ sense. What happens is that when a new form of media arrives that is
 better adapted to a specific environment than others, it tends to push
 those less well adapted out of it.
 
-Of course, if the older media has no other habitats then it does get
+If the older media has no other habitats then it does get
 replaced, but throughout the history of media it’s been more common that
 the older media merely retreats into their core environment.
 Occasionally it gains a new strength because its practitioners refocus

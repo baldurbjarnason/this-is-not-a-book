@@ -12,7 +12,7 @@ social group, taste in music, and dress code. Some slide into depression
 as they try to find themselves. Digital writing, being more than a
 single mind performing a single act, is doing the same: some copy from
 their elders, some search for the new and the native. It’s all
-problematic, of course (it wouldn’t be fun otherwise).
+problematic, naturally (it wouldn’t be fun otherwise).
 
 N Katherine Hayles [*Writing Machines*](https://mitpress.mit.edu/books/writing-machines) calls to attention the instability
 of material transfers between forms. She proposes Material Specificity

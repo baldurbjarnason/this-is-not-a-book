@@ -20,7 +20,7 @@ actually going on. We lie to you by omitting important context because
 we labour under the delusion that skipping years of study will somehow
 make the issues *more* comprehensible to you, not less.
 
-And you, you want canned truth—easily opened and delivered, pre-digested so that you don't have to think about it—because you think knowledge and understanding is a liquid thing that can be poured from one container to another.
+You… You want canned truth—easily opened and delivered, pre-digested so that you don't have to think about it—because you think knowledge and understanding is a liquid thing that can be poured from one container to another.
 
 Most of all, because we need you to listen and pay attention to what we
 say, we lie to you by telling you what you want to hear.
@@ -36,7 +36,7 @@ paradigms. All at once it implies a blend of two forms—an attempt to get
 the best of both—a fidelity with the past, a marriage of equals, while
 still implying something uniquely new. It’s a way of getting the
 terrified and closed-minded to work on something terrifying and open.
-And scared people reacting only in defence rarely make interesting
+Scared people reacting only in defence rarely make interesting
 things.
 
 No matter how useful, it is a lie designed to flatter the past and is
@@ -54,7 +54,7 @@ evolution\[^1\]. They think they do but they don’t. In their minds
 evolution is a hotchpotch of [progress](https://en.wikipedia.org/wiki/Idea_of_Progress#Myth_of_Progress), [manifest destiny](https://en.wikipedia.org/wiki/Manifest_destiny), all mixed in
 with a strange sprinkling of Protestant-style [unconditional election](https://en.wikipedia.org/wiki/Unconditional_election).
 
-(I’m not talking to *you*, of course. I’m talking about the other ones.
+(I’m not talking to *you*. I’m talking about the other ones.
 The ones that brag about not understanding maths and how sciences “don’t
 have the answers to everything” as if that excused their inability to
 understand basic scientific concepts. The people who work in jobs that
@@ -80,7 +80,7 @@ When two groups in a species start to diverge because they are,
 generation by generation, adapting to differing environments, what
 results is speciation.
 
-And that—speciation—is a word that comes a lot closer to describing what
+That—speciation—is a word that comes a lot closer to describing what
 is happening in digital media than hybridisation, especially since
 hybridisation is merely one of the many forms that speciation can take.
 The former is a subset of the other. Sometimes it fails; sometimes
@@ -143,7 +143,7 @@ published on Wattpad is undeniably better adapted to the digital
 environment than a regular ebook, even when it’s the same book that has
 just been republished in a different context and even though it has much fewer features in terms of layout or typography.
 
-So, the focus here will be on the less compromised digital forms,
+The focus here will be on the less compromised digital forms,
 comparing contrasting them to the more embodied media like print. At
 least, until the publishing industry comes to its senses and realises
 that adapting ebooks to a print environment that no longer exists is

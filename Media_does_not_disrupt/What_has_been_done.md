@@ -4,7 +4,7 @@ date: "2015-07-25 12:59:22"
 category: Media_does_not_disrupt
 ---
 
-Of course, it’s not quite appropriate to liken a multi-decade old medium
+It’s not quite appropriate to liken a multi-decade old medium
 to a toddler. A more appropriate analogy would be a teenager at a dance,
 trying to flirt for the first time, a person who is still rocketing
 through change trying their first tentative steps at what they see to be

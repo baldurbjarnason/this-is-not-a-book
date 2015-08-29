@@ -24,7 +24,7 @@ from the 1950s and 60s. Solaris is Russia. Star Wars is the United
 States. Writing SF in 2014 without addressing Climate Change in some way
 or form is to deny contemporary culture[^1].
 
-So it is with writing and reading. Every great leap forward has been
+It is with writing and reading. Every great leap forward has been
 built on what we understand, what we see around us. The CD Rom failed
 because it wasn’t *different enough*. DVDs are VHS are cinema in a
 portable format. Hypertext is
@@ -36,7 +36,7 @@ but still a radical step.
 What we did with it, though, is largely predictable (If you're reading this in your own order, here's a good place to [go](/What_does_the_reader_want/Choose_your_own_adventure.html). We didn’t really try anything *new*.
 
 To repeat a phrase, that’s our problem. Our brick wall. The fog within
-which we make work. So, how do we do things differently? How do we break
+which we make work. How do we do things differently? How do we break
 out of conventions? 
 
-[^1]: Read this: https://medium.com/matter/it-s-not-climate-change-it-s-everything-change-8fd9aa671804 It's by Margaret Atwood, and it will make you think. 
+[^1]: Read this: https://medium.com/matter/it-s-not-climate-change-it-s-everything-change-8fd9aa671804 It's by Margaret Atwood, and it will make you think.
