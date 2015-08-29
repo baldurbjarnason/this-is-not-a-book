@@ -95,7 +95,7 @@ infect our imagination, demand to be held up to a mirror and deciphered.
 It should not be the subject of discussion forums as to what exactly is
 going on in there.
 
-Of course, all of those things are possible, as this book (of which this
+All of those things are possible, as this "book" (of which this
 memo is an excerpt) makes clear. They are possible, though, because
 those extra-textual elements have been designed into the work. They
 should not be possible within the conventions of a novel.

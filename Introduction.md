@@ -26,12 +26,11 @@ isn’t obstructed by your hopes, speculations, and dreams about the
 future. Seeing the now *requires* the beast’s left eye to be firmly in
 your mind.
 
-This isn’t a book about the future of publishing. It isn’t a book that
-sets out to examine how we’ve arrived at this point, nor does it propose
+This isn’t about the future of publishing. We haven't set out to examine how we’ve arrived at this point, nor does we propose
 any grand solutions for the next few decades. It isn’t about the
 challenges for the industry, or the shift to digital.
 
-This book is about now.
+This is about now.
 
 This is a collection of provocations masquerading as arguments. Written
 by a pair of academics, who are now more usefully engaged in making work
@@ -40,7 +39,7 @@ forms. Each section is intended to be read alone, and the whole
 collection to be browsed, dropped in and out of and bookmarked
 (digitally or otherwise), commented upon and improved by time.
 
-This book is for writers, artists, designers and programmers. It is for
+This site is for writers, artists, designers and programmers. It is for
 anyone working with books, with digital technologies, with theatre and
 in film. It is for transmedia specialists, experience architects and
 everyone else with a brilliant job title. It’s about how we make work.
@@ -51,7 +50,7 @@ because the world changes everything and you have to believe at least
 two things at once.
 
 We thought it was useful to write it though, and have it read.
-Collectively or alone. Bookmarked or otherwise. So read it, distribute
+Collectively or alone. Bookmarked or otherwise. Read it, distribute
 it, send it on and excerpt chapters or statements, quotes or ideas.
 
 The world is in flux, and so is writing. As creators in a networked

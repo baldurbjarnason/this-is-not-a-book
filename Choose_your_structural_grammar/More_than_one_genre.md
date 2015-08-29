@@ -50,7 +50,7 @@ Think ‘hyperspace’ and you’re on the right track.
 The hypertext that you read and enjoy vastly outnumbers the games you
 play because hypertext is how the web and apps tell stories.
 
-And almost everything we do on the web and in apps is storytelling.
+Almost everything we do on the web and in apps is storytelling.
 
 Facebook’s a story. Twitter’s a story. Blogs are stories. Every website,
 every app, every chat platform, they’re all hypertext and they are all
@@ -77,7 +77,7 @@ That’s hypertext.
 Even ebooks are hypertext, if only by virtue of their reading context.
 Some of them are only accidental hypertexts, sticking to print
 conventions and ideas even as they have lost all meaning and sense in
-digital. Others, like this book, are written as hypertexts first, where
+digital. Others, like this site you're reading, are written as hypertexts first, where
 links are used as one of the primary punctuation marks—more common than
 the m-dash, less pretentious than the semicolon.
 

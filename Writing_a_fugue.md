@@ -9,8 +9,7 @@ write music, and my formal education in that regard stopped around age
 14. I can play the first four bars of the Star Wars theme on the piano
 and harmonica, so something obviously stuck.
 
-The problem with so much Transmedia work, as suggested elsewhere in this
-book, is abundance. An explosion of content with little sense of
+The problem with so much Transmedia work, as we've suggested elsewhere, is abundance. An explosion of content with little sense of
 structure or control over the manner of storytelling. One of the things
 that Transmedia is missing is a grammar; a formal set of patterns for
 writing, for thinking about plot and character and delivery. Please note
@@ -59,7 +58,7 @@ divert from the centre. All the while knowing that the end goal is a
 designed conclusion.
 
 I work with an artists’ collective called Circumstance. Our work gets a
-disproportionate amount of attention in this book, because I know it
+disproportionate amount of attention here, because I know it
 very well. We don’t set out to make Transmedia projects, but some of our
 work falls into that category through critique, or misplaced marketing.
 We generally make work in public spaces with audio played through
