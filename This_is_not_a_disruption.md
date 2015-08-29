@@ -42,7 +42,6 @@ it is always an act of violence, even when it is self-inflicted.
 
 - *[The Print Paradigm](/This_is_not_a_disruption/Print_paradigm.html)*. Worldview and process.
 - *[Everything is digital](/This_is_not_a_disruption/Everything_is_digital.html)*. Digital is inclusive where print is exclusive.
-- *[The three strands](/This_is_not_a_disruption/Threefold_digital.html)*.
 - *[Ebooks – the stillborn hybrid](/This_is_not_a_disruption/Ebooks_-_the_stillborn_hybrid.html)*. The ebook. Oh, what to say about the ebook.
 - *[Adaptive radiation](/This_is_not_a_disruption/Adaptive_radiation.html)*. Change results in diversity. Practice defines practice.
 - *[The wealth of change](/This_is_not_a_disruption/The_wealth_of_change.html)*. Once you've stopped fighting.
