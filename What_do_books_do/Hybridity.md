@@ -102,8 +102,7 @@ metaphysics, the history of the gulags, even the allusions to Christ,
 are all in service of that story and that unity of storytelling.
 
 Writing a hybrid form is as simple as that. The rest, as they say, is
-blood, sweat and tears. The idea. Your ‘make more honey’. Circumstance’s
-*These Pages Fall Like Ash* (our physical/digital book hybrid) is about
+blood, sweat and tears. The idea. Your ‘make more honey’. Circumstance’s [*These Pages Fall Like Ash*](http://wearecircumstance.com/project/these-pages-fall-like-ash/) (our physical/digital book hybrid) is about
 evoking and imagining another city alongside your own. What we do with
 that is tied up in the way you read the piece - slipping between an
 unconventional wooden-bound book and a set of geographically specific
