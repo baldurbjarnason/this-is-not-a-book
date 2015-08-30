@@ -1,6 +1,5 @@
 ---
 title: Case Study - White
-category: Case_studies
 ---
 
 ## triangle (symbol)
