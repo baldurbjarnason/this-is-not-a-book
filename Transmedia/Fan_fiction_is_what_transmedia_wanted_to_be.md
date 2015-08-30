@@ -4,7 +4,7 @@ date: "2015-08-23 13:44:50"
 category: Transmedia
 ---
 
-One of the most popular forms of expression on the web involves shared narratives that span text, video, illustration, interactivity, comics, and even animation. Crowds of people spontaneously organise to create and distribute some of the most createive works available online.
+One of the most popular forms of expression on the web involves shared narratives that span text, video, illustration, interactivity, comics, and even animation. Crowds of people spontaneously organise to create and distribute some of the most creative works available online.
 
 I am not talking about Transmedia. I am talking about Fan Fiction.
 

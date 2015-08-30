@@ -13,8 +13,8 @@ create one of those formats, then go for it - you’ll learn a huge amount
 by doing, and trying, and falling flat on your arse halfway through.
 Digital can be subtle though, it can toy with little aspects of
 expectation and familiarity. It can pull the rug out from under our
-feet, just as Orson Welles’ War of the Worlds did, or The Blair Witch
-Project. Big ideas that come down to tiny adjustments in the rules of
+feet, just as Orson Welles’ *War of the Worlds* did, or *The Blair Witch
+Project*. Big ideas that come down to tiny adjustments in the rules of
 storytelling. It can be books, augmented by digital trickery, it can be
 difficult structures that require a wall full of post-it notes to make
 sense of while writing.

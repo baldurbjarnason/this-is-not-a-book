@@ -39,8 +39,7 @@ If books feed the imagination, then is digital writing any different?
 Should we approach creating a digital text any differently than a
 conventional novel? Do we need to?
 
-Well, it’s probably no surprise that we think you should. Digital books
-- when considered as a book - are very different animals to their
+Well, it’s probably no surprise that we think you should. Digital books - when considered as a book - are very different animals to their
 printed counterparts. They don’t really exist, for a start. They’re
 icons on your tablet, or a filename in an eReader. Maybe an App that’s
 in both places. Regardless, they don’t possess the same sort of gravity
