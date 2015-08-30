@@ -39,14 +39,14 @@ regardless: they’re important and they’re warm) and print there. Learn
 incrementally, and learn in public. Get better and figure out what it is
 that you want to make.
 
-As Austin Kleon would tell you: Show Your Work.
+As [Austin Kleon](http://austinkleon.com/) would tell you: **Show Your Work**.
 
 Then talk about it. Make the conversation as public as you can. Online,
 at conferences, at meetups, anywhere you like. If you’re open to
 collaboration and the work is interesting, then have a little faith in
 humanity and see what happens. You aren’t alone, and a well honed idea
 has a better chance of seeing the world, and being seen, than your first
-draft, your first sketch on the back of an envelope. You’ve got a
+draft, your first sketch on the back of an envelope. You’ve then got a
 refined idea, and if you’ve been at all diligent about the ‘learning’
 aspect of our advice, you’ve got a few verbs, a bit of the basic grammar
 and a smattering of the sentence construction required to talk to the
