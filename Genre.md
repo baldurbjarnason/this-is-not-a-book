@@ -1,6 +1,7 @@
 ---
 title: "Genre"
 date: "2015-07-25 14:04:17"
+category: draft
 ---
 
 -   Unpicking formats.

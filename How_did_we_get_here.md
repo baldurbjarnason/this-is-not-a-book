@@ -1,12 +1,8 @@
 ---
-title: "Media doesn’t disrupt, it speciates"
+title: "How did we get here?"
 date: "2015-07-25 12:58:41"
 category: index
 ---
-
-*(Businesses do disrupt and get disrupted, but that's an entirely separate topic.)*
-
-## How did we get here?
 
 Any interested party possessing a passing familiarity to the history of
 media has heard this story a thousand times before. It’s become standard
@@ -72,10 +68,10 @@ intellectual wealth.
 
 ***
 
-- *[Where are we now?](/Media_does_not_disrupt/Where_are_we_now.html)*. Ebooks versus digital text. Fluidity and typography. Transformation and symbiosis. Digital as a toddler.
+- *[Where are we now?](/How_did_we_get_here/Where_are_we_now.html)*. Ebooks versus digital text. Fluidity and typography. Transformation and symbiosis. Digital as a toddler.
 
-- *[What has been done?](/Media_does_not_disrupt/What_has_been_done.html)*. Digital isn't a toddler (actually). Advances. Stuff people have done.
+- *[What has been done?](/How_did_we_get_here/What_has_been_done.html)*. Digital isn't a toddler (actually). Advances. Stuff people have done.
 
-- *[Skeuomorphism and remediation](/Media_does_not_disrupt/Skeuomorphism_and_remediation.html)*. Maturation into a teenager. An independent identity. The "Digital Age". Remediation (bleh).
+- *[Skeuomorphism and remediation](/How_did_we_get_here/Skeuomorphism_and_remediation.html)*. Maturation into a teenager. An independent identity. The "Digital Age". Remediation (bleh).
 
-- *[Exeunt Book](/Media_does_not_disrupt/Exeunt_book.html)*. Adulthood means separation. New models.
+- *[Exeunt Book](/How_did_we_get_here/Exeunt_book.html)*. Adulthood means separation. New models.

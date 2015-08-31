@@ -1,5 +1,6 @@
 ---
 title: Case Study - White
+category: draft
 ---
 
 ## triangle (symbol)

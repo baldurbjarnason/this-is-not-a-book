@@ -1,7 +1,6 @@
 ---
 title: "Introduction"
 date: "2015-07-25 12:57:24"
-category: index
 ---
 
 ## The blindness of mandated prophecy
@@ -19,8 +18,7 @@ category: index
 > have been instructed not to think of something, you can think of
 > nothing else. The prohibition becomes an obligation. It is in fact
 > impossible not to think of that crocodile’s left eye. The beast’s eye
-> has taken over your memory, and your mind. (This is not the End of the
-> Book, Jean-Claude Carriére: 18)
+> has taken over your memory, and your mind. *(This is not the End of the Book, Jean-Claude Carriére: 18)*
 
 To see the present clearly, you need a view of the now and the past that
 isn’t obstructed by your hopes, speculations, and dreams about the

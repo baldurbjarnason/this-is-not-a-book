@@ -1,7 +1,6 @@
 ---
 title: "A Literature of Ambience, or Ambient Literature?"
 date: "2015-07-25 14:04:32"
-category: index
 ---
 
 > This is chapter 1  

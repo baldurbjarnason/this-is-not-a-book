@@ -1,6 +1,7 @@
 ---
 title: "Thingness"
 date: "2015-07-25 13:51:33"
+category: draft
 ---
 
 -   The ‘thingness of something’. How do we classify experiences?
