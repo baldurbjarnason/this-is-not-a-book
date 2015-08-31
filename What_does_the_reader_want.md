@@ -43,6 +43,6 @@ Because we can’t not write.
 - *[Agrippa](/What_does_the_reader_want/Agrippa.html).* Blast from the past. Scarcity. Form and content. Everything is connected.
 - *[Choose your own adventure](/What_does_the_reader_want/Choose_your_own_adventure.html).* Why not. Lowest common denominator. Contexts. Avoiding remediation.
 
-[^1]: It’s not available at the Guardian website anymore, but here’s a cheeky link: [http://laurencemiall.com/stuff/pay-attention-to-the-world/]
+[^1]: It’s not available at the Guardian website anymore, but here’s a cheeky link: <http://laurencemiall.com/stuff/pay-attention-to-the-world/>
 
 [^2]: The whole essay is sublime, perfect and a genuinely must-read for anyone thinking of writing for new platforms and audiences. Know what the territory is, and address it. Especially if you think you can do better.

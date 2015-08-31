@@ -5,7 +5,7 @@ category: The_Form_of_the_Thing
 ---
 
 What’s your relationship to a written work? Peter Mendelsund explores
-the instability of reading in *What we see when we read*, suggesting
+the instability of reading in [*What we see when we read*](http://covers.petermendelsund.com/books), suggesting
 that as reading is an immersive activity, during which we remove
 ourselves from the lived world and forgetting to provide detailed
 context to our experience (beyond where we were, what time of day it
@@ -37,7 +37,7 @@ us skim, some pore, some bounce or scatter our attention across a page.
 We can turn back, quickly, to check we didn’t miss something, and race
 ahead at the close of a chapter, at a crucial, tension-filled moment.
 
-Robin Sloan wrote an essay called *Fish* for iOS. He describes it as a
+Robin Sloan wrote an essay called [*Fish*](http://www.robinsloan.com/fish/) for iOS. He describes it as a
 ‘tap essay’. Each ‘screen’ (the content is delivered in tiny chunks of
 text, making typographic use of a phone’s landscape screen) delivers the
 next in sequence by a tap. Sometimes a word, progressing toward a

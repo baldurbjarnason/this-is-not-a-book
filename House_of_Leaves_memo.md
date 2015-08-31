@@ -113,24 +113,7 @@ pages. We make sense of what we can, and we search for the rest.
 A transposition of <span class="houseblue">House</span> of Leaves has to start somewhere, though, and
 in the absence of the author, I offer this:
 
-<<<<<<< HEAD
-I have a folder on my laptop. It is called *‘House Of Leaves
-Exploration #4*’. Honestly, I do not know where it came from, other
-=======
-I have a folder on my laptop. It is called \_‘<span class="houseblue">House</span> Of Leaves
-Exploration \#4\_’. Honestly, I do not know where it came from, other
->>>>>>> master
-than the sure knowledge that I downloaded it as a torrent file, and that
-this would have been sometime in the last 3 years (the age of this
-machine). The folder contains music files. A few I recognise from Poe’s
-*Haunted*, the rest comprise readings from the book. Mark’s voice is
-clearly identifiable, the rest are not. Female, male, old, young,
-American, Spanish. In English, in German. I had to Google it to find out
-what it is. In 2000, Mark Z Danielewski and Poe recorded an album’s
-worth of experiments, using <span class="houseblue">House</span> of Leaves as the template (template
-isn’t the right word, but it says something about the relationship of
-the book to these tracks). It isn’t available commercially, as far as I
-can determine.
+I have a folder on my laptop. It is called *‘House Of Leaves Exploration #4’*. Honestly, I do not know where it came from, other than the sure knowledge that I downloaded it as a torrent file, and that this would have been sometime in the last 3 years (the age of this machine). The folder contains music files. A few I recognise from Poe’s Haunted, the rest comprise readings from the book. Mark’s voice is clearly identifiable, the rest are not. Female, male, old, young, American, Spanish. In English, in German. I had to Google it to find out what it is. In 2000, Mark Z Danielewski and Poe recorded an album’s worth of experiments, using House of Leaves as the template (template isn’t the right word, but it says something about the relationship of the book to these tracks). It isn’t available commercially, as far as I can determine.
 
 Which is a shame. It is raw, and fragmentary. It seems unfinished
 somehow, but nothing can deny the power of hearing voices read the text.
