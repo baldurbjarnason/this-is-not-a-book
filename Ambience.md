@@ -1,6 +1,7 @@
 ---
 title: "A Literature of Ambience, or Ambient Literature?"
 date: "2015-07-25 14:04:32"
+category: index
 ---
 
 > This is chapter 1  
@@ -93,13 +94,13 @@ or makes use of the ambient though, is not in short supply. We’d like to
 draw your attention to a few starting points if you want to read
 further:
 
-Teju Cole’s *Open City*. 
+Teju Cole’s *Open City*.
 
-Robert MacFarlane’s *The Old Ways* and *Landmarks*. 
+Robert MacFarlane’s *The Old Ways* and *Landmarks*.
 
-Iain Sinclair’s *London Orbital*, *Lights out for the Territory* and *Slow Chocolate Autopsy*. 
+Iain Sinclair’s *London Orbital*, *Lights out for the Territory* and *Slow Chocolate Autopsy*.
 
-WG Sebald’s *Rings of Saturn*, and *Austerlitz*. 
+WG Sebald’s *Rings of Saturn*, and *Austerlitz*.
 
 Janet Cardiff’s work can be found [here](http://www.cardiffmiller.com/).
 

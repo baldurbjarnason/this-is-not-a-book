@@ -20,10 +20,9 @@
 }
 
 .Nav a {
-	color: #000;
-	background-color: #f9f9e0;
+	color: #aa0000;
 	text-decoration: none;
-	padding: 6px;
+	padding: 0;
 	text-transform: uppercase;
 }
 

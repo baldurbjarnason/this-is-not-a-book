@@ -14,9 +14,8 @@
 .ReadMore a {
 	text-decoration: none;
 display: inline-block;
-padding: 8px;
-background-color: #f9f9e0;
-color: black;
+padding-right: 8px;
+color: #aa0000;
 text-align: center;
 text-transform: uppercase;
 margin-right: 0.5rem;

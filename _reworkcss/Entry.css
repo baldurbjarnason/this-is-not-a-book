@@ -14,3 +14,8 @@
 .Entry-return {
 	margin: 0.5rem 0;
 }
+
+.Entry-return a {
+	text-decoration: none;
+	text-transform: uppercase;
+}
