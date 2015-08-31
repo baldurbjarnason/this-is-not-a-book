@@ -23,7 +23,7 @@ This is not a book. But it *is*:
 
 - *[Introduction](/Introduction.html)*. The blindness of mandated prophecy.
 
-- *[How did we get here?](/Media_does_not_disrupt.html)*. Media doesn’t disrupt, it speciates.
+- *[How did we get here?](/How_did_we_get_here.html)*.
 
 - *[The form of the thing](/The_Form_of_the_Thing.html)*. Devaluing and fetishisation go hand in hand.
 
@@ -35,7 +35,7 @@ This is not a book. But it *is*:
 
 - *[What do books do?](/What_do_books_do.html)*. Discover the boundaries of all things not-book.
 
-- *[Choose your structural grammar](/Choose_your_structural_grammar.html)* Digital as a cornucopia of structural choices.
+- *[Choose your structural grammar](/Choose_your_structural_grammar.html)*. Digital as a cornucopia of structural choices.
 
 - *[Serial fiction](/Serial_fiction.html)*.
 

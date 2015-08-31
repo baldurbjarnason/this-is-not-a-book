@@ -1,7 +1,6 @@
 ---
 title: "Transmedia"
 date: "2015-07-25 13:42:27"
-category: index
 ---
 
 We could start this chapter at any one of several points, and each of

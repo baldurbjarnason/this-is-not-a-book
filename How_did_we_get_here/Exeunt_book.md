@@ -1,7 +1,7 @@
 ---
 title: "Exeunt Book"
 date: "2015-07-25 13:00:19"
-category: Media_does_not_disrupt
+category: How_did_we_get_here
 ---
 
 The book as a model, as an interface and object to be replicated, has no

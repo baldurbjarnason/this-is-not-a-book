@@ -1,7 +1,6 @@
 ---
 title: "What does the reader want?"
 date: "2015-07-25 13:12:38"
-category: index
 ---
 
 The first thing you’ll be told by most people in publishing is that

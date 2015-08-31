@@ -1,7 +1,6 @@
 ---
 title: "What do Books do?"
 date: "2015-07-25 13:47:59"
-category: index
 ---
 
 What you read defines you. What’s on your bookshelves is a signal to
