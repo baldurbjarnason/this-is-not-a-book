@@ -26,7 +26,7 @@ talents take them many directions at once. You might be able to code, to
 design for user experiences, to produce a technically complex project of
 which the writer is but one (albeit pretty important) part. The
 likelihood though, is that you aren’t that individual and that if they
-do exist, then they’re so rare that Mahārājas will pay explorers a
+do exist, then they’re so rare that Maharajas will pay explorers a
 chessboard’s worth of grain to find them. You’re also not going to find
 them, or the gang of them that you need to get to know, by placing an
 advert in the post office, virtual or otherwise.

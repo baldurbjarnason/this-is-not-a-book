@@ -6,14 +6,14 @@ category: What_is_digital_writing
 
 They have little to no practical value for *making* in most cases and
 their social role can be easily supplanted by meeting up in a café. As
-an exercise, they are pretty pointless. Here, <a href=http://www.watershed.co.uk/ished/news/getting-comfortable-with-change/>with attribution</a>, is Clare
+an exercise, they are pretty pointless. Here, <a href="http://www.watershed.co.uk/ished/news/getting-comfortable-with-change/">with attribution</a>, is Clare
 Reddington on innovation:
 
-> “You can’t crowbar your innovation and change into one weekend of the
+> You can’t crowbar your innovation and change into one weekend of the
 > year. And its best not to invite 200 talented people to share their
 > ideas with you if you don’t know how you might support them and take
 > them forward after the pizza has run out and the room has been
-> tidied.” [](#)
+> tidied.
 
 Hackathons are brilliant ways to focus energy and time and talent, but
 they’re part of a process of development, of changing something. They’re

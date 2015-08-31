@@ -52,7 +52,7 @@ to have at least made a conscious note about what you’re doing. Choose
 your medium. You need to know how that medium is and has been used. It
 doesn’t matter if your colleagues in that form aren’t doing what you’re
 doing, their techniques are relevant. Joe Sacco’s [Safe Area
-Goražde](https://en.wikipedia.org/wiki/Safe_Area_Gora%C5%BEde), Marjane
+Gorazde](https://en.wikipedia.org/wiki/Safe_Area_Gora%C5%BEde), Marjane
 Satrapi’s
 [Persepolis](https://en.wikipedia.org/wiki/Persepolis_(comics)), and
 Will Eisner’s [Contract With

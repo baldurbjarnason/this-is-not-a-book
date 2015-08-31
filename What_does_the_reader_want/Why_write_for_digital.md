@@ -39,4 +39,4 @@ To repeat a phrase, that’s our problem. Our brick wall. The fog within
 which we make work. How do we do things differently? How do we break
 out of conventions? 
 
-[^1]: Read this: https://medium.com/matter/it-s-not-climate-change-it-s-everything-change-8fd9aa671804 It's by Margaret Atwood, and it will make you think.
+[^1]: Read this: <https://medium.com/matter/it-s-not-climate-change-it-s-everything-change-8fd9aa671804> It's by Margaret Atwood, and it will make you think.

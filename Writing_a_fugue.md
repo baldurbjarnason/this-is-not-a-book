@@ -131,4 +131,4 @@ puzzle every fifteen minutes?
 [^1]: I am indebted to the University of San Francisco’s Professor of
     Music, Alexandra Amati-Camperi, who’s ‘What is a Fugue’ was,
     frankly, where I made sense of this section:
-    http://www.sfbach.org/what-fugue
+    <http://www.sfbach.org/what-fugue>

@@ -7,7 +7,7 @@ category: The_Form_of_the_Thing
 *There you go.*
 
 We’re going to come back to that again and again. Not that
-we’re invoking the spirit of Marshall McLuhan\[^2\], but each platform
+we’re invoking the spirit of Marshall McLuhan, but each platform
 offers something specific to the writing process and keeping that in the
 forefront of your mind is critical. Put another way, a film isn’t a TV
 series, nor is it a Broadway play. The end product, whatever that might

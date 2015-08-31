@@ -43,7 +43,8 @@ signs in architecture, and the design of streets and walkways. The ways
 in which the environment is planned and used, and also not-used or
 suggested, offering us a space in which to be ourselves.
 
-And another:  
+And another:
+
 >An environment replete with non-things…
 
 Which leads neatly on from the first. Here’s a question though: If we’re
@@ -56,7 +57,8 @@ Where they went during their absence is a mystery, we only know that
 we’re safe again and they’re back.
 
 And one more, for now:
->A persistent layer of messages for somebody else….
+
+> A persistent layer of messages for somebody else….
 
 We invade literature. We impose ourselves into a relationship between
 writer and text. We, as readers, are interlopers. Well, maybe. We do
