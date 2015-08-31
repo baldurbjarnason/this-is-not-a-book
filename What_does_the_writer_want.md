@@ -1,6 +1,7 @@
 ---
 title: "What does the writer want?"
 date: "2015-07-25 13:27:26"
+category: index
 ---
 
 The first, and possibly the most important question that a creative

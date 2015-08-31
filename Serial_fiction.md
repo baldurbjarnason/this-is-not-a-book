@@ -1,6 +1,7 @@
 ---
 title: "Serial Fiction"
 date: "2015-07-25 14:03:45"
+category: index
 ---
 
 ## The Right Sort

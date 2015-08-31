@@ -1,6 +1,7 @@
 ---
 title: "Media doesn’t disrupt, it speciates"
 date: "2015-07-25 12:58:41"
+category: index
 ---
 
 *(Businesses do disrupt and get disrupted, but that's an entirely separate topic.)*

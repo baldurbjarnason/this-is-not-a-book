@@ -1,6 +1,7 @@
 ---
 title: "Choose your structural grammar"
 date: "2015-07-25 13:51:53"
+category: index
 ---
 
 My dad has regularly been going to the theatre for decades. He and a few
