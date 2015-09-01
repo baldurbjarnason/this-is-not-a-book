@@ -10,7 +10,7 @@ category: This_is_not_a_disruption
 > introduced. That can be left to the writer of textbooks. (Thomas S.
 > Kuhn, The Structure of Scientific Revolutions)
 
-Much as in the sciences, when you stop wasting your time on defending your paradigm, when you stop having to build your field from scratch in every debate, re-presenting its history and best practices from scratch to every interlocutor, a wellspring of time and energy opens up for you to tap into.
+Much as in the sciences, when you stop wasting your time defending your paradigm, when you stop having to build your field from scratch in every debate, re-presenting its history and best practices from ground up to every interlocutor, a wellspring of time and energy opens up for you to tap into.
 
 There isn't much point in trying to talk somebody out of a firmly held belief. A person's worldview isn't up to debate. That's what we are dealing with: paradigms, worldviews, beliefs. Faith. We aren't talking about sports where, no matter what you think about the players, the winner is the winner and the loser is the loser. Debate the qualities of each team but, if they won, they won. You can't talk a person out of their perspective on the world no matter how many points you score.
 
@@ -36,14 +36,12 @@ Maybe you're familiar with this sequence of events:
 
 4. Repeat steps 2. and 3. until you are furious.
 
-5. *You* then get dismissed and branded as the irrational and angry crank who is always on the attack and response to reasonable discussions with fury. It doesn't matter if their initial question was a defence of the indefensible, you're cast as the irrational one. *"Hitting children with planks. Some people say it's immoral. Others say that it is a necessary part of how the publishing industry works."*
-
-6. Bonus points if you're a woman or a minority who then gets branded by the pundit (very 'politely') as one offensive stereotype or another.
+5. *You* then get dismissed and branded as the irrational and angry crank who is always on the attack and responds to reasonable discussions with fury. It doesn't matter if their initial question was a defence of the indefensible, you're cast as the irrational one. *"Hitting children with planks. Some people say it's immoral. Others say that it is a necessary part of how the publishing industry works."*
 
 Note: the provocateur pundit always *always* maintains a level of civility, tone, and politeness that's higher than the baseline of the community they are participating in. That's how they get away with writing outrageous and offensive nonsense.
 
 This is a *no win* situation because the pundit controls the frame of the discussion. The *point* of the instigating post is to strengthen the pundit's ideological base—cement their position within the community that holds their worldview. It is very much an intentional trap and the only solution is to not fall for it.
 
-Occasionally, especially on Twitter, you will find the pundit using a slightly different setup to this routine. The cycle isn't triggered by a post but by the pundit coming in with an innocent question—often one that's either a bit strange or out of the left-field. You answer, and before you know it, you've been pulled into a cycle of nonsense where the pundit is trying to brand you as a troll, crank, or madman in front of their chosen community.
+Occasionally, especially on Twitter, you will find the pundit using a slightly different setup to this routine. The cycle isn't triggered by a post but by the pundit coming in with an innocent question—often one that's either a bit strange or out of the left-field. You answer, and before you know it, you've been pulled into a cycle of nonsense where the pundit is trying to brand you as a troll, crank, or madman in front of their chosen community, which then gets pulled in to join the attack.
 
 No good comes from engaging with these people.
