@@ -50,7 +50,7 @@ In addition to the basic trauma of a paradigm shift, we’re watching a
 specific kind of evolution in action.
 
 Now, a lot of people don’t actually understand the concept of
-evolution\[^1\]. They think they do but they don’t. In their minds
+evolution. They think they do but they don’t. In their minds
 evolution is a hotchpotch of [progress](https://en.wikipedia.org/wiki/Idea_of_Progress#Myth_of_Progress), [manifest destiny](https://en.wikipedia.org/wiki/Manifest_destiny), all mixed in
 with a strange sprinkling of Protestant-style [unconditional election](https://en.wikipedia.org/wiki/Unconditional_election).
 
@@ -58,7 +58,7 @@ with a strange sprinkling of Protestant-style [unconditional election](https://e
 The ones that brag about not understanding maths and how sciences “don’t
 have the answers to everything” as if that excused their inability to
 understand basic scientific concepts. The people who work in jobs that
-require an understanding on digital media but, despite this being 2015
+require an understanding of digital media but, despite this being 2015
 are burdened with a fuck-ton of weapons-grade ignorance on the subject.
 You know, the people whose attitudes to science and maths make a Texan
 School Board look intellectually progressive.)
@@ -83,7 +83,7 @@ results is speciation.
 That—speciation—is a word that comes a lot closer to describing what
 is happening in digital media than hybridisation, especially since
 hybridisation is merely one of the many forms that speciation can take.
-The former is a subset of the other. Sometimes it fails; sometimes
+Hybridisation is a subset of speciation. Sometimes it fails; sometimes
 it doesn’t.
 
 Let’s brush aside our jargon catch phrases for a moment; let’s
@@ -128,8 +128,8 @@ are competitive ones, even the media environment, and ebooks simply
 don’t work as well in digital as their peers.
 
 This is why regular ebooks fall between the cracks in this ‘book’ of
-ours. They don’t have the physical manifestation of meaning nor do they demonstrate a shred of the art of the printed book but manage to suffer from most of its limitations. It has some of the instability that makes digital design difficult but less of the
-massive adaptability that digital forms get in return. It has some of
+ours. Ebooks don’t have the physical manifestation of meaning of their printed counterparts nor do they demonstrate a shred of the art of the printed book. What they do manage is to suffer from most of the limitations of print combined with the instability that makes digital design difficult. Which they do without exhibiting the same
+massive adaptability that other digital forms get in return. Ebooks have some of
 the readability and reader-oriented flexibility that other mediated
 digital forms have (e.g. feed readers, Tumblr’s dashboard, Flipboard,
 Twitter, Instapaper) but are disconnected from the hypertext of the web
@@ -141,9 +141,9 @@ development) but the latter is immeasurably richer because it remains a
 part of a larger, interconnected, and social context. A book written and
 published on Wattpad is undeniably better adapted to the digital
 environment than a regular ebook, even when it’s the same book that has
-just been republished in a different context and even though it has much fewer features in terms of layout or typography.
+just been republished in two different contexts and even though it has much fewer features in terms of layout or typography.
 
-The focus here will be on the less compromised digital forms,
+The focus here is on the less compromised digital forms,
 comparing contrasting them to the more embodied media like print. At
 least, until the publishing industry comes to its senses and realises
 that adapting ebooks to a print environment that no longer exists is

@@ -19,13 +19,13 @@ defined through practice.
 > research that could be unequivocally abstracted from them. (Thomas S.
 > Kuhn, The Structure of Scientific Revolutions)
 
-You'll never find the digital media worldview outlined neatly in a textbook. Wha you can get is a textbook presenting a series of statements and catechisms that look to believers *like* a neat and comprehensive definition of digital media. But to outsiders it will look like gobbledegook—arrant nonsense composed of random fragments and patent delusions. This is normal. To me, texts that outline the core values of print and its associated worldview look like wishful thinking, wrapped in denial, tied with a neat bow of nostalgia. You can't teach a worldview. It can only be ingrained and defined through practice.
+You'll never find the digital media worldview outlined neatly in a textbook. What you can get is a textbook presenting a series of statements and catechisms that look to believers *like* a neat and comprehensive definition of digital media. But to outsiders it will look like gobbledegook—arrant nonsense composed of random fragments and patent delusions. This is normal. To me, texts that outline the core values of print and its associated worldview look like wishful thinking, wrapped in denial, tied with a neat bow of nostalgia. You can't teach a worldview. It can only be ingrained and defined through practice.
 
 The only reliable way to adopt a particular worldview is to join the community of practice that defines it.
 
 To see the world through the eyes of print you must work with print.
 
-To see the world through digital you need to do the work and commit to the practice at it's employed by the communities that surround it. Yes, communities, plural, because there is more than one.
+To see the world through digital you need to do the work and commit to the practice as it's employed by the communities that surround it. Yes, communities, plural, because there is more than one.
 
 To answer the question "what is digital media?" you have to resist the temptation of engaging in structural analysis or of constructing intricate theories. Instead you have two options, both of which are the same tactic but from two different angles.
 
