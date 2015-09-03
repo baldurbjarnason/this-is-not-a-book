@@ -14,7 +14,7 @@ dork), and sound operates in 360 degrees, not a 20/20 field. Binaural
 sound spatially transcends stereo, allowing a writer/designer the
 opportunity to create a genuinely immersed experience.
 
-![Audio](/images/audio.jpg)
+<figure><img src="/images/audio.jpg" alt="Audio"></figure>
 
 [Circumstance](http://wearecircumstance.com)
 write with sound - we begin sketching our pieces with short fragments of

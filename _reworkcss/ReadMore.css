@@ -8,6 +8,20 @@
 .ReadMore {
 	margin-bottom: 0;
 	margin-top: auto;
+  font-size: var(--small-font);
+	border-top: 1px solid black;
+}
+
+@media (-webkit-min-device-pixel-ratio: 2) {
+	.ReadMore {
+		border-top: 0.5px solid black;
+	}
+}
+
+@media (min-resolution: 2dppx) {
+	.ReadMore {
+		border-top: 0.5px solid black;
+	}
 }
 
 
