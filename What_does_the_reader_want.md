@@ -36,12 +36,16 @@ To communicate an idea. To tell a story. To explain the world.
 
 Because we can’t not write.
 
+<div class="not-on-single-page" markdown="1">
+
 ***
 
 - *[Why write for digital?](/What_does_the_reader_want/Why_write_for_digital.html)* You have your reasons. Avoiding the utopian ideal. Build on things we understand.
 - *[What is a digital book?](/What_does_the_reader_want/What_is_a_digital_book.html)* Cheating. What it isn't. Public and private. Purpose.
 - *[Agrippa](/What_does_the_reader_want/Agrippa.html).* Blast from the past. Scarcity. Form and content. Everything is connected.
 - *[Choose your own adventure](/What_does_the_reader_want/Choose_your_own_adventure.html).* Why not. Lowest common denominator. Contexts. Avoiding remediation.
+
+</div>
 
 [^1]: It’s not available at the Guardian website anymore, but here’s a cheeky link: <http://laurencemiall.com/stuff/pay-attention-to-the-world/>
 

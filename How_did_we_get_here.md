@@ -65,6 +65,8 @@ something, compare it to the best of *your* field, not to the canon of a
 predecessor that is drawing on a thousand years of distilled genius and
 intellectual wealth.
 
+<div class="not-on-single-page" markdown="1">
+
 ***
 
 - *[Where are we now?](/How_did_we_get_here/Where_are_we_now.html)*. Ebooks versus digital text. Fluidity and typography. Transformation and symbiosis. Digital as a toddler.
@@ -74,3 +76,5 @@ intellectual wealth.
 - *[Skeuomorphism and remediation](/How_did_we_get_here/Skeuomorphism_and_remediation.html)*. Maturation into a teenager. An independent identity. The "Digital Age". Remediation (bleh).
 
 - *[Exeunt Book](/How_did_we_get_here/Exeunt_book.html)*. Adulthood means separation. New models.
+
+</div>

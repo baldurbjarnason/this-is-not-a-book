@@ -2,6 +2,7 @@
 title: "All writing has an audience"
 date: "2015-07-25 13:04:33"
 category: What_is_digital_writing
+sort: 2
 ---
 
 You might not care about them, or you might picture them with your work,

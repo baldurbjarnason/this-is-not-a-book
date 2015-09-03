@@ -2,6 +2,7 @@
 title: "Expect to fail"
 date: "2015-07-25 13:06:20"
 category: What_is_digital_writing
+sort: 8
 ---
 
 Not because failure is a good thing in any way. It sucks. It’s an awful

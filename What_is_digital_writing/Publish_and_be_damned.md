@@ -2,6 +2,7 @@
 title: "Finish and publish things"
 date: "2015-07-25 13:05:45"
 category: What_is_digital_writing
+sort: 6
 ---
 
 You’re never going to know whether there’s a beautiful idea in there

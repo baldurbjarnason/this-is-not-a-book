@@ -43,6 +43,8 @@ That’s not to suggest that we should stop improving the process.
 The book, though, is different. It is a thing that offers possibilities
 and potentials that are markedly different to digital.
 
+<div class="not-on-single-page" markdown="1">
+
 ***
 
 - *[What is a book?](/The_Form_of_the_Thing/What_is_a_book.html)*. Relationships and difference. Fish. Affordances.
@@ -54,3 +56,5 @@ and potentials that are markedly different to digital.
 - *[Don't get seduced by adaptations](/The_Form_of_the_Thing/Do_not_get_seduced_by_adaptations.html)*. Own your successes.
 
 - *[The problem with comments](/The_Form_of_the_Thing/The_problem_with_comments.html)*. Don't be rude.
+
+</div>

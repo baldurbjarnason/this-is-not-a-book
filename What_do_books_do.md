@@ -57,6 +57,8 @@ Here’s a partial answer.
 
 It isn’t the desire to finish it.
 
+<div class="not-on-single-page" markdown="1">
+
 ------------------------------------------------------------------------
 
 - *[The thing about books – artful objects](/What_do_books_do/The_thing_about_books_-_the_artful_object.html)*.
@@ -67,6 +69,8 @@ It isn’t the desire to finish it.
 And… because it deserves a callout:
 
 - *[The House of Leaves Memo](/House_of_Leaves_memo.html)*
+
+</div>
 
 [^1]: being the act of bringing something into being. Making an
     abstraction concrete. Blame Nick Harkaway, I was listening to the

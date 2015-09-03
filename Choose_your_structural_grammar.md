@@ -53,6 +53,8 @@ Which is all good. My only problem is that there’s a better yarn we can
 use for this: the story of an earlier media evolution that has much
 stronger parallels to our current new media predicament.
 
+<div class="not-on-single-page" markdown="1">
+
 ------------------------------------------------------------------------
 
 - *[Novels and print](/Choose_your_structural_grammar/Novels_need_print.html)*.
@@ -61,3 +63,5 @@ stronger parallels to our current new media predicament.
 - *[More than one genre](/Choose_your_structural_grammar/More_than_one_genre.html)*.
 - *[Game design is huge](/Choose_your_structural_grammar/Game_design_is_huge.html)*.
 - *[This is what it feels like](/Choose_your_structural_grammar/This_is_what_it_feels_like.html)*.
+
+</div>
