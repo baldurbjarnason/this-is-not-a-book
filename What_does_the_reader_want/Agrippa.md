@@ -1,5 +1,5 @@
 ---
-title: "Agrippa. Going back to go forward"
+title: "Agrippa. <br>Going back to go forward"
 date: "2015-07-25 13:14:35"
 category: What_does_the_reader_want
 ---
@@ -32,9 +32,9 @@ sometimes bound within a section as an interruption to the page flow.
 Equally likely is a three-dimensional treatment of the page sequence as
 something to be explored in an unlinear fashion. The whole book may be
 presented as one sheet of folded and cut paper, or take the form of a
-paper engineered object. 
+paper engineered object.
 
-![Francisca Preito's Antibook](/images/antibook_1.jpg)
+<figure><img src="/images/antibook_1.jpg" alt="Francisca Preito's Antibook"></figure>
 
 (Francisca Preito’s [Antibook](http://www.blankproject.co.uk/artwork/antibook), which exists as
 an origami icosahedron)

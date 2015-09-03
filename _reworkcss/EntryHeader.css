@@ -13,6 +13,23 @@
 	text-decoration: none;
 	font-size: var(--large-font);
 	line-height: 1.2;
+	text-align: right;
+	border-bottom: 1px solid black;
+	margin-bottom: 2rem;
+	margin-top: 2rem;
+	padding-bottom: 1rem;
+}
+
+@media (-webkit-min-device-pixel-ratio: 2) {
+	.EntryHeader-title {
+		border-bottom: 0.5px solid black;
+	}
+}
+
+@media (min-resolution: 2dppx) {
+	.EntryHeader-title {
+		border-bottom: 0.5px solid black;
+	}
 }
 
 .EntryHeader-title a {

@@ -1,5 +1,5 @@
 :root {
-  --blog-font: alegreya_sans, "Alegreya Sans", "Source Sans Pro", "Helvetica Neue", Helvetica, sans-serif;
+  --blog-font: "Hoefler Text", Baskerville, Georgia, serif ;
   /* --emphasis-background: #FBF8DB; */
   /* --emphasis-background: #FBFcDc; */
   --emphasis-background: #f9f9f9;
@@ -12,14 +12,15 @@
   --large-font: 300%;
   --medium-font: 133%;
   --small-font: 90%;
-  --base-font: 18px;
-  --base-line-height: 22px;
+  --base-font: 17px;
+  --base-line-height: 21px;
   --base-width: 666px;
   margin: 0;
 }
 
 
 html, body {
+  /* background-color: #f9f8ea; */
 	font-family: var(--blog-font);
 	font-size: var(--base-font);
 	line-height: var(--base-line-height);
@@ -46,8 +47,8 @@ p {
 }
 
 p+p, .decking+p {
-	/* text-indent: 1.5em; */
-  margin-top: 0.75rem;
+	text-indent: 1.5em;
+  /* margin-top: 0.5rem; */
 }
 
 hr {
@@ -57,15 +58,28 @@ hr {
 	border-bottom: 1px solid #999;
 }
 
+
+@media (-webkit-min-device-pixel-ratio: 2) {
+	hr {
+		border-bottom: 0.5px solid black;
+	}
+}
+
+@media (-webkit-min-resolution: 2dppx) {
+	hr {
+		border-bottom: 0.5px solid black;
+	}
+}
+
 @media (min-device-pixel-ratio: 2) {
 	hr {
-		border-bottom: 0.5px solid #999;
+		border-bottom: 0.5px solid black;
 	}
 }
 
 @media (min-resolution: 2dppx) {
 	hr {
-		border-bottom: 0.5px solid #999;
+		border-bottom: 0.5px solid black;
 	}
 }
 

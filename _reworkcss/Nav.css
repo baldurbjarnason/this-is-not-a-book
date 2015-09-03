@@ -28,4 +28,5 @@
 
 .Nav {
 	margin-bottom: 1rem;
+  font-size: var(--small-font);
 }

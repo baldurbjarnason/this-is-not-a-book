@@ -14,15 +14,21 @@
 	hyphens: auto;
 	background-color: var(--emphasis-background);
 	margin: 1rem 0;
-	padding: 2rem;
+	padding: 2rem 3rem;
 }
 
 .EntryContent figure {
 	margin: 0.5rem 0;
-	padding: 2rem 2rem;
-	padding-bottom: 1rem;
-	background-color: var(--emphasis-background);
+/* 	padding: 2rem 2rem;
+padding-bottom: 1rem;
+background-color: var(--emphasis-background); */
+background-color: white;
 	text-align: right;
+	padding: 0;
+}
+.EntryContent figure img {
+	margin: 0;
+	padding: 0;
 }
 
 .EntryContent figcaption {
