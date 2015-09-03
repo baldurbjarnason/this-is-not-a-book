@@ -2,6 +2,7 @@
 title: "The stories we tell in digital"
 date: "2015-07-25 14:22:10"
 category: Introduction
+sort: 1
 ---
 
 Let's put aside, for the moment, any and all media that you could dub as being 'in transition'. Let's not talk about Netflix and their like and how they affect TV and cinema. Let's not talk about how the web has disrupted newspapers. Let's not talk about ebooks.

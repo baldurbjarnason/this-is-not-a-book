@@ -2,6 +2,7 @@
 title: "The problem with comments"
 date: "2015-07-28 13:03:04"
 category: The_Form_of_the_Thing
+sort: 5
 ---
 
 Comments are an in-a-nutshell representation of the problems that communities have on the web. Namely that everything exists in the same context. Communities are what the web does but communities are also utterly unprotected in the comment sections of most websites.

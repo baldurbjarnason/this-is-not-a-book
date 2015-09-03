@@ -2,6 +2,7 @@
 title: "Where are we now?"
 date: "2015-07-25 12:59:02"
 category: How_did_we_get_here
+sort: 1
 ---
 
 Ebooks undoubtedly mimic the pages of print, transforming them from

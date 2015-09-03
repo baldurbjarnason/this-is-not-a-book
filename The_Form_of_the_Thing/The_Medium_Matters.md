@@ -2,6 +2,7 @@
 title: "The Medium Matters"
 date: "2015-07-25 13:03:04"
 category: The_Form_of_the_Thing
+sort: 3
 ---
 
 *There you go.*

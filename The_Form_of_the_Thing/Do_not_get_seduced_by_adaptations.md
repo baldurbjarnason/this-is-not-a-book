@@ -2,6 +2,7 @@
 title: "Don't get seduced by adaptations"
 date: "2015-07-28 13:03:04"
 category: The_Form_of_the_Thing
+sort: 4
 ---
 
 Bureaucracies have an inherent dislike of risk. It goes against their very purpose. The reason why you organise around a task is to be able to solve that task reliably, repeatedly, and economically.

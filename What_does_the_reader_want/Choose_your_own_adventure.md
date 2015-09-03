@@ -2,11 +2,12 @@
 title: "Choose your own adventure"
 date: "2015-07-25 13:15:09"
 category: What_does_the_reader_want
+sort: 4
 ---
 
 ++to readers: this next bit is almost certainly going to be reworked in a major way - it doesn’t work as it is, but says useful things. Comments and edits are welcome++
 
-##Why not Choose Your Own Adventure? 
+##Why not Choose Your Own Adventure?
 *Caveat - this short essay pertains to digital implementation of Choose Your Own Adventure. Paper is fine. Go for it.*
 
 (This essay originally came about because [Duncan Speakman](http://www.wearecircumstance.com) tweeted to
@@ -94,7 +95,7 @@ As we work our way through the text, we are continually aware of how far
 we’ve come and how far we have to go in a simultaneous, forward/backward
 state. I’m a short way through this book, and so there’s a lot of story
 to go, a lot of things still to happen, a lot to be told by the author.
-All of those things are tied up in the physical form of the book. 
+All of those things are tied up in the physical form of the book.
 
 CYOA messes with our heads. It subverts those physical affordances of the
 book, or the page count and offers us something markedly different. The
@@ -177,10 +178,10 @@ that can only be told that way, stories that don’t remediate existing
 narratives, or are simply being shoehorned into a CYOA shape because it
 looks easy to do so.
 
-There are two things you can guarantee as a result of that: 
+There are two things you can guarantee as a result of that:
 
 1. It isn’t as easy as it looks. CYOA is a particular mechanic, and form is tied to
-content in ways we haven’t figured out yet. 
+content in ways we haven’t figured out yet.
 
 2. Shoehorning is painful and unnecessary. Your readers will be unsatisfied, no-one outside your
 production team will think it’s any good, and you won’t have told a good

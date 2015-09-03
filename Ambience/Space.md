@@ -2,6 +2,7 @@
 title: "Space"
 date: "2015-07-25 14:08:21"
 category: Ambience
+sort: 1
 ---
 
 Moving through a space requires we be aware of the nature of that

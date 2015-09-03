@@ -2,6 +2,7 @@
 title: "Neoteric"
 date: "2015-07-25 13:37:29"
 category: What_does_the_writer_want
+sort: 9
 ---
 
 The Mote in Your Eye

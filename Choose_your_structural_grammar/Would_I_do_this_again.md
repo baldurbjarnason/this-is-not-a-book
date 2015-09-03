@@ -2,6 +2,7 @@
 title: "Would I do this again?"
 date: "2015-07-25 13:53:52"
 category: Choose_your_structural_grammar
+sort: 2
 ---
 
 Back when I was a kid in gagnfræðaskóli (the Icelandic equivalent of

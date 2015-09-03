@@ -2,6 +2,7 @@
 title: "Early obsolescence"
 date: "2015-07-25 13:30:34"
 category: What_does_the_writer_want
+sort: 3
 ---
 
 **All digital projects are going to be obsolete with the next (OS, new

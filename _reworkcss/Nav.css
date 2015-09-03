@@ -19,6 +19,10 @@
 		font-size: var(--small-font);
 }
 
+.Nav-name--second {
+	text-indent: 1.8rem;
+}
+
 .Nav a {
 	color: #aa0000;
 	text-decoration: none;
