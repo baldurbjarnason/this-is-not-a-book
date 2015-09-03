@@ -2,6 +2,7 @@
 title: "If you are not a writer"
 date: "2015-07-25 13:34:53"
 category: What_does_the_writer_want
+sort: 7
 ---
 
 Then what’s written above is doubly important. Good digital work

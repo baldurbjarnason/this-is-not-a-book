@@ -2,6 +2,7 @@
 title: "More than one genre"
 date: "2015-07-25 13:55:05"
 category: Choose_your_structural_grammar
+sort: 4
 ---
 
 One of the biggest mistakes you can do is simply lump all digital media

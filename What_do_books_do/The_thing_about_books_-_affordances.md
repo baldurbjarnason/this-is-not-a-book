@@ -2,6 +2,7 @@
 title: "The thing about books – affordances"
 date: "2015-07-25 13:50:12"
 category: What_do_books_do
+sort: 2
 ---
 
 A book is a set of structural affordances wrapped up in paper. Much like

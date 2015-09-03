@@ -2,6 +2,7 @@
 title: "This is what it feels like"
 date: "2015-07-25 13:56:17"
 category: Choose_your_structural_grammar
+sort: 6
 ---
 
 I don’t remember the first time I told a story. None of us do. It

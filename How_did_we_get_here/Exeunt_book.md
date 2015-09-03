@@ -2,6 +2,7 @@
 title: "Exeunt Book"
 date: "2015-07-25 13:00:19"
 category: How_did_we_get_here
+sort: 4
 ---
 
 The book as a model, as an interface and object to be replicated, has no

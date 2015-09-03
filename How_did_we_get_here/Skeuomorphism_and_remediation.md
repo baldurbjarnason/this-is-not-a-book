@@ -2,6 +2,7 @@
 title: "Skeuomorphism and remediation"
 date: "2015-07-25 12:59:41"
 category: How_did_we_get_here
+sort: 3
 ---
 
 One of the biggest differences between a child and a teenager is the

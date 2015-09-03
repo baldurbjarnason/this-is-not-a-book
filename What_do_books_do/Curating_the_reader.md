@@ -2,6 +2,7 @@
 title: "Curating your reader"
 date: "2015-07-25 13:51:06"
 category: What_do_books_do
+sort: 4
 ---
 
 Okay, time to move on to something else, but before we go, a few

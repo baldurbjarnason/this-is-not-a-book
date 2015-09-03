@@ -2,6 +2,7 @@
 title: "What is a digital book?"
 date: "2015-07-25 13:14:12"
 category: What_does_the_reader_want
+sort: 2
 ---
 
 It’s cheating to offer a definition that’s built on absences, but a

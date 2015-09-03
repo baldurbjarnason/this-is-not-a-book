@@ -21,6 +21,8 @@ This is not a book. But it *is*:
 
 ***
 
+You can either [*read the entire thing as a single page*](/SinglePage.html) or you can browse the individual sections below:
+
 - *[Introduction](/Introduction.html)*. The blindness of mandated prophecy.
 
 - *[How did we get here?](/How_did_we_get_here.html)*.

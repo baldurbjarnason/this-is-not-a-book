@@ -1,0 +1,346 @@
+---
+title: This is not a book (single page)
+layout: single
+---
+
+{% for page in site.pages %}
+{% if page.path == "Introduction.md" %}
+
+<article class="h-entry Entry Entry--post Entry--single Entry--singlepage" id="{{ page.title | slugify }}">
+<header class="EntryHeader"><h2 class="p-name EntryHeader-title EntryHeader--SingleChapter-title">{{ page.title }}</h2></header>
+
+<div class="e-content EntryContent EntryContent--page{% if page.tags %} EntryContent--{{ page.tags | first }}{% endif %}">
+{{ page.content | markdownify }}
+</div>
+</article>
+{% endif %}
+{% endfor %}
+
+{% assign sortedpages = site.pages | sort: 'sort' %}
+{% for page in sortedpages %}
+{% if page.category == "Introduction" %}
+<main class="Main Main--post">
+
+<article class="h-entry Entry Entry--post Entry--single Entry--singlepage" id="{{ page.title | slugify }}">
+<header class="EntryHeader"><h2 class="p-name EntryHeader--Single-title">{{ page.title }}</h2></header>
+
+<div class="e-content EntryContent EntryContent--page{% if page.tags %} EntryContent--{{ page.tags | first }}{% endif %}">
+{{ page.content | markdownify }}
+</div>
+
+</article>
+{% endif %}
+{% endfor %}
+
+{% for page in site.pages %}
+{% if page.path == "How_did_we_get_here.md" %}
+
+<article class="h-entry Entry Entry--post Entry--single Entry--singlepage" id="{{ page.title | slugify }}">
+<header class="EntryHeader"><h2 class="p-name EntryHeader-title EntryHeader--SingleChapter-title">{{ page.title }}</h2></header>
+
+<div class="e-content EntryContent EntryContent--page{% if page.tags %} EntryContent--{{ page.tags | first }}{% endif %}">
+{{ page.content | markdownify }}
+</div>
+</article>
+{% endif %}
+{% endfor %}
+
+{% for page in sortedpages %}
+{% if page.category == "How_did_we_get_here" %}
+<main class="Main Main--post">
+
+<article class="h-entry Entry Entry--post Entry--single Entry--singlepage" id="{{ page.title | slugify }}">
+<header class="EntryHeader"><h2 class="p-name EntryHeader--Single-title">{{ page.title }}</h2></header>
+
+<div class="e-content EntryContent EntryContent--page{% if page.tags %} EntryContent--{{ page.tags | first }}{% endif %}">
+{{ page.content | markdownify }}
+</div>
+
+</article>
+{% endif %}
+{% endfor %}
+
+{% for page in site.pages %}
+{% if page.path == "The_Form_of_the_Thing.md" %}
+
+<article class="h-entry Entry Entry--post Entry--single Entry--singlepage" id="{{ page.title | slugify }}">
+<header class="EntryHeader"><h2 class="p-name EntryHeader-title EntryHeader--SingleChapter-title">{{ page.title }}</h2></header>
+
+<div class="e-content EntryContent EntryContent--page{% if page.tags %} EntryContent--{{ page.tags | first }}{% endif %}">
+{{ page.content | markdownify }}
+</div>
+</article>
+{% endif %}
+{% endfor %}
+
+{% for page in sortedpages %}
+{% if page.category == "The_Form_of_the_Thing" %}
+<main class="Main Main--post">
+
+<article class="h-entry Entry Entry--post Entry--single Entry--singlepage" id="{{ page.title | slugify }}">
+<header class="EntryHeader"><h2 class="p-name EntryHeader--Single-title">{{ page.title }}</h2></header>
+
+<div class="e-content EntryContent EntryContent--page{% if page.tags %} EntryContent--{{ page.tags | first }}{% endif %}">
+{{ page.content | markdownify }}
+</div>
+
+</article>
+{% endif %}
+{% endfor %}
+
+{% for page in site.pages %}
+{% if page.path == "What_does_the_reader_want.md" %}
+
+<article class="h-entry Entry Entry--post Entry--single Entry--singlepage" id="{{ page.title | slugify }}">
+<header class="EntryHeader"><h2 class="p-name EntryHeader-title EntryHeader--SingleChapter-title">{{ page.title }}</h2></header>
+
+<div class="e-content EntryContent EntryContent--page{% if page.tags %} EntryContent--{{ page.tags | first }}{% endif %}">
+{{ page.content | markdownify }}
+</div>
+</article>
+{% endif %}
+{% endfor %}
+
+{% for page in sortedpages %}
+{% if page.category == "What_does_the_reader_want" %}
+<main class="Main Main--post">
+
+<article class="h-entry Entry Entry--post Entry--single Entry--singlepage" id="{{ page.title | slugify }}">
+<header class="EntryHeader"><h2 class="p-name EntryHeader--Single-title">{{ page.title }}</h2></header>
+
+<div class="e-content EntryContent EntryContent--page{% if page.tags %} EntryContent--{{ page.tags | first }}{% endif %}">
+{{ page.content | markdownify }}
+</div>
+
+</article>
+{% endif %}
+{% endfor %}
+
+
+{% for page in site.pages %}
+{% if page.path == "What_does_the_writer_want.md" %}
+
+<article class="h-entry Entry Entry--post Entry--single Entry--singlepage" id="{{ page.title | slugify }}">
+<header class="EntryHeader"><h2 class="p-name EntryHeader-title EntryHeader--SingleChapter-title">{{ page.title }}</h2></header>
+
+<div class="e-content EntryContent EntryContent--page{% if page.tags %} EntryContent--{{ page.tags | first }}{% endif %}">
+{{ page.content | markdownify }}
+</div>
+</article>
+{% endif %}
+{% endfor %}
+
+{% for page in sortedpages %}
+{% if page.category == "What_does_the_writer_want" %}
+<main class="Main Main--post">
+
+<article class="h-entry Entry Entry--post Entry--single Entry--singlepage" id="{{ page.title | slugify }}">
+<header class="EntryHeader"><h2 class="p-name EntryHeader--Single-title">{{ page.title }}</h2></header>
+
+<div class="e-content EntryContent EntryContent--page{% if page.tags %} EntryContent--{{ page.tags | first }}{% endif %}">
+{{ page.content | markdownify }}
+</div>
+
+</article>
+{% endif %}
+{% endfor %}
+
+{% for page in site.pages %}
+{% if page.path == "Transmedia.md" %}
+
+<article class="h-entry Entry Entry--post Entry--single Entry--singlepage" id="{{ page.title | slugify }}">
+<header class="EntryHeader"><h2 class="p-name EntryHeader-title EntryHeader--SingleChapter-title">{{ page.title }}</h2></header>
+
+<div class="e-content EntryContent EntryContent--page{% if page.tags %} EntryContent--{{ page.tags | first }}{% endif %}">
+{{ page.content | markdownify }}
+</div>
+</article>
+{% endif %}
+{% endfor %}
+
+{% for page in sortedpages %}
+{% if page.category == "Transmedia" %}
+<main class="Main Main--post">
+
+<article class="h-entry Entry Entry--post Entry--single Entry--singlepage" id="{{ page.title | slugify }}">
+<header class="EntryHeader"><h2 class="p-name EntryHeader--Single-title">{{ page.title }}</h2></header>
+
+<div class="e-content EntryContent EntryContent--page{% if page.tags %} EntryContent--{{ page.tags | first }}{% endif %}">
+{{ page.content | markdownify }}
+</div>
+
+</article>
+{% endif %}
+{% endfor %}
+
+{% for page in site.pages %}
+{% if page.path == "What_do_books_do.md" %}
+
+<article class="h-entry Entry Entry--post Entry--single Entry--singlepage" id="{{ page.title | slugify }}">
+<header class="EntryHeader"><h2 class="p-name EntryHeader-title EntryHeader--SingleChapter-title">{{ page.title }}</h2></header>
+
+<div class="e-content EntryContent EntryContent--page{% if page.tags %} EntryContent--{{ page.tags | first }}{% endif %}">
+{{ page.content | markdownify }}
+</div>
+</article>
+{% endif %}
+{% endfor %}
+
+{% for page in sortedpages %}
+{% if page.category == "What_do_books_do" %}
+<main class="Main Main--post">
+
+<article class="h-entry Entry Entry--post Entry--single Entry--singlepage" id="{{ page.title | slugify }}">
+<header class="EntryHeader"><h2 class="p-name EntryHeader--Single-title">{{ page.title }}</h2></header>
+
+<div class="e-content EntryContent EntryContent--page{% if page.tags %} EntryContent--{{ page.tags | first }}{% endif %}">
+{{ page.content | markdownify }}
+</div>
+
+</article>
+{% endif %}
+{% endfor %}
+
+{% for page in site.pages %}
+{% if page.path == "Choose_your_structural_grammar.md" %}
+
+<article class="h-entry Entry Entry--post Entry--single Entry--singlepage" id="{{ page.title | slugify }}">
+<header class="EntryHeader"><h2 class="p-name EntryHeader-title EntryHeader--SingleChapter-title">{{ page.title }}</h2></header>
+
+<div class="e-content EntryContent EntryContent--page{% if page.tags %} EntryContent--{{ page.tags | first }}{% endif %}">
+{{ page.content | markdownify }}
+</div>
+</article>
+{% endif %}
+{% endfor %}
+
+{% for page in sortedpages %}
+{% if page.category == "Choose_your_structural_grammar" %}
+<main class="Main Main--post">
+
+<article class="h-entry Entry Entry--post Entry--single Entry--singlepage" id="{{ page.title | slugify }}">
+<header class="EntryHeader"><h2 class="p-name EntryHeader--Single-title">{{ page.title }}</h2></header>
+
+<div class="e-content EntryContent EntryContent--page{% if page.tags %} EntryContent--{{ page.tags | first }}{% endif %}">
+{{ page.content | markdownify }}
+</div>
+
+</article>
+{% endif %}
+{% endfor %}
+
+
+{% for page in site.pages %}
+{% if page.path == "Serial_fiction.md" %}
+
+<article class="h-entry Entry Entry--post Entry--single Entry--singlepage" id="{{ page.title | slugify }}">
+<header class="EntryHeader"><h2 class="p-name EntryHeader-title EntryHeader--SingleChapter-title">{{ page.title }}</h2></header>
+
+<div class="e-content EntryContent EntryContent--page{% if page.tags %} EntryContent--{{ page.tags | first }}{% endif %}">
+{{ page.content | markdownify }}
+</div>
+</article>
+{% endif %}
+{% endfor %}
+
+{% for page in sortedpages %}
+{% if page.category == "Serial_fiction" %}
+<main class="Main Main--post">
+
+<article class="h-entry Entry Entry--post Entry--single Entry--singlepage" id="{{ page.title | slugify }}">
+<header class="EntryHeader"><h2 class="p-name EntryHeader--Single-title">{{ page.title }}</h2></header>
+
+<div class="e-content EntryContent EntryContent--page{% if page.tags %} EntryContent--{{ page.tags | first }}{% endif %}">
+{{ page.content | markdownify }}
+</div>
+
+</article>
+{% endif %}
+{% endfor %}
+
+{% for page in site.pages %}
+{% if page.path == "Ambience.md" %}
+
+<article class="h-entry Entry Entry--post Entry--single Entry--singlepage" id="{{ page.title | slugify }}">
+<header class="EntryHeader"><h2 class="p-name EntryHeader-title EntryHeader--SingleChapter-title">{{ page.title }}</h2></header>
+
+<div class="e-content EntryContent EntryContent--page{% if page.tags %} EntryContent--{{ page.tags | first }}{% endif %}">
+{{ page.content | markdownify }}
+</div>
+</article>
+{% endif %}
+{% endfor %}
+
+{% for page in sortedpages %}
+{% if page.category == "Ambience" %}
+<main class="Main Main--post">
+
+<article class="h-entry Entry Entry--post Entry--single Entry--singlepage" id="{{ page.title | slugify }}">
+<header class="EntryHeader"><h2 class="p-name EntryHeader--Single-title">{{ page.title }}</h2></header>
+
+<div class="e-content EntryContent EntryContent--page{% if page.tags %} EntryContent--{{ page.tags | first }}{% endif %}">
+{{ page.content | markdownify }}
+</div>
+
+</article>
+{% endif %}
+{% endfor %}
+
+
+{% for page in site.pages %}
+{% if page.path == "Writing_a_fugue.md" %}
+
+<article class="h-entry Entry Entry--post Entry--single Entry--singlepage" id="{{ page.title | slugify }}">
+<header class="EntryHeader"><h2 class="p-name EntryHeader-title EntryHeader--SingleChapter-title">{{ page.title }}</h2></header>
+
+<div class="e-content EntryContent EntryContent--page{% if page.tags %} EntryContent--{{ page.tags | first }}{% endif %}">
+{{ page.content | markdownify }}
+</div>
+</article>
+{% endif %}
+{% endfor %}
+
+{% for page in sortedpages %}
+{% if page.category == "Writing_a_fugue" %}
+<main class="Main Main--post">
+
+<article class="h-entry Entry Entry--post Entry--single Entry--singlepage" id="{{ page.title | slugify }}">
+<header class="EntryHeader"><h2 class="p-name EntryHeader--Single-title">{{ page.title }}</h2></header>
+
+<div class="e-content EntryContent EntryContent--page{% if page.tags %} EntryContent--{{ page.tags | first }}{% endif %}">
+{{ page.content | markdownify }}
+</div>
+
+</article>
+{% endif %}
+{% endfor %}
+
+
+
+{% for page in site.pages %}
+{% if page.path == "This_is_not_a_disruption.md" %}
+
+<article class="h-entry Entry Entry--post Entry--single Entry--singlepage" id="{{ page.title | slugify }}">
+<header class="EntryHeader"><h2 class="p-name EntryHeader-title EntryHeader--SingleChapter-title">{{ page.title }}</h2></header>
+
+<div class="e-content EntryContent EntryContent--page{% if page.tags %} EntryContent--{{ page.tags | first }}{% endif %}">
+{{ page.content | markdownify }}
+</div>
+</article>
+{% endif %}
+{% endfor %}
+
+{% for page in sortedpages %}
+{% if page.category == "This_is_not_a_disruption" and page.public != false %}
+<main class="Main Main--post">
+
+<article class="h-entry Entry Entry--post Entry--single Entry--singlepage" id="{{ page.title | slugify }}">
+<header class="EntryHeader"><h2 class="p-name EntryHeader--Single-title">{{ page.title }}</h2></header>
+
+<div class="e-content EntryContent EntryContent--page{% if page.tags %} EntryContent--{{ page.tags | first }}{% endif %}">
+{{ page.content | markdownify }}
+</div>
+
+</article>
+{% endif %}
+{% endfor %}

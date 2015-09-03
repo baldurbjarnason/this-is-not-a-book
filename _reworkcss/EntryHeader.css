@@ -20,6 +20,30 @@
 	padding-bottom: 1rem;
 }
 
+.EntryHeader--SingleChapter-title {
+	font-size: 200%;
+}
+
+.EntryHeader--SingleMain-title {
+	font-size: 300%;
+	font-style: italic;
+	text-align: left;
+	margin-top: 8rem;
+}
+
+@media print {
+
+	.EntryHeader--SingleChapter-title {
+		font-size: 200%;
+		page-break-before: always;
+		padding-top: 8rem;
+	}
+
+	.EntryHeader--Single-authors {
+		margin-bottom: 8rem;
+	}
+}
+
 @media (-webkit-min-device-pixel-ratio: 2) {
 	.EntryHeader-title {
 		border-bottom: 0.5px solid black;

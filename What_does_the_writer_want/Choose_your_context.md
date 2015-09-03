@@ -2,6 +2,7 @@
 title: "Choose your context"
 date: "2015-08-23 14:22:10"
 category: What_does_the_writer_want
+sort: 11
 ---
 
 The contexts of our lives used to be separated physically. Bringing your work home with you was next to impossible without a suitcase full of documents, reference books, and memos from your colleges. Or without, you know, building a factory at home. Gossip and news from non-work friends was exclusive to certain physical locations like the coffee shop (or the pub, if you belong to one of the being-social-means-alcoholism nations). Work gossip was literally a water-cooler moment. Doing an activity that normally belonged to one context in another took a lot of effort.

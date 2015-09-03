@@ -2,6 +2,7 @@
 title: "Liminal spaces."
 date: "2015-07-25 14:07:01"
 category: Ambience
+sort: 7
 ---
 
 That this kind of work relies on ‘being there’ is pretty evident. Like

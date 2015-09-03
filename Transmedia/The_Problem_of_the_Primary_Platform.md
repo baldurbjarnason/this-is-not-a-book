@@ -2,6 +2,7 @@
 title: "The Problem of the Primary Platform"
 date: "2015-07-25 13:44:50"
 category: Transmedia
+sort: 1
 ---
 
 Southern Reach's [digital site](http://www.thesouthernreach.com/) is an example of unease and paranoid behaviour. The
@@ -29,6 +30,6 @@ around it. We pay attention to the world being created. If you’re asked
 to work on a Transmedia project then, the first thing to ask is why. Not
 why you, but why is is the shape it is? What is being achieved by each
 platform? What is the intention of giving this piece of information out
-in this way, rather than in a central, authored text? 
+in this way, rather than in a central, authored text?
 
 What, in short, is the point?

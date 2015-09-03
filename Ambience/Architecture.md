@@ -2,6 +2,7 @@
 title: "Architecture"
 date: "2015-07-25 14:09:06"
 category: Ambience
+sort: 2
 ---
 
 Look up. Look around you. Look at every facade, and each piece of decoration, each tiny

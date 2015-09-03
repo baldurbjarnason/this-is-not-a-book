@@ -2,6 +2,7 @@
 title: "Digital is expensive"
 date: "2015-07-25 13:29:33"
 category: What_does_the_writer_want
+sort: 1
 ---
 
 Bullshit. Digital can be expensive, and digital projects made without a

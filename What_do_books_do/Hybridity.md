@@ -2,6 +2,7 @@
 title: "Let’s talk about Hybridity"
 date: "2015-07-25 13:50:41"
 category: What_do_books_do
+sort: 3
 ---
 
 Yes, let’s. We’ve skirted around the subject for so long, teasing the

@@ -2,6 +2,7 @@
 title: "Novels need print"
 date: "2015-07-25 13:52:54"
 category: Choose_your_structural_grammar
+sort: 1
 ---
 
 The novel has a longer history than people expect. How long, exactly, is

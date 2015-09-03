@@ -2,6 +2,7 @@
 title: "Fan fiction is what Transmedia wanted to be"
 date: "2015-08-23 13:44:50"
 category: Transmedia
+sort: 3
 ---
 
 One of the most popular forms of expression on the web involves shared narratives that span text, video, illustration, interactivity, comics, and even animation. Crowds of people spontaneously organise to create and distribute some of the most creative works available online.

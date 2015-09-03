@@ -2,6 +2,7 @@
 title: "Agrippa. <br>Going back to go forward"
 date: "2015-07-25 13:14:35"
 category: What_does_the_reader_want
+sort: 3
 ---
 
 In 1992, the designer Denis Ashbaugh and the writer William Gibson
