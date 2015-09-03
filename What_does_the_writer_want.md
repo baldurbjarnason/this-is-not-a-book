@@ -24,6 +24,8 @@ of signification that are very rarely challenged, because culture take
 the denotation and connotations associated with digital and technology
 for granted. Because we don’t take about dominant ideologies, here goes:
 
+<div class="not-on-single-page" markdown="1">
+
 - [Digital is expensive](/What_does_the_writer_want/Expensive.html)
 - [Digital is hard](/What_does_the_writer_want/Hard.html)
 - [Digital gets obsolete](/What_does_the_writer_want/Early_obsolescence.html)
@@ -38,3 +40,5 @@ for granted. Because we don’t take about dominant ideologies, here goes:
 - *[Neoteric](/What_does_the_writer_want/Neoteric.html)*. The mote.
 - *[Escalating requirements](/What_does_the_writer_want/Escalating_requirements.html)*: cyanide for projects.
 - *[Choose your context](/What_does_the_writer_want/Choose_your_context.html)* and work better.
+
+</div>

@@ -2,6 +2,7 @@
 title: "Copy the tourist trade: make snapshots and souvenirs"
 date: "2015-07-25 13:07:56"
 category: What_is_digital_writing
+sort: 12
 ---
 
 Constant iteration is a fact of like in digital. Platforms change and if

@@ -2,6 +2,7 @@
 title: "Iterate in public wherever possible"
 date: "2015-07-25 13:05:14"
 category: What_is_digital_writing
+sort: 4
 ---
 
 Make your mistakes in the glare of the spotlight, and you’ll be rewarded

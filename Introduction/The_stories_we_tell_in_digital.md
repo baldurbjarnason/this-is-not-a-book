@@ -19,4 +19,8 @@ It is the stories we tell in digital.
 
 We can avoid it if we want. Easy if we stick to older media with long-standing conventions. The other media may have to operate in a changed context but they aren't disappearing in any real way. This isn't about those other media. People love them. They'll be fine. You can disrupt companies but the only thing a form of art needs is interest. Disrupting a medium is rare. This is about telling better stories in digital. To do so we need to respect it as a medium, love the stories we are already telling, discover the ones that are particularly good, and—finally—we need to discover the stories we aren't telling. What stories are missing from digital? What do we need more of? What can we do better?
 
+<div class="not-on-single-page" markdown="1">
+
 [What stories are we missing online and in digital?](The_stories_we_miss_in_digital.html).
+
+</div>

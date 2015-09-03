@@ -2,6 +2,7 @@
 title: "Audiences on the web are or become communities"
 date: "2015-07-25 13:04:54"
 category: What_is_digital_writing
+sort: 3
 ---
 
 What separates the web from other media is that the audience also sit

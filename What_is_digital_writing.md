@@ -25,6 +25,9 @@ written some of your own.
 
 —*Take a deep breath. In through your nose. This’ll take a while.*
 
+
+<div class="not-on-single-page" markdown="1">
+
 - [It's messy and full of seams](/What_is_digital_writing/Messy_and_full_of_seams.html)
 - [All writing has an audience](/What_is_digital_writing/All_writing_has_an_audience.html)
 - [Communities](/What_is_digital_writing/The_web_is_communities.html)
@@ -40,6 +43,7 @@ written some of your own.
 - [Critics](/What_is_digital_writing/Critics_are_useless.html)
 - [Version control](/What_is_digital_writing/Version_control.html)
 
+
 There’s another ground rule, but it’s not one that can be summarised in
 a pithy little paragraph. A sentence though, is possible:
 
@@ -49,3 +53,5 @@ Hang on. Bear with me. I’m going to make this a proper big-arse heading.
 All fancy-like. A big thing needs to look like a big thing.
 
 ## [The Medium Matters](/The_Form_of_the_Thing/The_Medium_Matters.html)
+
+</div>

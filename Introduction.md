@@ -57,7 +57,11 @@ world, we can sit by the shore and wait for a defining text, watching
 the tide for each sighting of a sail on the horizon, or we can write,
 and offer ideas, and some of them will find a home.
 
+<div class="not-on-single-page" markdown="1">
+
 ***
 
 - *[The stories we tell in digital](/Introduction/The_stories_we_tell_in_digital.html)*
 - *[The stories we miss in digital](/Introduction/The_stories_we_miss_in_digital.html)*
+
+</div>

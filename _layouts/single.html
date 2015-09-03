@@ -10,7 +10,7 @@ layout: layout
 
 </header>
 
-<div class="e-content EntryContent EntryContent--page{% if page.tags %} EntryContent--{{ page.tags | first }}{% endif %}">
+<div class="e-content EntryContent EntryContent--single EntryContent--page{% if page.tags %} EntryContent--{{ page.tags | first }}{% endif %}">
 {{ content }}
 </div>
 {% if page.category %}<hr><p class="Entry-return"><a href="/{{ page.category }}.html">&larr; Back</a></p>{% endif %}

@@ -23,6 +23,16 @@
 	}
 }
 
+.EntryContent--single .not-on-single-page {
+	display: none;
+}
+.EntryContent .not-on-separate-page {
+	display: none;
+}
+.EntryContent--single .not-on-separate-page {
+	display: block;
+}
+
 .EntryContent figure {
 	margin: 0.5rem 0;
 /* 	padding: 2rem 2rem;

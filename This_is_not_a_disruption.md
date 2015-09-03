@@ -18,6 +18,8 @@ a place people have to walk to themselves. You can only arrive at an apostasy on
 Faith abides and is not subject to reason. Shattering faith to replace
 it is always an act of violence, even when it is self-inflicted.
 
+<div class="not-on-single-page" markdown="1">
+
 ***
 
 - *[The Print Paradigm](/This_is_not_a_disruption/Print_paradigm.html)*. Worldview and process.
@@ -25,3 +27,5 @@ it is always an act of violence, even when it is self-inflicted.
 - *[Ebooks – the stillborn hybrid](/This_is_not_a_disruption/Ebooks_-_the_stillborn_hybrid.html)*. The ebook. Oh, what to say about the ebook.
 - *[Paradigms are defined through practice](/This_is_not_a_disruption/Paradigms_practice.html)*. Worldviews can't be taught. Practice is what defines.
 - *[The wealth of change](/This_is_not_a_disruption/The_wealth_of_change.html)*. Once you've stopped fighting.
+
+</div>

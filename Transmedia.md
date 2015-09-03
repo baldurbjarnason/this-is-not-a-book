@@ -237,6 +237,8 @@ quasi-governmental organisation pulling the strings) and invited to
 undertake a training and selection procedure, making decisions about how
 to react to what Area X contains.
 
+<div class="not-on-single-page" markdown="1">
+
 ------------------------------------------------------------------------
 
 - *[The Problem of the Primary
@@ -245,3 +247,5 @@ Platform](/Transmedia/The_Problem_of_the_Primary_Platform.html)*. Primary versus
 - *[Unchapters and the Raw Shark Texts](/Transmedia/Unchapters.html)*. Steven Hall. Finding. Cross-media.
 
 * *[Fan fiction is what transmedia wanted to be](/Transmedia/Fan_fiction_is_what_transmedia_wanted_to_be.html)*
+
+</div>
