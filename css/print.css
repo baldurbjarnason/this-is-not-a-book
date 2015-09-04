@@ -1,0 +1,96 @@
+
+@media print {
+
+}
+
+.EntryContent blockquote {
+	background-color: transparent;
+}
+
+hr {
+	width: 40%;
+	margin: 1em auto;
+	border: none;
+	border-bottom: 1px solid #999;
+}
+
+@page {
+  size: A5;
+  margin: 2.5cm 2cm;
+  margin-bottom: 2cm;
+}
+
+.chapter {
+	page: chapter;
+  prince-page-group: start;
+}
+
+p {
+  text-align: justify;
+}
+.EntryHeader--Single-title {
+  page-break-before: always;
+  margin-top: 2cm;
+}
+
+.EntryHeader--SingleChapter-title {
+  string-set: heading content();
+}
+
+.EntryHeader--SingleMain-title {
+  height: 100%;
+  page-break-before: always;
+  margin-top: 8cm;
+}
+
+.ReadMore {
+  display:none;
+}
+.Nav {
+  display: none;
+}
+
+
+
+	.SiteBody {
+		padding: 0;
+		box-sizing:border-box;
+	  width: 100%;
+	  margin: 0;
+	}
+
+
+@page chapter:left {
+  @top-right {
+        content: counter(page);
+        font-size: 90%;
+  }
+  @top-left {
+          content: "This is not a book";
+          text-transform: uppercase;
+          font-size: 90%;
+  }
+}
+
+@page chapter:right {
+  @top-right {
+        content: counter(page);
+        font-size: 90%;
+  }
+  @top-left {
+          content: string(heading);
+          text-transform: uppercase;
+          font-size: 90%;
+  }
+}
+
+@page chapter:first {
+  margin-top: 5cm;
+  @top-right {
+        content: " ";
+  }
+  @top-left {
+          content: " ";
+  }
+
+}
