@@ -54,7 +54,7 @@ make headway and even then poets like Byron and Pushkin dominated the
 scene with what were essentially novels in verse.
 
 It isn’t that printed poetry doesn’t work. It does. It’s that poetry
-isn’t reliant on print, as a form it works just as well orally\[^3\] as
+isn’t reliant on print, as a form it works just as well orally as
 it does printed.
 
 Oral transmission coupled with the mnemonic aids of verse makes poetry

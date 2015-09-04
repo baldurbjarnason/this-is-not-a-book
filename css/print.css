@@ -1,5 +1,6 @@
-
-@media print {
+html, body {
+	font-size: 15px;
+	line-height: 19px;
 
 }
 
@@ -15,14 +16,43 @@ hr {
 }
 
 @page {
-  size: A5;
-  margin: 2.5cm 2cm;
-  margin-bottom: 2cm;
+  size: 13cm 20cm;
+  margin: 1.5cm 1.5cm;
+  margin-bottom: 1.5cm;
+	@footnotes {
+		border-top: none;
+		padding-top: 2pt;
+		margin-top: 2pt;
+		height: auto;
+  }
 }
 
 .chapter {
 	page: chapter;
   prince-page-group: start;
+	counter-reset: footnote;
+}
+
+.reversefootnote, .footnotes {
+	display: none;
+}
+
+.footnote-paragraph {
+float: footnote;
+}
+
+.footnote-paragraph p {
+	font-size: 12px;
+	line-height: 14px;
+	text-align: left;
+	text-indent: 0;
+}
+
+.footnote-paragraph::footnote-call {
+    content: counter(footnote);
+    font-size: 125%;
+    vertical-align: super;
+    line-height: none
 }
 
 p {
@@ -40,8 +70,16 @@ p {
 .EntryHeader--SingleMain-title {
   height: 100%;
   page-break-before: always;
-  margin-top: 8cm;
+  margin-top: 6cm;
+	line-height: 1.2;
+	font-size: 175%;
 }
+
+
+.EntryHeader--SingleMain-authors {
+	page-break-after: always;
+}
+
 
 .ReadMore {
   display:none;

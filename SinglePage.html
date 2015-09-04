@@ -115,7 +115,7 @@ layout: single
 <header class="EntryHeader"><h2 class="p-name EntryHeader-title EntryHeader--SingleChapter-title">{{ page.title }}</h2></header>
 
 <div class="e-content EntryContent EntryContent--page{% if page.tags %} EntryContent--{{ page.tags | first }}{% endif %}">
-{{ page.content | markdownify }}
+{{ page.content | markdownify | replace: 'href="#fn:', 'href="#wdtrw-fn-' | replace: 'id="fn:', 'id="wdtrw-fn-' | replace: 'id="fnref:', 'id="wdtrw-fnref-' | replace: 'href="#fnref:', 'href="#wdtrw-fnref-' }}
 </div>
 </article>
 {% endif %}
@@ -129,7 +129,7 @@ layout: single
 <header class="EntryHeader"><h2 class="p-name EntryHeader--Single-title">{{ page.title }}</h2></header>
 
 <div class="e-content EntryContent EntryContent--page{% if page.tags %} EntryContent--{{ page.tags | first }}{% endif %}">
-{{ page.content | markdownify }}
+{{ page.content | markdownify | replace: 'href="#fn:', 'href="#wdtrw-fn-' | replace: 'id="fn:', 'id="wdtrw-fn-' | replace: 'id="fnref:', 'id="wdtrw-fnref-' | replace: 'href="#fnref:', 'href="#wdtrw-fnref-' }}
 </div>
 
 </article>
@@ -203,7 +203,7 @@ layout: single
 <header class="EntryHeader"><h2 class="p-name EntryHeader-title EntryHeader--SingleChapter-title">{{ page.title }}</h2></header>
 
 <div class="e-content EntryContent EntryContent--page{% if page.tags %} EntryContent--{{ page.tags | first }}{% endif %}">
-{{ page.content | markdownify }}
+{{ page.content | markdownify | replace: 'href="#fn:', 'href="#wdbd-fn-' | replace: 'id="fn:', 'id="wdbd-fn-' | replace: 'id="fnref:', 'id="wdbd-fnref-' | replace: 'href="#fnref:', 'href="#wdbd-fnref-' }}
 </div>
 </article>
 {% endif %}
@@ -217,7 +217,7 @@ layout: single
 <header class="EntryHeader"><h2 class="p-name EntryHeader--Single-title">{{ page.title }}</h2></header>
 
 <div class="e-content EntryContent EntryContent--page{% if page.tags %} EntryContent--{{ page.tags | first }}{% endif %}">
-{{ page.content | markdownify }}
+{{ page.content | markdownify | replace: 'href="#fn:', 'href="#wdbd-fn-' | replace: 'id="fn:', 'id="wdbd-fn-' | replace: 'id="fnref:', 'id="wdbd-fnref-' | replace: 'href="#fnref:', 'href="#wdbd-fnref-' }}
 </div>
 
 </article>
@@ -232,7 +232,7 @@ layout: single
 <header class="EntryHeader"><h2 class="p-name EntryHeader-title EntryHeader--SingleChapter-title">{{ page.title }}</h2></header>
 
 <div class="e-content EntryContent EntryContent--page{% if page.tags %} EntryContent--{{ page.tags | first }}{% endif %}">
-{{ page.content | markdownify }}
+{{ page.content | markdownify | replace: 'href="#fn:', 'href="#cysg-fn-' | replace: 'id="fn:', 'id="cysg-fn-' | replace: 'id="fnref:', 'id="cysg-fnref-' | replace: 'href="#fnref:', 'href="#cysg-fnref-'  }}
 </div>
 </article>
 {% endif %}
@@ -246,7 +246,7 @@ layout: single
 <header class="EntryHeader"><h2 class="p-name EntryHeader--Single-title">{{ page.title }}</h2></header>
 
 <div class="e-content EntryContent EntryContent--page{% if page.tags %} EntryContent--{{ page.tags | first }}{% endif %}">
-{{ page.content | markdownify }}
+{{ page.content | markdownify | replace: 'href="#fn:', 'href="#cysg-fn-' | replace: 'id="fn:', 'id="cysg-fn-' | replace: 'id="fnref:', 'id="cysg-fnref-' | replace: 'href="#fnref:', 'href="#cysg-fnref-' }}
 </div>
 
 </article>
@@ -305,7 +305,7 @@ layout: single
 <header class="EntryHeader"><h2 class="p-name EntryHeader--Single-title">{{ page.title }}</h2></header>
 
 <div class="e-content EntryContent EntryContent--page{% if page.tags %} EntryContent--{{ page.tags | first }}{% endif %}">
-{{ page.content | markdownify }}
+{{ page.content | markdownify | replace: 'href="#fn:', 'href="#ambience-fn-' | replace: 'id="fn:', 'id="ambience-fn-' | replace: 'id="fnref:', 'id="ambience-fnref-' | replace: 'href="#fnref:', 'href="#ambience-fnref-' }}
 </div>
 
 </article>
@@ -321,7 +321,7 @@ layout: single
 <header class="EntryHeader"><h2 class="p-name EntryHeader-title EntryHeader--SingleChapter-title">{{ page.title }}</h2></header>
 
 <div class="e-content EntryContent EntryContent--page{% if page.tags %} EntryContent--{{ page.tags | first }}{% endif %}">
-{{ page.content | markdownify }}
+{{ page.content | markdownify | replace: 'href="#fn:', 'href="#waf-fn-' | replace: 'id="fn:', 'id="waf-fn-'  | replace: 'id="fnref:', 'id="waf-fnref-' | replace: 'href="#fnref:', 'href="#waf-fnref-' }}
 </div>
 </article>
 {% endif %}
@@ -335,7 +335,7 @@ layout: single
 <header class="EntryHeader"><h2 class="p-name EntryHeader--Single-title">{{ page.title }}</h2></header>
 
 <div class="e-content EntryContent EntryContent--page{% if page.tags %} EntryContent--{{ page.tags | first }}{% endif %}">
-{{ page.content | markdownify }}
+{{ page.content | markdownify | replace: 'href="#fn:', 'href="#waf-fn-' | replace: 'id="fn:', 'id="waf-fn-'  | replace: 'id="fnref:', 'id="waf-fnref-' | replace: 'href="#fnref:', 'href="#waf-fnref-' }}
 </div>
 
 </article>
