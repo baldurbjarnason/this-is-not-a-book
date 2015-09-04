@@ -122,7 +122,7 @@ Reading them in your ears, through headphones that cancel every other
 noise in the room. If <span class="houseblue">House</span> of Leaves is suggestively claustrophobic,
 this targets the amygdala directly.
 
-—
+***
 
 A digital edition of <span class="houseblue">House</span> of Leaves might draw on that album, it might
 use sound to inform the layers of story. It might be something we

@@ -9,7 +9,7 @@ Steven Hall’s 2006 debut novel *The Raw Shark Texts* is a clever,
 layered piece of writing who’s surface is a metaphysical adventure story
 about a man how cannot remember who he is. Eric Sanderson suffers from a
 recurring fugue state brought on by his encounters with a conceptual
-Ludovician shark￼. That the book is an extraordinary piece of writing
+Ludovician shark. That the book is an extraordinary piece of writing
 should go without saying - it is - what is more useful here is the way
 Hall extended the narrative out of the confines of the textual object
 itself. The book comprises 36 chapters and can be read (and deciphered -
@@ -39,7 +39,7 @@ marketing strategy for the novel, this might seem an unsuccessful
 enterprise. The attention Hall and the book has received, however, is
 tied into this vision for a book that does not stop with the binding and
 endpapers. Hall suggests that an unchapter was attached to the underside
-of a bench outside Glossop in Derbyshire ￼until its removal by persons
+of a bench outside Glossop in Derbyshire until its removal by persons
 unknown prior to 2009.
 
 Is this transmedia though?
