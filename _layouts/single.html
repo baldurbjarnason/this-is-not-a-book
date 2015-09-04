@@ -4,7 +4,7 @@ layout: layout
 
 <main class="Main Main--post">
 
-<article class="h-entry Entry Entry--post Entry--page" id="{{ page.title | slugify }}">
+<div class="h-entry Entry Entry--post Entry--page" id="{{ page.title | slugify }}">
 <header class="EntryHeader"><h1 class="p-name EntryHeader--SingleMain-title">This is not a book</h1>
 <h2 class="EntryHeader--Single-authors">by Tom Abba &amp; Baldur Bjarnason</h2>
 
@@ -20,5 +20,5 @@ layout: layout
 <p class="ReadMore"><a href="https://twitter.com/intent/tweet?url={{ "https://thisisnotabook.baldurbjarnason.com" | uri_escape }}{{ page.url }}&amp;related=fakebaldur,tomabba&amp;text={{ "This is not a book: " | uri_encode }}{{ page.title | strip_html | uri_encode }}">Share on Twitter</a> <a href="https://github.com/baldurbjarnason/this-is-not-a-book">Github</a> <a href="/Map.html">Site Map</a> <a href="mailto:baldur.bjarnason+thisisnotabook@gmail.com">Email</a></p>
 
 </footer>
-</article>
+</div>
 </main>
