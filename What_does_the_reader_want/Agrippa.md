@@ -35,10 +35,10 @@ something to be explored in an unlinear fashion. The whole book may be
 presented as one sheet of folded and cut paper, or take the form of a
 paper engineered object.
 
-<figure><img src="/images/antibook_1.jpg" alt="Francisca Preito's Antibook"></figure>
-
-(Francisca Preito’s [Antibook](http://www.blankproject.co.uk/artwork/antibook), which exists as
-an origami icosahedron)
+<figure><img src="/images/antibook_1.jpg" alt="Francisca Preito's Antibook">
+<figcaption>(Francisca Preito’s <a href="http://www.blankproject.co.uk/artwork/antibook">Antibook</a>, which exists as
+an origami icosahedron)</figcaption>
+</figure>
 
 The nature of these approaches to making books might suggest a disregard
 for the reading experience, but closer examination of Artists Book
