@@ -6,7 +6,14 @@ html, body {
 
 .EntryContent blockquote {
 	background-color: transparent;
+	padding: 0;
+	margin: 1em 1.35em;
 }
+p+p, .decking+p {
+	text-indent: 1.35rem;
+  /* margin-top: 0.5rem; */
+}
+
 
 hr {
 	width: 40%;
@@ -15,16 +22,46 @@ hr {
 	border-bottom: 1px solid #999;
 }
 
+mark {
+	background-color: transparent;
+	text-decoration: underline;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+a:link {
+	text-decoration: none;
+}
+
+a[href^="http"]::after {
+	content: attr(href);
+	float: footnote;
+		font-size: 12px;
+		line-height: 14px;
+		hyphens: none;
+}
+
 @page {
-  size: 13cm 20cm;
-  margin: 1.5cm 1.5cm;
-  margin-bottom: 1.5cm;
+  size: 12.383cm 20.32cm;
+  margin: 2cm 1.75cm 1.75cm 1.75cm;
+	bleed: 0.317cm;
 	@footnotes {
 		border-top: none;
 		padding-top: 2pt;
 		margin-top: 2pt;
 		height: auto;
   }
+}
+
+@page:left {
+	margin-right: 1.433cm;
+	margin-left: 2.067cm;
+}
+@page:right {
+	margin-left: 1.433cm;
+	margin-right: 2.067cm;
 }
 
 .chapter {
@@ -46,13 +83,14 @@ float: footnote;
 	line-height: 14px;
 	text-align: left;
 	text-indent: 0;
+	margin-bottom: 0.5em;
 }
 
 .footnote-paragraph::footnote-call {
-    content: counter(footnote);
-    font-size: 125%;
-    vertical-align: super;
-    line-height: none
+/*     content: counter(footnote);
+font-size: 125%;
+vertical-align: super;
+line-height: none */
 }
 
 p {
@@ -60,11 +98,31 @@ p {
 }
 .EntryHeader--Single-title {
   page-break-before: always;
-  margin-top: 2cm;
+  margin-top: 1cm;
+		line-height: 1.4;
+		margin-bottom: 1cm;
+}
+
+.full-figure {
+	page: full-figure;
+}
+
+@page full-figure {
+	margin: 1.5cm;
+	prince-rotate-body: landscape
+}
+
+h2 {
+	line-height: 1.25;
+}
+.houseblue {
+  color: black;
 }
 
 .EntryHeader--SingleChapter-title {
   string-set: heading content();
+	padding-bottom: 0.5cm;
+	page-break-before: right;
 }
 
 .EntryHeader--SingleMain-title {
@@ -100,12 +158,12 @@ p {
 
 @page chapter:left {
   @top-right {
-        content: counter(page);
+          content: "This is not a book";
+          text-transform: uppercase;
         font-size: 90%;
   }
   @top-left {
-          content: "This is not a book";
-          text-transform: uppercase;
+				        content: counter(page);
           font-size: 90%;
   }
 }
@@ -123,7 +181,7 @@ p {
 }
 
 @page chapter:first {
-  margin-top: 5cm;
+  margin-top: 4cm;
   @top-right {
         content: " ";
   }

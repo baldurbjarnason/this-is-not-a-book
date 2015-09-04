@@ -59,4 +59,4 @@ are fashioned. The simplicity of the idea slips past the primary /
 secondary problem outlined above and fuels the engine of discovery they
 demand.
 
-![the ludovician shark](http://gdpsu.typepad.com/.a/6a00e55001740b88340111685574be970c-500wi)
+<!-- ![the ludovician shark](http://gdpsu.typepad.com/.a/6a00e55001740b88340111685574be970c-500wi) -->

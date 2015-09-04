@@ -6,6 +6,8 @@ public: false
 ---
 
 
-<a href="../images/networkedmedia.jpg"><img src="../images/networkedmedia.jpg" alt="A diagram of the digital process"></a>
+<figure>
+  <a href="../images/networkedmedia.jpg"><img src="../images/networkedmedia.jpg" alt="A diagram of the digital process"></a>
+</figure>
 
 \[Introduce and explain the diagram\]

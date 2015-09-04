@@ -62,9 +62,8 @@ Dewey again:
 > Thus language involves what logicians call a triadic relation. There
 > is the speaker, the thing said, and the one spoken to. The external
 > object, the producer of art, is the connecting link between artist and
-> audience. <span class="highlight"
-> style="background-color: yellow;">Even when the artist works in
-> solitude all three terms are present.</span> The work is there in
+> audience. <mark class="highlight">Even when the artist works in
+> solitude all three terms are present.</mark> The work is there in
 > progress, and the artist has to become vicariously the receiving
 > audience. He can speak only as his work appeals to him as the one
 > spoken to through what he perceives. He observes and understands as a

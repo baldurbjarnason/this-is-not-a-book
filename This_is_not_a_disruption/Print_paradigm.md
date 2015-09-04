@@ -54,7 +54,9 @@ dominated.
 > of Scientific Revolutions)
 
 
-<a href="../images/printparadigm.jpg"><img src="../images/printparadigm.jpg" alt="A diagram of the print process"></a>
+<figure class="full-figure">
+  <a href="../images/printparadigm.jpg"><img src="../images/printparadigm.jpg" alt="A diagram of the print process"></a>
+</figure>
 
 If the above is your reality—if this is the world you inhabit—then you
 are in serious trouble because the print paradigm is dying. It doesn't provide the speed and responsiveness that your customers demand. It isn't capable of adapting to the problems that you and your customers are facing.
