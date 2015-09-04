@@ -1,7 +1,9 @@
 ---
-title: "A Literature of Ambience, or Ambient Literature?"
+title: "Ambient Literature…"
 date: "2015-07-25 14:04:32"
 ---
+
+## Or a literature of ambience
 
 > This is chapter 1  
 > We look up from our phones and then both move to opposite sides of the

@@ -33,7 +33,8 @@ our own, attention.
 
 McCullough provides a set of notes early in the book. Twelve ways to
 describe the ambient. Here’s one:
->That which surrounds, but does not distract…
+
+> That which surrounds, but does not distract…
 
 Attention, and the manner in which we read in a public place (assume for
 a moment that ambient literature might also be literature that by it’s
