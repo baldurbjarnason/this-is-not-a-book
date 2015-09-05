@@ -1,9 +1,11 @@
 ---
-title: "Everything is digital – the network and the shared media environment"
+title: "Everything is digital"
 date: "2015-07-25 14:20:15"
 category: This_is_not_a_disruption
 sort: 2
 ---
+
+## The network and the shared media environment
 
 > Paradigms gain their status because they are more successful than
 > their competitors in solving a few problems that the group of

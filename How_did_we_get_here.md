@@ -1,6 +1,7 @@
 ---
 title: "How did we get here?"
 date: "2015-07-25 12:58:41"
+sort: 2
 ---
 
 Any interested party possessing a passing familiarity to the history of

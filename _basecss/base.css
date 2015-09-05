@@ -150,6 +150,10 @@ footer {
   color: #6086d1;
 }
 
+.print-only {
+  display: none;
+}
+
 li > ul {
   list-style: circle;
   margin: 0;

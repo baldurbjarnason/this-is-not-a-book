@@ -1,7 +1,7 @@
 html, body {
-	font-size: 15px;
-	line-height: 19px;
-
+	font-size: 16px;
+	line-height: 20px;
+	font-family: "Garamond Premier Pro", Garamond, "Hoefler Text", Baskerville, Georgia, serif;
 }
 
 .EntryContent blockquote {
@@ -38,14 +38,14 @@ a:link {
 a[href^="http"]::after {
 	content: attr(href);
 	float: footnote;
-		font-size: 12px;
+		font-size: 13px;
 		line-height: 14px;
 		hyphens: none;
 }
 
 @page {
   size: 12.383cm 20.32cm;
-  margin: 2cm 1.75cm 1.75cm 1.75cm;
+  margin: 2.3cm 1.75cm 1.45cm 1.75cm;
 	bleed: 0.317cm;
 	@footnotes {
 		border-top: none;
@@ -68,6 +68,7 @@ a[href^="http"]::after {
 	page: chapter;
   prince-page-group: start;
 	counter-reset: footnote;
+		page-break-after: right;
 }
 
 .reversefootnote, .footnotes {
@@ -79,7 +80,7 @@ float: footnote;
 }
 
 .footnote-paragraph p {
-	font-size: 12px;
+	font-size: 13px;
 	line-height: 14px;
 	text-align: left;
 	text-indent: 0;
@@ -107,6 +108,25 @@ p {
 	page: full-figure;
 }
 
+.print-only {
+	display: block;
+}
+
+.page-break {
+	page-break-before: always;
+	page: blankpage;
+}
+
+@page blankpage {
+  @top-right {
+        content: " ";
+  }
+  @top-left {
+          content: " ";
+  }
+
+}
+
 @page full-figure {
 	margin: 1.5cm;
 	prince-rotate-body: landscape
@@ -122,20 +142,54 @@ h2 {
 .EntryHeader--SingleChapter-title {
   string-set: heading content();
 	padding-bottom: 0.5cm;
-	page-break-before: right;
 }
 
 .EntryHeader--SingleMain-title {
   height: 100%;
-  page-break-before: always;
   margin-top: 6cm;
 	line-height: 1.2;
 	font-size: 175%;
 }
 
+.titlepage {
+	page-break-after: right;
+}
+
+.titlepage + .titlepage {
+	page-break-after: left;
+}
+
+.copyright p {
+	text-indent: 0;
+	hyphens: none;
+	margin-bottom: 1em;
+}
+
+.toc {
+	page-break-after: right;
+	page-break-before: right;
+	page: toc;
+}
+
+@page toc {
+	margin-top: 4cm;
+}
+
+@page titlepage {
+	@top-right {
+				content: " ";
+	}
+	@top-left {
+					content: " ";
+	}
+}
+
+.first-chapter {
+	counter-reset: page 1;
+}
 
 .EntryHeader--SingleMain-authors {
-	page-break-after: always;
+/* 	page-break-after: always; */
 }
 
 
@@ -161,10 +215,12 @@ h2 {
           content: "This is not a book";
           text-transform: uppercase;
         font-size: 90%;
+				margin-top: 1.75em;
   }
   @top-left {
 				        content: counter(page);
           font-size: 90%;
+					margin-top: 1.75em;
   }
 }
 
@@ -172,11 +228,13 @@ h2 {
   @top-right {
         content: counter(page);
         font-size: 90%;
+				margin-top: 1.75em;
   }
   @top-left {
           content: string(heading);
           text-transform: uppercase;
           font-size: 90%;
+					margin-top: 1.75em;
   }
 }
 

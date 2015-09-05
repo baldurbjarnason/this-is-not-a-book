@@ -1,6 +1,7 @@
 ---
 title: "Writing a Fugue"
 date: "2015-07-25 14:12:37"
+sort: 11
 ---
 
 This bit is dangerous. Not because it’s going to explode, or subvert

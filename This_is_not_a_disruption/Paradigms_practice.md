@@ -1,9 +1,11 @@
 ---
-title: "Paradigms are defined through practice"
+title: "Paradigms and practice"
 date: "2015-07-25 14:21:54"
 category: This_is_not_a_disruption
 sort: 4
 ---
+
+## Exemplars and work, not models and analysis
 
 We don’t need a theory for disruptive innovation because paradigms are
 defined through practice.

@@ -5,6 +5,8 @@ category: This_is_not_a_disruption
 sort: 5
 ---
 
+## Debating a paradigm is pointless
+
 > When the individual scientist can take a paradigm for granted, he need
 > no longer, in his major works, attempt to build his field anew,
 > starting from first principles and justifying the use of each concept
