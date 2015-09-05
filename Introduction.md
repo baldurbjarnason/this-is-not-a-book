@@ -1,6 +1,7 @@
 ---
 title: "Introduction"
 date: "2015-07-25 12:57:24"
+sort: 1
 ---
 
 ## The blindness of mandated prophecy

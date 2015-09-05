@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="2465px" height="1420px" viewBox="0 0 2465 1420" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>The Print Paradigm</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <text id="Feedback" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="36" font-weight="normal" fill="#414141">
+            <tspan x="138" y="1240">Feedback</tspan>
+            <tspan x="138" y="1289" font-size="24">is unidirectional, explicit, and official: </tspan>
+            <tspan x="138" y="1322" font-size="24">sales numbers, traditional media </tspan>
+            <tspan x="138" y="1355" font-size="24">reviews, and marketing traction.</tspan>
+        </text>
+        <text id="Product" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="36" font-weight="normal" fill="#414141">
+            <tspan x="1364" y="227">Product</tspan>
+            <tspan x="1364" y="276" font-size="24">How textual complexity is managed</tspan>
+        </text>
+        <text id="Acquisition-&amp;-Produc" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="36" font-weight="normal" fill="#414141">
+            <tspan x="680" y="227">Acquisition &amp; Production</tspan>
+            <tspan x="680" y="276" font-size="24">How production complexity is managed</tspan>
+            <tspan x="680" y="309" font-size="24"></tspan>
+            <tspan x="680" y="342" font-size="24" font-style="italic">Authorship is exclusive to the writer/</tspan>
+            <tspan x="680" y="375" font-size="24" font-style="italic">illustrator</tspan>
+            <tspan x="780.632" y="375" font-size="24">, no matter how creative other </tspan>
+            <tspan x="680" y="408" font-size="24">parts of the production get</tspan>
+        </text>
+        <text id="Print" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="36" font-weight="normal" fill="#414141">
+            <tspan x="1364" y="510">Print</tspan>
+            <tspan x="1364" y="559" font-size="24">Structure is presented </tspan>
+            <tspan x="1364" y="592" font-size="24">and mediated through </tspan>
+            <tspan x="1364" y="625" font-size="24">the printed form and its </tspan>
+            <tspan x="1364" y="658" font-size="24">digital facsimiles</tspan>
+        </text>
+        <text id="Production" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="36" font-weight="normal" fill="#414141">
+            <tspan x="889" y="510">Production</tspan>
+            <tspan x="889" y="559" font-size="24">Relies on labour-</tspan>
+            <tspan x="889" y="592" font-size="24">intensive, specialised, </tspan>
+            <tspan x="889" y="625" font-size="24">complex software that </tspan>
+            <tspan x="889" y="658" font-size="24">only few can use</tspan>
+        </text>
+        <text id="Preparation" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="36" font-weight="normal" fill="#414141">
+            <tspan x="529" y="510">Preparation</tspan>
+            <tspan x="529" y="559" font-size="24">Editing, proofreading and </tspan>
+            <tspan x="529" y="592" font-size="24">formatting done by </tspan>
+            <tspan x="529" y="625" font-size="24">specialists using generic </tspan>
+            <tspan x="529" y="658" font-size="24">office software and no </tspan>
+            <tspan x="529" y="691" font-size="24">automation.</tspan>
+        </text>
+        <text id="Acquisition" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="36" font-weight="normal" fill="#414141">
+            <tspan x="138" y="510">Acquisition</tspan>
+            <tspan x="138" y="559" font-size="24">Built entirely on labour, </tspan>
+            <tspan x="138" y="592" font-size="24">not software, either in-</tspan>
+            <tspan x="138" y="625" font-size="24">house (slush pile) or out-</tspan>
+            <tspan x="138" y="658" font-size="24">sourced (agents)</tspan>
+        </text>
+        <text id="Interpretation" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="36" font-weight="normal" fill="#414141">
+            <tspan x="1729" y="510">Interpretation</tspan>
+            <tspan x="1729" y="559" font-size="24">Traditionally published </tspan>
+            <tspan x="1729" y="592" font-size="24">reviews and critiques signal to </tspan>
+            <tspan x="1729" y="625" font-size="24">readers the ‘correct’ way for </tspan>
+            <tspan x="1729" y="658" font-size="24">their social group to interpret </tspan>
+            <tspan x="1729" y="691" font-size="24">the text</tspan>
+        </text>
+        <path d="M1248.5,176.819057 L1248.5,1352" id="Line" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+        <path d="M138.5,834 L2092,834" id="Line" stroke="#9A9999" stroke-width="150" sketch:type="MSShapeGroup"></path>
+        <path id="Line-decoration-1" d="M2092,834 L2081.2,831 L2081.2,837 L2092,834 Z" stroke="#9A9999" stroke-width="150"></path>
+        <text id="The-Print-Paradigm" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="64" font-weight="normal" sketch:alignment="middle" fill="#414141">
+            <tspan x="957.78" y="140">The Print Paradigm</tspan>
+        </text>
+        <path d="M1942.5,1087.5 L520.5,1087.5" id="Line" stroke="#DFDFDF" stroke-width="25" stroke-linecap="round" sketch:type="MSShapeGroup"></path>
+        <path id="Line-decoration-1" d="M520.5,1087.5 L531.3,1090.5 L531.3,1084.5 L520.5,1087.5 Z" stroke="#DFDFDF" stroke-width="25" stroke-linecap="round"></path>
+    </g>
+</svg>

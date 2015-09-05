@@ -1,6 +1,7 @@
 ---
 title: "This is not a disruption"
 date: "2015-07-25 14:13:56"
+sort: 12
 ---
 
 From the perspective of a creator, writer, or artist, it does not matter whether Clayton Christensen’s theory of Disruptive Innovation is true or not. It doesn’t matter if it

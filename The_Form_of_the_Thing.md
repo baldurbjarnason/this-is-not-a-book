@@ -1,6 +1,7 @@
 ---
 title: "The Form of the Thing"
 date: "2015-07-25 13:00:46"
+sort: 3
 ---
 
 It is possible that we’ve stumbled into a cultural state that devalues the

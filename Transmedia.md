@@ -1,6 +1,7 @@
 ---
 title: "Transmedia"
 date: "2015-07-25 13:42:27"
+sort: 6
 ---
 
 We could start this chapter at any one of several points, and each of

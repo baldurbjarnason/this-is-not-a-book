@@ -55,7 +55,7 @@ dominated.
 
 
 <figure class="full-figure">
-  <a href="../images/printparadigm.jpg"><img src="../images/printparadigm.jpg" alt="A diagram of the print process"></a>
+  <a href="../images/printparadigm.svg"><img src="../images/printparadigm.jpg" alt="A diagram of the print process"></a>
 </figure>
 
 If the above is your reality—if this is the world you inhabit—then you
