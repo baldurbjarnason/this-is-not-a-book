@@ -64,5 +64,5 @@ inherently temporary, then the task of curating readers might be (I have
 no idea what I’m going to write next and so I’m going to write something
 else and see if that helps)…
 
-[^1]: The essay is also available on [Kindle](http://www.amazon.co.uk/gp/product/B005568MZE?keywords=Post-Artifact%20Books%20and%20Publishing&qid=1437928031&ref_=sr_1_1&sr=8-1). It’s a couple of quid.
+[^1]: The essay is also available on [Kindle](http://www.amazon.co.uk/gp/product/B005568MZE). It’s a couple of quid.
     Go and buy it and support good writing.

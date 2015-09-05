@@ -15,7 +15,7 @@ Each type of work or play you do deserves its own content. It isn't a question o
 
 Here are some common ways of creating your own work contexts:
 
-* The simplest way is to do what the [writer Tobias Buckell does](http://www.tobiasbuckell.com/2015/08/06/four-hacks-ive-used-to-focus-harder-while-writing-with-a-computer-plus-one-that-rules-them-all-for-me/): create a separate user on your computer for your work. That way you can customise what apps are installed and wall off parts of the network without disconnecting completely.
+* The simplest way is to do what the [writer Tobias Buckell does](http://goo.gl/3wm4Og): create a separate user on your computer for your work. That way you can customise what apps are installed and wall off parts of the network without disconnecting completely.
 
 * Just disconnecting and turning off the wifi on your computer isn't enough to create a new context. It needs to be distinctive enough for your subconscious to never be in doubt as to what context you are in. That's why you shouldn't eat at your desk and that's why, instead of just turning off your wifi you should instead go and work in a local cafe or in that one room in your house that has no wifi reception.
 

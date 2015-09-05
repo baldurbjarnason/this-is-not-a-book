@@ -16,8 +16,9 @@ layout: single
 
   {% assign sortedpages = site.pages | sort: 'sort' %}
   {{ site.pages["Introduction.md"].title }}
+  <p class="front-matter"><a href="#introduction">Introduction</a></p>
   <ol>
-    {% for page in sortedpages %}{% if page.category == null and page.sort %}
+    {% for page in sortedpages %}{% if page.category == null and page.sort and page.path != "Introduction.md" %}
     <li><a href="#{{ page.title | slugify }}">{{ page.title }}</a></li>
     {% endif %}{% endfor %}
 </ol>
