@@ -229,8 +229,7 @@ twelfth expedition sent into a zone (of Southern Florida) out of kilter
 with the rest of the world. The manner of the story dictates that each
 character is referred to only as their role - the Biologist, the
 Surveyor, the Psychologist - a naming structure that extends into their
-documentation of Area X itself. Annihilation had a digital ‘extension’
-http://join.thesouthernreach.com, designed to work as a taster for the
+documentation of Area X itself. Annihilation had a [digital ‘extension’](http://join.thesouthernreach.com) designed to work as a taster for the
 book, an incursion into the real world and a bridge back to Area X.
 Within the site, viewers are introduced to the themes of the novel
 (paranoia, deception, implanted suggestion and a larger,

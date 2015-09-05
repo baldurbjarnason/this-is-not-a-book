@@ -38,9 +38,11 @@ a:link {
 a[href^="http"]::after {
 	content: attr(href);
 	float: footnote;
+	text-indent: 0;
 		font-size: 13px;
 		line-height: 14px;
 		hyphens: none;
+		margin-bottom: 0.5em;
 }
 
 @page {
@@ -71,7 +73,7 @@ a[href^="http"]::after {
 		page-break-after: right;
 }
 
-.reversefootnote, .footnotes {
+.reversefootnote, div.footnotes {
 	display: none;
 }
 
@@ -171,6 +173,19 @@ h2 {
 	page: toc;
 }
 
+.toc li, .toc .front-matter {
+	position: relative;
+}
+
+.toc a[href]::after {
+    content: " " target-counter(attr(href), page);
+		font-style: italic;
+		margin-left: 2em;
+		position: absolute;
+		top: 0;
+		right: 0;
+}
+
 @page toc {
 	margin-top: 4cm;
 }
@@ -212,7 +227,7 @@ h2 {
 
 @page chapter:left {
   @top-right {
-          content: "This is not a book";
+          content: "This is a book, for now";
           text-transform: uppercase;
         font-size: 90%;
 				margin-top: 1.75em;

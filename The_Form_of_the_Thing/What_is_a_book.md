@@ -51,21 +51,21 @@ reader, is that there is no facility to go back.
 
 We can only go forward, into the essay.
 
-Paying attention.
+<p class="page-break">Paying attention.</p>
 
-Like this.
+<p class="page-break">Like this.</p>
 
-Of course,
+<p class="page-break">Of course,</p>
 
-this
+<p class="page-break">this</p>
 
-is
+<p class="page-break">is</p>
 
-not
+<p class="page-break">not</p>
 
-devoid
+<p class="page-break">devoid</p>
 
-of a back button.
+<p class="page-break">of a back button.</p>
 
 Sloan does more than just slow down the pace of reading though. Fish is
 concerned with the way in which we interact, in that we ‘favourite’, we

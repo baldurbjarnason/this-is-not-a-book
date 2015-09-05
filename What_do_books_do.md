@@ -29,7 +29,7 @@ existence is enough.
 
 Unread books, too, exist. Someone much smarter than me said that a book
 isn’t a book until it is read, and while there’s some truth in that (a
-kind of pre-emptive reification [^1] of the written word), it is true
+kind of pre-emptive reification[^1] of the written word), it is true
 that books contain the promise of existence too. Someone wrote this
 thing that’s sitting on your shelf with a paper bookmark jutting out of
 the first chapter. Someone imagined a life and a world and a plot.
