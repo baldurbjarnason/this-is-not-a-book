@@ -5,12 +5,12 @@ category: How_did_we_get_here
 sort: 2
 ---
 
-It’s not quite appropriate to liken a multi-decade old medium
+It’s not quite appropriate to liken a multi-decade-old medium
 to a toddler. A more appropriate analogy would be a teenager at a dance,
-trying to flirt for the first time, a person who is still rocketing
+trying to flirt for the first time: a person who is still rocketing
 through change trying their first tentative steps at what they see to be
 a grownup thing. The advent of tablet computers and the rise of ebooks
-has given us several choice examples, digital writing attempting to
+has given us several choice examples: digital writing attempting to
 charm the pants off somebody and, for the first time, facing the
 terrifying possibility of succeeding.
 
@@ -33,7 +33,7 @@ amongst recent impositions of literary works to a digital environment.
 Taking Elliot’s 434 lines as it’s starting point, the iPad app
 deconstructs the experience of reading a linear poem, and re-presents
 the digital text as an exploration of meaning, significance and context
-by means of Ezra Pound’s annotations to Elliot’s draft, (etc). Strip
+by means of Ezra Pound’s annotations to Elliot’s draft, (etc.). Strip
 away the technically mediated, affective layer of The Wasteland’s iPad
 instantiation and it is evident that the app is designed around the
 materially original (one might suggest scroll-like) format of the poem.
