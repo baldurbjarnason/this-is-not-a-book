@@ -19,7 +19,7 @@ In the face of all of these non-negotiable risks, the natural response of many i
 
 (That is, provided they just don't say no to the entire thing in the first place, which is the likeliest response, all things considered. But let's assume, for the moment, that you've passed that hurdle.)
 
-"It's just seems more sensible to work with an existing property, if we can."
+"It just seems more sensible to work with an existing property, if we can."
 
 There's nothing wrong with adaptations and licensed properties. Adaptations have a long history across the various media. Movies, novels, games, TV—adaptation is a well-proven tactic that often inspires enormous creativity. (If you let it, that is.)
 
