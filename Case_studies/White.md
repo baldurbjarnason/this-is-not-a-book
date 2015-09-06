@@ -5,7 +5,7 @@ category: draft
 
 ## triangle (symbol)
 
-Many pieces of cross disciplinary fiction seek to recombine media into new and interesting forms. They attend, as this book has illustrated, to each platform in accordance with it's particular strengths, operating at strength when considering the whole in parallel with the individual. Some of them work and some of them falter, sometimes through no fault of their own. Sometimes the story is not strong enough, or the platform well enough considered. Sometimes, though, it is necessary to run as far from digital platforms as we can, in order to see what we're missing, and what they're actually capable of.
+Many pieces of cross disciplinary fiction seek to recombine media into new and interesting forms. They attend, as this book has illustrated, to each platform in accordance with its particular strengths, operating at strength when considering the whole in parallel with the individual. Some of them work and some of them falter, sometimes through no fault of their own. Sometimes the story is not strong enough, or the platform well enough considered. Sometimes, though, it is necessary to run as far from digital platforms as we can, in order to see what we're missing, and what they're actually capable of.
 
 Alyssia White's (triangle) explores a relationship between two unnamed narrators as each’s monologue describes an interior journey through a strange, psychologically inflected landscape. Each voice is represented as a typewritten narrative, one running from top to middle and it’s companion 180 degrees inverted on the same page, and deliberately occulting into the space occupied by each’s opposite.
 

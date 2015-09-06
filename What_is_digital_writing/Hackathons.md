@@ -22,7 +22,7 @@ not it alone.
 
 (Back home in Iceland the university departments have a traditional
 outing called *vísindaferð*, or ‘science trip’. These trips generally
-involves the students visiting a company related to the subject matter
+involve the students visiting a company related to the subject matter
 they’re studying. Once there they then proceed to get absolutely
 hammered with the employees of said company sharing war stories, past
 failures and successes, and embarrassing stories that tell you what the
