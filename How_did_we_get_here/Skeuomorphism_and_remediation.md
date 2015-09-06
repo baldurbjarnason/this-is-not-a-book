@@ -52,7 +52,7 @@ overload through simple excess.
 
 This then, is another flaw in the logic of remediative strategies in new
 media. By desiring [*‘to borrow avidly from each other as well as from
-their analog predecessors such as film, television and photography’*](http://www.dcrc.org.uk/wp-content/uploads/2013/08/hybrid_stories_0.pdf),
+their analog predecessors such as film, television and photography’*](http://goo.gl/hc0STz),
 remediated new media content exposes itself to the risk of repeating the
 problems encountered by each predecessor. Certainly, new media cannot
 operate in cultural isolation from other media forms, but by embracing

@@ -15,9 +15,7 @@ $("a.footnote").each(function () {
 
 var titles = $(".EntryHeader--SingleMain-title")
 
-console.log(titles.length);
 
 titles.each(function () {
-	console.log($(this).text());
-	this.textContent = 'This is a book, for now';
+	this.innerHTML = 'This is a book, <i>for now</i>';
 });

@@ -5,13 +5,22 @@ layout: layout
 <main class="Main Main--post">
 
 <div class="h-entry Entry Entry--post Entry--page" id="{{ page.title | slugify }}">
-<div class="titlepage print-only"><h1 class="p-name EntryHeader--SingleMain-title">This is not a book</h1>
-  </div>
+<section class="titlepage print-only"><h1 class="p-name EntryHeader--SingleMain-title">This is not a book</h1>
+  </section>
 
-<header class="EntryHeader titlepage"><h1 class="p-name EntryHeader--SingleMain-title">This is not a book</h1>
+
+
+  <section class="print-only copyright">
+    <p>Copyright &copy; 2011-2015 Tom Abba and Baldur Bjarnason</p>
+    <p>ALL RIGHTS RESERVED</p>
+    <p>http://thisisnotabook.baldurbjarnason.com</p>
+    <p>Typeset by Baldur Bjarnason</p>
+  </section>
+
+<section class="EntryHeader titlepage"><h1 class="p-name EntryHeader--SingleMain-title">This is not a book</h1>
 <h2 class="EntryHeader--Single-authors">by Tom Abba &amp; Baldur Bjarnason</h2>
 
-</header>
+</section>
 
 <div class="e-content EntryContent EntryContent--single EntryContent--page{% if page.tags %} EntryContent--{{ page.tags | first }}{% endif %}">
 {{ content }}

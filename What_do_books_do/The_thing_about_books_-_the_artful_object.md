@@ -1,5 +1,5 @@
 ---
-title: "The thing about books – the artful object"
+title: "The artful object"
 date: "2015-07-25 13:49:35"
 category: What_do_books_do
 sort: 1

@@ -1,5 +1,5 @@
 ---
-title: "The thing about books – affordances"
+title: "Affordances"
 date: "2015-07-25 13:50:12"
 category: What_do_books_do
 sort: 2

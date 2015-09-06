@@ -1,9 +1,11 @@
 ---
-title: "Agrippa. <br>Going back to go forward"
+title: "Agrippa"
 date: "2015-07-25 13:14:35"
 category: What_does_the_reader_want
 sort: 3
 ---
+
+## Going back to go forward
 
 In 1992, the designer Denis Ashbaugh and the writer William Gibson
 collaborated on a peculiar piece of storytelling. Part digital

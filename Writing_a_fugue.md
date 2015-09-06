@@ -19,9 +19,6 @@ this, any more than there’s one way to write a film, or a novel. But
 there are, or there should be, structures and guides. Scaffolds and
 defaults.
 
-Fugues
-------
-
 A fugue[^1] is a polyphonic musical form. Polyphonic meaning two or more
 simultaneous lines of (in this case) melody. Fugue arises from the Latin
 *fuga*, meaning to chase, to flee. Fugues begin with a theme called a
@@ -130,6 +127,5 @@ Speaking personally, might that be a more laudable aim than solving a
 puzzle every fifteen minutes?
 
 [^1]: I am indebted to the University of San Francisco’s Professor of
-    Music, Alexandra Amati-Camperi, who’s ‘What is a Fugue’ was,
-    frankly, where I made sense of this section:
-    <http://www.sfbach.org/what-fugue>
+    Music, Alexandra Amati-Camperi, who’s [‘What is a Fugue’](http://www.sfbach.org/what-fugue) was,
+    frankly, where I made sense of this section.
