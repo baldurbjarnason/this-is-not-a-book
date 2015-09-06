@@ -2,9 +2,7 @@
 layout: layout
 ---
 
-<main class="Main Main--post">
-
-<div class="h-entry Entry Entry--post Entry--page" id="{{ page.title | slugify }}">
+<main class="Main Main--post h-entry Entry Entry--post Entry--page" id="{{ page.title | slugify }}">
 <section class="titlepage print-only"><h1 class="p-name EntryHeader--SingleMain-title">This is not a book</h1>
   </section>
 
@@ -32,5 +30,4 @@ layout: layout
 <p class="ReadMore"><a href="https://twitter.com/intent/tweet?url={{ "https://thisisnotabook.baldurbjarnason.com" | uri_escape }}{{ page.url }}&amp;related=fakebaldur,tomabba&amp;text={{ "This is not a book: " | uri_encode }}{{ page.title | strip_html | uri_encode }}">Share on Twitter</a> <a href="https://github.com/baldurbjarnason/this-is-not-a-book">Github</a> <a href="/Map.html">Site Map</a> <a href="mailto:baldur.bjarnason+thisisnotabook@gmail.com">Email</a></p>
 
 </footer>
-</div>
 </main>
