@@ -1,6 +1,6 @@
 html, body {
-	font-size: 16px;
-	line-height: 21px;
+	font-size: 19px;
+	line-height: 24px;
 	font-family: "Garamond Premier Pro", Garamond, "Hoefler Text", Baskerville, Georgia, serif;
 }
 
@@ -47,7 +47,7 @@ a[href^="http"]::after {
 }
 
 @page {
-  size: 12.383cm 20.32cm;
+  size: 14.913cm 22.861cm;
   margin: 2.3cm 1.75cm 1.45cm 1.75cm;
 	bleed: 0.317cm;
 	@footnotes {
@@ -59,12 +59,12 @@ a[href^="http"]::after {
 }
 
 @page:left {
-	margin-right: 1.433cm;
-	margin-left: 2.067cm;
-}
-@page:right {
 	margin-left: 1.433cm;
 	margin-right: 2.067cm;
+}
+@page:right {
+	margin-right: 1.433cm;
+	margin-left: 2.067cm;
 }
 
 .chapter {

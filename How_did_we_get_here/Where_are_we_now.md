@@ -34,7 +34,7 @@ your credit card was accepted, or several years hence, you could be
 browsing the text we are writing on a device hitherto unseen, it might
 come to you through the droning of the computer’s simulated voice, or as
 disjointed fragments quoted somewhere on a blog, a twitterfeed or
-projected into empty air by the next but one incarnation of the
+projected into empty air by the next-but-one incarnation of the
 e-reader.
 
 Modern text, mashed around through fluid digital media, simply cannot
