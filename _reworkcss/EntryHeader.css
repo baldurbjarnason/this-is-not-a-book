@@ -26,9 +26,18 @@
 
 .EntryHeader--SingleMain-title {
 	font-size: 300%;
-	font-style: italic;
+	font-style: normal;
 	text-align: left;
 	margin-top: 8rem;
+	line-height: 1.25;
+	margin-bottom: 0;
+	font-weight: lighter;
+}
+
+.EntryHeader--Single-authors {
+	font-style: italic;
+	margin-top: 0;
+	margin-bottom: 4em;
 }
 
 @media (-webkit-min-device-pixel-ratio: 2) {

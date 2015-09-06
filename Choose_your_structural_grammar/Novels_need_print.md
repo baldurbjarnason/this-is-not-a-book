@@ -14,9 +14,6 @@ restrict ourselves to something more specifically novelistic in terms of
 structure and style then we’re still talking about more than [a thousand
 years](https://en.wikipedia.org/wiki/The_Tale_of_Genji).
 
-(Who’s with me on holding a party in 2021 celebrating the thousand year
-old birthday of the published novel?)
-
 This is something we’ve clearly been doing for a while.
 
 Despite this extended history, prose never really took off as a method

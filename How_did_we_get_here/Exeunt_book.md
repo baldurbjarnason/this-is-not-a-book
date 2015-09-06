@@ -20,7 +20,7 @@ iBooks Author, and interactive fixed layout ebooks, each less book-like
 than their predecessor.
 
 (EPUB3 does suffer from very serious flaws, most of them stemming from a
-desire to replicated print conventions and systems that have evolved
+desire to replicate print conventions and systems that have evolved
 over many years, but those issues are irrelevant to this discussion.)
 
 Ebook platforms such as the Kindle and the late, lamented [Readmill](https://readmill.com/) cite

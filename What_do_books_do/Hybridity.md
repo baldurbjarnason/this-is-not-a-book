@@ -81,10 +81,10 @@ four episodes in the life of a Stalker, Red Schuhart. The events of
 with the formal qualities of film narrative as he sees them. An
 Aristotelean unity of:
 
--   action (the story shoud contain one main action, with few (if any)
+-   *action* (the story shoud contain one main action, with few (if any)
     subplots)
--   time (the story takes place over no more than 24 hours)
--   location (the story covers one physical space - no compression
+-   *time* (the story takes place over no more than 24 hours)
+-   *location* (the story covers one physical space - no compression
     of geography)
 
 is at work in the film, and absent from the novel. Tarkovsky is making

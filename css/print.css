@@ -1,6 +1,6 @@
 html, body {
 	font-size: 16px;
-	line-height: 20px;
+	line-height: 21px;
 	font-family: "Garamond Premier Pro", Garamond, "Hoefler Text", Baskerville, Georgia, serif;
 }
 
@@ -39,6 +39,7 @@ a[href^="http"]::after {
 	content: attr(href);
 	float: footnote;
 	text-indent: 0;
+	text-align: left;
 		font-size: 13px;
 		line-height: 14px;
 		hyphens: none;
@@ -100,10 +101,29 @@ p {
   text-align: justify;
 }
 .EntryHeader--Single-title {
-  page-break-before: always;
-  margin-top: 1cm;
+  /* page-break-before: always; */
+  margin-top: 1em;
 		line-height: 1.4;
-		margin-bottom: 1cm;
+		margin-bottom: 0.5em;
+		text-transform: uppercase;
+		font-style: normal;
+}
+
+ul, ol {
+	margin: 0.5em 0;
+}
+
+h2 {
+font-size: 100%;
+margin-top: 0.5em;
+margin-bottom: 0.5em;
+font-style: italic;
+}
+
+.EntryHeader--Single-title + h2 {
+	margin-top: 0em;
+	margin-bottom: 1em;
+	font-style: italic;
 }
 
 .full-figure {
@@ -144,27 +164,42 @@ h2 {
 .EntryHeader--SingleChapter-title {
   string-set: heading content();
 	padding-bottom: 0.5cm;
+	margin-bottom: 0;
+	font-style: normal;
+	border-bottom: none;
+}
+
+.EntryHeader--SingleChapter-title + h2 {
+	margin-top: 0;
+	font-size: 133%;
+	text-align: right;
 }
 
 .EntryHeader--SingleMain-title {
   height: 100%;
   margin-top: 6cm;
 	line-height: 1.2;
-	font-size: 175%;
+	font-size: 250%;
 }
 
 .titlepage {
-	page-break-after: right;
+	page-break-after: left;
 }
 
 .titlepage + .titlepage {
 	page-break-after: left;
 }
 
+.copyright {
+	page-break-after: always;
+
+}
+
 .copyright p {
 	text-indent: 0;
 	hyphens: none;
 	margin-bottom: 1em;
+	text-align: left;
 }
 
 .toc {
@@ -178,10 +213,9 @@ h2 {
 }
 
 .toc a[href]::after {
-    content: " " target-counter(attr(href), page);
-		font-style: italic;
-		margin-left: 2em;
-		position: absolute;
+    content: leader(' ') target-counter(attr(href), page);
+		font-style: normal;
+		text-align: right;
 		top: 0;
 		right: 0;
 }
@@ -228,7 +262,7 @@ h2 {
 @page chapter:left {
   @top-right {
           content: "This is a book, for now";
-          text-transform: uppercase;
+					font-style: italic;
         font-size: 90%;
 				margin-top: 1.75em;
   }
@@ -247,14 +281,14 @@ h2 {
   }
   @top-left {
           content: string(heading);
-          text-transform: uppercase;
+					font-style: italic;
           font-size: 90%;
 					margin-top: 1.75em;
   }
 }
 
 @page chapter:first {
-  margin-top: 4cm;
+  margin-top: 3cm;
   @top-right {
         content: " ";
   }
