@@ -21,7 +21,7 @@ What is true is that almost all digital projects—software, web, specifications
 
 That's just the beginning. Before you know it, the project is either indefinitely delayed and over budget, or it has been outright cancelled. And if you are really really unlucky, you will see the over-specced project completed. Which is when you'll discover that you have created a monstrosity: too many features, unusable UI, unstable as hell, buggier than an ant farm. The simple project that was supposed to solve a single problem in a simple way becomes a major productivity tax on your organisation.
 
-Standards are especially prone to this cycle of doom except it rarely manes to kill off the specification: nobody gets fired for creating a horrible horrible specification. They always start off intending to create a simple solution to a shared problem but immediately the requirements start escalating.
+Standards are especially prone to this cycle of doom except it rarely manages to kill off the specification: nobody gets fired for creating a horrible horrible specification. They always start off intending to create a simple solution to a shared problem but immediately the requirements start escalating.
 
 "What about magazines?"
 
