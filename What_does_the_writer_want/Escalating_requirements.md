@@ -31,7 +31,7 @@ Standards are especially prone to this cycle of doom except it rarely manages to
 
 "What about textbooks?"
 
-Before you know it, the new specification is larger, more complex, and less usable than whatever proprietary solutions it is replacing. If you're really unlucky, the standard ends up being worse than the problem it's supposed to solve because you now still have the original problem but also have to deal with a bunch of buggy implementations of a half-baked standard. You don't get fired for creating a horrible specification but you do get fired for not defending your employer's turn in a standards organisation, even when giving up that ground is the right thing to do.
+Before you know it, the new specification is larger, more complex, and less usable than whatever proprietary solutions it is replacing. If you're really unlucky, the standard ends up being worse than the problem it's supposed to solve. You still have the original problem but now you also have to deal with a bunch of buggy implementations of a half-baked standard. You don't get fired for creating a horrible specification but you do get fired for not defending your employer's turn in a standards organisation, even when giving up that ground is the right thing to do.
 
 All of this has a simple solution: just say no. Pick a *small*, clearly defined problem and *just solve that problem*. Don't solve or fix *anything* else. Don't worry about not solving it in a clever enough way. Don't worry about future extensibility—at most you base your solution on somebody else's who has had to worry about it.
 
