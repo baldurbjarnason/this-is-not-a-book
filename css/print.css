@@ -4,6 +4,11 @@ html, body {
 	font-family: "Garamond Premier Pro", Garamond, "Hoefler Text", Baskerville, Georgia, serif;
 }
 
+.SiteBody {
+	width: 100%;
+	max-width: 100%;
+}
+
 .EntryContent blockquote {
 	background-color: transparent;
 	padding: 0;
