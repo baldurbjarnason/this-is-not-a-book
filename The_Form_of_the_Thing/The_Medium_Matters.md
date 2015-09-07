@@ -37,7 +37,7 @@ argument but in more detail:
 
 Less pithy than the ‘medium is the something something’ line, sure, but
 by overflowing his sentences he gives the argument a little bit of space
-to breath. But if you want it in buzzfeed-y list fragments:
+to breathe. But if you want it in buzzfeed-y list fragments:
 
 -   Each medium has unique modes of expression, structures, and idioms.
 -   You can’t ‘translate’ or remediate these various media in to text
@@ -81,7 +81,7 @@ grammars work for that particular language. It’s still young and it’s
 still immature but it’s a medium of its own and that matters.
 
 But it also matters that it is a part of an ecosystem of art and media.
-That’s where digital media borrowed or stolen a lot of its
+That’s where digital media borrowed or stole a lot of its
 characteristics. It’s the genetic base it mutated from.
 
 Which leads me to this last quotation from Dewey (for now):
