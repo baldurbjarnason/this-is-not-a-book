@@ -59,7 +59,7 @@ examines the book in all its aspects and contents):
 >Deluxe Edition contains 63 viewable pages with ragged, sometimes
 >scorched edges, including copperplate aquatint etchings by Dennis
 >Ashbaugh alluding to DNA gel patterns and body text pages consisting of
->dual, 42-line columns excerpting a DNA sequence from thebicoid maternal
+>dual, 42-line columns excerpting a DNA sequence from the bicoid maternal
 >morphogen gene of the fruitfly. Page 63 (and another underlying 20 pages
 >glued together) has a hollowed-out cavity holding the diskette with
 >William Gibson’s poem.
@@ -86,7 +86,7 @@ What makes *Agrippa* such a pertinent example of digital writing is the
 implicit connection between subject matter and overarching theme, and
 the manner in which technology is employed in order to foreground those
 themes. Genuinely, form follows content, and the two are inextricably
-bound together. Where the poem to remain on the disc, it would not
+bound together. Were the poem to remain on the disc, it would not
 convey the power of the central idea at its heart. Simulating the moment
 would not suffice either - employing javascript and css to ‘erase’
 website text is fairly simple, but remove a cookie from your browser’s
