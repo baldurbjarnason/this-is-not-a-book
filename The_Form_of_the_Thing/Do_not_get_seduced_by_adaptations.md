@@ -13,7 +13,7 @@ Organisations, bureaucracies especially, exist to minimise risk. Every organisat
 
 "Can't you just make an adaptation?"
 
-Interactive media is inherently risky for a lot of organisations. Digital production doesn't fit neatly into their pre-existing production processes. Digital products don't slot nicely into their business models. The form and structure of your average interactive media project is unfamiliar. The tools are new. The long- and short term costs are uncertain.
+Interactive media is inherently risky for a lot of organisations. Digital production doesn't fit neatly into their pre-existing production processes. Digital products don't slot nicely into their business models. The form and structure of your average interactive media project is unfamiliar. The tools are new. The long- and short-term costs are uncertain.
 
 In the face of all of these non-negotiable risks, the natural response of many is to grasp at the one risk that they think they can manage.
 

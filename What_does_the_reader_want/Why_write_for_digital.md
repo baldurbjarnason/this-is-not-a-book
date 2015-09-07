@@ -12,8 +12,7 @@ escape from formats and expectations. Your reasons are your own, and
 we’d be the last people to inquire after them. What we will say though,
 is that to really grasp the nettle of digital technology, you have to
 anticipate that this is *different*. It can be more than a novel in a
-digital wrapper (and if anything has come through loud and clear, then it's that digitalling the novel is a waste of everyone's time). It can be something we’ve not seen yet. Something
-exciting. Something risky and something not-of-the-now.
+digital wrapper (and if anything has come through loud and clear, then it's that digitalling the novel is a waste of everyone's time). It can be something we’ve not seen yet. Something exciting. Something risky and something not-of-the-now.
 
 That utopian ideal, though, is our biggest problem. How do we conceive
 of something that is so unfamiliar, so not-now that it really addresses
@@ -28,9 +27,7 @@ or form is to deny contemporary culture[^1].
 It is with writing and reading. Every great leap forward has been
 built on what we understand, what we see around us. The CD Rom failed
 because it wasn’t *different enough*. DVDs are VHS are cinema in a
-portable format. Hypertext is
-
-Now that’s interesting. Hypertext is different. Not so new as we think
+portable format. Hypertext is different. Not so new as we think
 (Borges, Bush, Nelson all predate your authors by a few dozen years),
 but still a radical step.
 
