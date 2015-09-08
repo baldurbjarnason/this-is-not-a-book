@@ -17,9 +17,9 @@ all too often manifests as an extension of *[Digital is Expensive](/What_does_th
 *Fear*. Yes, OSes are going to evolve, and new features and
 technological jiggery-pokery are sometimes going to cause you a problem.
 Most of the time though, this is solvable without breaking the bank.
-There are also alternatives to Apps. Html5, run natively through a
+There are also alternatives to apps. HTML5, run natively through a
 website, is not going to suffer the same upgrade issues as a bespoke
 App, and be considerably more flexible in the process. There are some
-things that demand an App - a contained experience, GPS driven content,
+things that demand an app - a contained experience, GPS driven content,
 using specific hardware features of a mobile device, but if that’s the
 case, then your project ought t be considered in those terms too.
