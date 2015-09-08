@@ -5,6 +5,7 @@ type: page
 
 {% assign updates = site.pages | sort: 'date' | reverse %}
 {% for post in updates limit:15 %}
+{% unless post.category == "Podcast" or post.category == "Podcast-Index" %}
  <entry>
    <title>{{ post.title | strip_html }}</title>
    <link href="http://thisisnotabook.baldurbjarnason.com{{ post.url }}"/>
@@ -12,4 +13,5 @@ type: page
    <id>http://thisisnotabook.baldurbjarnason.com{{ post.url }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
+ {% endunless %}
 {% endfor %}

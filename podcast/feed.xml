@@ -1,0 +1,15 @@
+---
+layout: atom-podcast
+type: page
+---
+
+{% assign updates = site.pages | where: "category", "Podcast" | sort: 'date' | reverse %}
+{% for post in updates limit:15 %}
+ <entry>
+   <title>{{ post.title | strip_html }}</title>
+   <link href="http://thisisnotabook.baldurbjarnason.com{{ post.url }}"/>
+   <updated>{{ post.date | date_to_xmlschema }}</updated>
+   <id>http://thisisnotabook.baldurbjarnason.com{{ post.url }}</id>
+   <content type="html">{{ post.content | xml_escape }}</content>
+ </entry>
+{% endfor %}
