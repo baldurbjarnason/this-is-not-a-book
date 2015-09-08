@@ -11,7 +11,7 @@ expensive, because developers have to live too. If you don’t tell
 someone exactly what you want, or learn to talk to them about what that
 is, then you’re going to be paying through the nose. Digital isn’t
 inherently expensive though. Certainly no more expensive than your time
-is when you’re writing, and definitely cheaper than a hoarding on the
+is when you’re writing, and definitely cheaper than a billboard on the
 side of a bus, or in a tube station. Suggesting that the imagined
 expense of digital is a barrier to even starting is cobblers, and
 cowardice. A book needs to be in print, be warehoused, shipped and
