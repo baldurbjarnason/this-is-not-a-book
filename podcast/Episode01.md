@@ -8,4 +8,5 @@ sort: 1
 In which we (Baldur and Tom) sit in Tom's kitchen and talk about the importance of naming things in interactive media and storytelling in general.
 
 * Download [episode one](http://thisisnotabook.baldurbjarnason.com/podcast/thisisnotthefutureofthebook-episode01.mp3)
-* [Subscribe to the podcast](http://feedpress.me/thissnotthefutureofthebook)
+* [Subscribe to the podcast feed directly](http://feedpress.me/thissnotthefutureofthebook)
+* [Or on iTunes](https://itunes.apple.com/gb/podcast/this-is-not-future-book/id1038121104)
