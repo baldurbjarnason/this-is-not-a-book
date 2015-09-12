@@ -48,7 +48,7 @@ It should, we propose, be as simple as ‘increasing honey production’. It
 has to be something - if it isn’t, if you’re merging two storytelling
 forms with no real idea as to why, then there’s no more honey, there’s
 only money being spent. The novel is perfectly fine where it is,
-thankyou. If you’re determined to port it into a new platform, then that
+thank you. If you’re determined to port it into a new platform, then that
 platform has to alter something, offer some way to tell the story that
 isn’t possible in a conventional form. Otherwise the ghost of the book
 will manifest, clanking its chains in horror.
@@ -56,7 +56,7 @@ will manifest, clanking its chains in horror.
 Hybridity, here, should also serve story. Make no mistake, if you’re
 showing off the technology, telling the same thing in fully immersive VR
 without thinking about *what it does to the story* then you’ve wasted
-your time. After the oos and the aahs, when the dust settles and your
+your time. After the oohs and the aahs, when the dust settles and your
 audience think about what they experienced, they’re going to talk about
 the platform and not the story. Let’s see if this helps:
 
@@ -81,7 +81,7 @@ four episodes in the life of a Stalker, Red Schuhart. The events of
 with the formal qualities of film narrative as he sees them. An
 Aristotelean unity of:
 
--   *action* (the story shoud contain one main action, with few (if any)
+-   *action* (the story should contain one main action, with few (if any)
     subplots)
 -   *time* (the story takes place over no more than 24 hours)
 -   *location* (the story covers one physical space - no compression
@@ -98,7 +98,7 @@ more honey’ is the representation of an Aristotelean unity. His plot
 people, Writer and Professor, into a forbidden area called the Zone, at
 the heart of which is the Room, where your deepest wish will come true;
 is amongst the most direct ever made. Everything else in the film - be
-it the non-diagetic sound design, Tarkovsky’s obsession with
+it the non-diegetic sound design, Tarkovsky’s obsession with
 metaphysics, the history of the gulags, even the allusions to Christ,
 are all in service of that story and that unity of storytelling.
 
