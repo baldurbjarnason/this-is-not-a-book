@@ -10,8 +10,8 @@ requires preparation, thought, time and talent. If you’re a UX designer,
 then be on the lookout for projects that interest you. If your skills
 lie in a specific region of the coding geography, then push yourself out
 of the easy answers and see what can be done if you apply those *hugely*
-valuable skills to something other than an Angry Birds knockoff . As
-with illustrators, designers, and especially publishers.  Here’s the
+valuable skills to something other than an Angry Birds knockoff. As
+with illustrators, designers, and especially publishers.   Here’s the
 thing - and just to make sure that its a thing, there’s a whole section
 about it later on (or will be), aimed squarely at publishers wanting to get their
 head around what they can do with digital, and how they do it without

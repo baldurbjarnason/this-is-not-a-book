@@ -50,7 +50,7 @@ digital experiences) as books, as if we can design and produce them in
 the same terms, as if they’re the same thing. The new thing isn’t the
 old thing, it is a new thing. A thing with it’s own rules, affordances
 and properties. A thing that needs to be understood, explored and
-addressed as if it were something we hand’t seen before. Until we can do
+addressed as if it were something we hadn’t seen before. Until we can do
 this, we’re blind men appraising an elephant, or Durer etching his
 rhino.
 
