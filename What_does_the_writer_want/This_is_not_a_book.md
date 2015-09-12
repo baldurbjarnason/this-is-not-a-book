@@ -22,7 +22,7 @@ You have to change those processes if you’re going to work with digital
 writing. No-one in their right mind believes that the same production
 process will work in film as for publishing, so why would you try to
 shepherd a digital project to completion using identical processes as a
-conventional book. Sales forecasts, costs, returns on investment and
+conventional book? Sales forecasts, costs, returns on investment and
 justifications all need to be rewritten. Just as we’ve asked writers to
 know what it is they want from a digital project, we’re asking you too.
 Why do you want to pivot your business to a new market? So far, you’ve

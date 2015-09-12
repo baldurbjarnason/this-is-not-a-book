@@ -1,5 +1,5 @@
 ---
-title: "Choose your own clichè"
+title: "Choose your own cliché"
 date: "2015-07-25 13:31:25"
 category: What_does_the_writer_want
 sort: 4
