@@ -137,7 +137,7 @@ relationship of one passenger to another.
 Robin Sloan’s [*Fish*](http://www.robinsloan.com/fish/) isn’t CYOA, but
 is hypertextual writing. Sloan is completely aware of the mechanic that
 hypertext offers, and *Fish* is designed to reflect that mechanic. It
-can’t be read any way other that forward, and the skim-reading we’re
+can’t be read any way other than forward, and the skim-reading we’re
 used to employing with digital work is used against us here. The essay
 is about attention, about what we value, and how we read, and *Fish*,
 while not being CYOA, is a direct addressing of how digital hypertext

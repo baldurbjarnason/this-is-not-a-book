@@ -11,7 +11,7 @@ Computers and the internet virtualise both our tools and our location. And in do
 
 There is another name for this context collapse that you might be more familiar with: distraction. Minimalism and distraction-free environments don't address the fundamental problem because they think the problem is our inability to handle information (we can handle it fine, thank you). The problem isn't complexity but information from another context intruding into your current one.
 
-Each type of work or play you do deserves its own content. It isn't a question of simplifying or disconnecting—although that can work—but of making sure that the signlas you are getting and the complexity of the environment is appropriate to the task.
+Each type of work or play you do deserves its own context. It isn't a question of simplifying or disconnecting—although that can work—but of making sure that the signals you are getting and the complexity of the environment is appropriate to the task.
 
 Here are some common ways of creating your own work contexts:
 

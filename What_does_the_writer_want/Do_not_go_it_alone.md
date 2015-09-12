@@ -22,7 +22,7 @@ Blessed isolation and the writer’s life are going to part company.
 If this is making you nervous, then take a deep breath before you read
 on. It isn’t going to get worse, but you’re going to have to come to
 terms with letting go of your work and trusting other people. You might
-be, and we stress *might* here, one of those very lucky people who’s
+be, and we stress *might* here, one of those very lucky people whose
 talents take them many directions at once. You might be able to code, to
 design for user experiences, to produce a technically complex project of
 which the writer is but one (albeit pretty important) part. The
