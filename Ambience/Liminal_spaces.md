@@ -81,6 +81,7 @@ question that came to mind was this:
 >*How do we know that we’re operating on the edge of something?*
 
 Several answers immediately present themselves:
+
 - When there’s a sheer drop to one side of your feet.
 - When there’s a wall in front of you.
 - When the lights go out  
