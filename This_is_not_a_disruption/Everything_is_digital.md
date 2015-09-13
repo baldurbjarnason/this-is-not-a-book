@@ -90,7 +90,7 @@ non-digital grandmother—provided you’ve used tools built in the
 networked worldview where both an ebook and a print-ready PDF is only a
 button press away.
 
-Or you could do what me and my sister did and create a one-off coffee table book about your grandmother's life and give it to her for her birthday.
+Or you could do what my sister and I did and create a one-off coffee table book about your grandmother's life and give it to her for her birthday.
 
 ***
 
