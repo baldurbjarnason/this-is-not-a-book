@@ -8,7 +8,7 @@ sort: 1
 Southern Reach's [digital site](http://www.thesouthernreach.com/) is an example of unease and paranoid behaviour. The
 decisions you’re invited to take (and their consequences) are made more
 tangible by knowledge of VanderMeer's book and its contents; which is not to say
-that they don’t make sense without foreknowledge, but southernreach.com
+that they don’t make sense without foreknowledge, but thesouthernreach.com
 operates in a curious slipstream between Primary and Secondary platform.
 
 Here’s the thing:
@@ -16,8 +16,8 @@ Here’s the thing:
 If the audience for the digital comprises the potential audience for the
 book, then it’s the first platform they find. The task of the website could be proposed therefore as
 enticement, to persuade each viewer to part with their money and buy the book – the
-goal of the whole exercise. However, that audience don’t have anything
-to work with other than the digital content. It also has to function
+goal of the whole exercise. However, that audience doesn’t have anything
+to work with other than the digital content. That content also has to function
 as the Primary Platform for the period between first click and the
 reader’s encounter with the physical book. It’s caught on a high wire
 between enticement and exposition and has to face in both directions at

@@ -58,7 +58,7 @@ cacophony of world and story and technology and virtuality and illusion
 that has no centre, no point, and very often, no control. Ursula K Le
 Guin put it eloquently (Ursula K Le Guin never puts anything less than
 eloquently, and we should read more of her writing) in From Elfand to
-Ploughkeepsie:
+Poughkeepsie:
 
 > There is only a construct built in a void, with every joint and seam and nail exposed. To create what Tolkien calls “a secondary universe” is to make a new world. A world where no voice has ever spoken before; where the act of speech is the act of creation. The only voice that speaks there is the creator’s voice. And every word counts.
 
@@ -129,7 +129,7 @@ characterisation; it’s shouting. Their twitter accounts might engage
 with conversation with each other and with a remote audience, imparting
 some sense of consequence to that communication, but they lack the
 constructed nuance of dialogue and mis-en-scene present in an authored,
-closed textual space. Book content extend into video material, as
+closed textual space. Book content extends into video material, as
 extra-textual trailers for the primary text, where they at least
 function as a marketing lead for new audiences, or less cohesively as
 video diaries seemingly aping the narrative function of found-footage
@@ -223,7 +223,7 @@ possible to approach the extension of an existing text in a way that
 demonstrates some aspect of the narrative left unsaid, or in need of
 explanation, although this is not without its own problems.
 
-Jeff Vandermeer’s Southern Reach trilogy sits squarely within his ‘Weird
+Jeff VanderMeer’s Southern Reach trilogy sits squarely within his ‘Weird
 Fiction’ stable of work. The first novel - Annihilation, follows the
 twelfth expedition sent into a zone (of Southern Florida) out of kilter
 with the rest of the world. The manner of the story dictates that each
