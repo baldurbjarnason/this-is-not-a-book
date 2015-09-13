@@ -49,7 +49,7 @@ The questions to ask are more along these lines:
 
 -   How did this affect me?
 -   Was the experience consistent?
--   Did it play with or too my expectations in an interesting way?
+-   Did it play with my expectations in an interesting way?
 -   *Would I do this again?*
 
 Anybody who has spent any time researching readers and players knows
