@@ -12,7 +12,7 @@ collaborated on a peculiar piece of storytelling. Part digital
 experiment, part Artist’s Book, part prophecy, part archeology.
 *Agrippa* is a limited edition book-as-object, presented in a case,
 wrapped in various linens and metals. It’s form screams ‘commemoration’
-and ‘preservation’ and the title of the piece - a brand of photograph
+and ‘preservation’ and the title of the piece—a brand of photograph
 album owned by Gibson’s father, calls back to an analogue object.
 
 The Artist’s Book isn’t a bad model to examine when making digital work.
@@ -72,8 +72,8 @@ memory and the impact of technology on reading and the impossibility of
 possessing an ‘edition’ of a digital work. The entire content is
 reflective of a primary concern with these issues. Ashbaugh’s etchings
 explore our common ancestry though images printed on rag paper and
-presented as loose leaves inside the metal case. Gibson’s 305 line poem - a meditation on Gibson’s and his father’s youth and their relationship
-with the photographic images Gibson Snr made during his life - is
+presented as loose leaves inside the metal case. Gibson’s 305 line poem—a meditation on Gibson’s and his father’s youth and their relationship
+with the photographic images Gibson Snr made during his life—is
 arguably the most striking aspect of the work, and accordingly of most
 interest to digital writers. The poem is contained on a 1.4Mb diskette
 and when inserted into a 1992-era Macintosh computer, displays the whole
@@ -88,11 +88,11 @@ the manner in which technology is employed in order to foreground those
 themes. Genuinely, form follows content, and the two are inextricably
 bound together. Were the poem to remain on the disc, it would not
 convey the power of the central idea at its heart. Simulating the moment
-would not suffice either - employing javascript and css to ‘erase’
+would not suffice either—employing javascript and css to ‘erase’
 website text is fairly simple, but remove a cookie from your browser’s
 history and it is readable once more. For *Agrippa* to function as it
 does, the scarcity of the book form has to operate alongside the
-physicality of the disc - you have no backup, there is no ‘escape’ key.
+physicality of the disc—you have no backup, there is no ‘escape’ key.
 Reading this work renders it unreadable, and it can only persist as a
 shadow of itself, lodged in your memory as are Gibson’s memories of his
 father.

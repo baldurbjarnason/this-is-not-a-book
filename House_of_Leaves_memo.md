@@ -81,8 +81,7 @@ transposition[^1] of <span class="houseblue">House</span> of Leaves, is ‘what 
 The book is unease. It is the paranoia that sets in when you are sure
 there is something else in the <span class="houseblue">house</span> with you. It is invasion (I
 treasure the examination of the Uncanny that <span class="houseblue">House</span> of Leaves contains.
-The origins of the term are accompanied and surrounded by an example -
-as if in situ - of the affect) and it is dread. That it is contained
+The origins of the term are accompanied and surrounded by an example—as if in situ—of the affect) and it is dread. That it is contained
 within 705 sequential pages only highlights this. A book offers escape,
 a place in which we can imagine and explore another life, another world.
 The escape offered by <span class="houseblue">House</span> of Leaves is not safe, or comforting. It
@@ -129,7 +128,7 @@ use sound to inform the layers of story. It might be something we
 haven’t seen yet. It should not, I believe, be the same object that
 exists in all of those print editions, in colours and with strikeout
 text. Those have an audience, and they’re very happy with their story
-(and I’ve seen the sales figures - for a book that’s 15 years old this
+(and I’ve seen the sales figures—for a book that’s 15 years old this
 year, it’s still shifting very nicely thank you). The digital <span class="houseblue">House</span> is
 different, can be different. It can transpose what lurks at the heart of
 the <span class="houseblue">House</span> and make the uncanny new.

@@ -43,8 +43,7 @@ transaction to the reader, rather than the author. By doing so, by
 taking away agency from the author, it usually reduces the story on
 offer.
 
-For some context:
------------------
+## For some context:
 
 CYOA derives from a range of paper-based (game book, but stick with me,
 that they’re paper is important here) series of works popularised in the
@@ -54,19 +53,19 @@ small sections, the ‘decision point’ in each being offered to the reader
 as a conscious intervention into the delivery of the story. In doing so,
 and especially when they’re understood alongside paper and pencil and
 dice games of the same era, they provide a single-person equivalent of
-what is necessarily a group activity - roleplaying games. RPGs have a
-storyteller at their heart - the Dungeon Master (DM) or equivalent, who
+what is necessarily a group activity: roleplaying games. RPGs have a
+storyteller at their heart—the Dungeon Master (DM) or equivalent—who
 is guiding the action, introducing threats and generating story on the
-fly (if they’re doing their job well - in my experience, those who
+fly (if they’re doing their job well; in my experience, those who
 relied on ‘what TSR said here’ were pretty poor at their role, and soon
 fell by the wayside); RPGing is about emergent storytelling. Or, put
 more simply, about letting story emerge from player actions. What CYOA
 does/did is remove the DM from the equation and provide an imperfect,
 but adequate, substitute in the person of the author of the book. And
-that’s a hard sentence to write - with no disrespect intended to writers
+that’s a hard sentence to write—with no disrespect intended to writers
 of paper-based CYOA, who have carved out a difficult niche. CYOA then,
-operate in relation to specific other media - and importantly, other
-shared experiences, and it’s worth remembering that as we go forward.
+operate in relation to specific other media and, importantly, other
+shared experiences. It’s worth remembering that as we go forward.
 
 Here’s another thing, another problem. Most new (or emerging) media
 remediate another media form. It’s an in-between state, a transition
@@ -77,20 +76,20 @@ matures, and creators figure out what to do with it that’s genuinely new
 and exploits affordances of the new platform, new technology and its
 audience’s relationship with those things. Certainly, digital CYOA is
 remediating the analogue, paper-based form it apes, and that’s fine,
-insofar as it goes. But, given that CYOA - the text-based adventure
-format - was one of the first modes of literary play available on the
+insofar as it goes. But, given that CYOA—the text-based adventure
+format—was one of the first modes of literary play available on the
 computer, isn’t it time we saw something new? Something native to
 digital media that isn’t simply a computer-based copy of what came
 before? It’s been twenty years, after all.
 
-CYOA exploits something particular to the form of the book - in its
-physical state - we read a book, conventionally speaking, from front to
+CYOA exploits something particular to the form of the book—in its
+physical state—we read a book, conventionally speaking, from front to
 back. The form of the thing is shaped that way, to guide us through
 chapters, cliffhangers, changes in character and narrative perspective,
 driving us forward, through the text toward the last page and the
 eventual reveal; the conclusion. We have a tacit understanding of how
 that works because the book (the one in front of me now, for example)
-has a fixed number of pages (in this instance - 91, it’s a short novel).
+has a fixed number of pages (in this instance 91, it’s a short novel).
 As we work our way through the text, we are continually aware of how far
 we’ve come and how far we have to go in a simultaneous, forward/backward
 state. I’m a short way through this book, and so there’s a lot of story
@@ -100,12 +99,12 @@ All of those things are tied up in the physical form of the book.
 CYOA messes with our heads. It subverts those physical affordances of the
 book, or the page count and offers us something markedly different. The
 story does not go as far as the end of the book, in fact it’s very
-likely that it will end - through decisions we’ve taken, or by the
-random roll of a dice - a good way short of that final page. On the one
+likely that it will end—through decisions we’ve taken, or by the
+random roll of a dice—a good way short of that final page. On the one
 hand, that signifies that the story is shorter, is contained in some way
-by our actions and by the mechanic at work, but conversely, it suggests
-that there are many stories contained within these pages - that just as
-our route is not a function of a linear page count, then the world we’re
+by our actions and by the mechanic at work. Conversely, it suggests
+that there are many stories contained within these pages—that just as
+our route is not a function of a linear page count—then the world we’re
 exploring through the pages (and paragraphs, and fractions of narrative)
 is much larger than one bound by a strict order. There are other routes
 through this, other paths to take, and each one is a different journey.
@@ -144,11 +143,11 @@ while not being CYOA, is a direct addressing of how digital hypertext
 works, and should tell us something about the native mechanics available
 to writers.
 
-CYOA, as a digital catch-all solution - if you want to see how far this
+CYOA, as a digital catch-all solution—if you want to see how far this
 perception permeates then try having a conversation with; a TV
 executive, a publisher, a director; in fact anyone who works with story
-and storytelling (Bring up digital storytelling and set a timer - you’ll
-have to deal with the CYOA question before the end of the first coffee) - is a vicious double-edged sword. It opens a conversation, and provides
+and storytelling (Bring up digital storytelling and set a timer, you’ll
+have to deal with the CYOA question before the end of the first coffee)—is a vicious double-edged sword. It opens a conversation, and provides
 common ground, something that everyone present can understand, and
 curtails that conversation by its sheer ubiquity (BBC, I am looking at
 you here, you are guilty of this in spades). That it provides a common

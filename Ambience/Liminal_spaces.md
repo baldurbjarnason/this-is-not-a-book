@@ -87,7 +87,7 @@ Several answers immediately present themselves:
 - When the lights go out  
 - When there’s an evident change in our surroundings.
 
-Each of which signals two things – the presence of a body (physicality
+Each of which signals two things: the presence of a body (physicality
 is significant to ambience) and an immediate change in some aspect of
 the surrounding space. A change that requires us to employ a new sense
 or, possibly more usefully, to augment an existing one. If there’s a

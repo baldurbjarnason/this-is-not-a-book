@@ -29,5 +29,5 @@ Why do you want to pivot your business to a new market? So far, you’ve
 done an admirable job reengineering physical books as digital
 facsimiles, but the tone of the conversation has to shift, and is
 shifting toward what the medium is capable of. You are more than
-intermediaries in the creative process - you enable it and you support
-and nurture it - we’d like to explain some things though.
+intermediaries in the creative process—you enable it and you support
+and nurture it—we’d like to explain some things though.

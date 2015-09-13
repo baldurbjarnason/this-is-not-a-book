@@ -89,8 +89,8 @@ points:
 -   [Writing](Ambience/Writing.html)
 
 Finally, to return to the title of this short section. *A Literature of
-Ambience, or Ambient Literature*? Any emergent field - as Ambient
-Literature surely has to be - is going to be difficult to pin down in
+Ambience, or Ambient Literature*? Any emergent field—as Ambient
+Literature surely has to be—is going to be difficult to pin down in
 terms of exemplars, of works we can point to. Literature that addresses
 or makes use of the ambient though, is not in short supply. We’d like to
 draw your attention to a few starting points if you want to read

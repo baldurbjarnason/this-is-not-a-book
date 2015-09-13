@@ -14,17 +14,17 @@ Kuleshov who changed that when they invented montage.’*
 
 There’s more to the emergence of film than that summary, just like
 there’s more to the book to ebook ‘transition’ than swapping out one
-medium for another, or adding another format to the hardcover - trade
-paperback - mass market paperback lineup.
+medium for another, or adding another format to the hardcover / trade
+paperback / mass market paperback lineup.
 
 First of all, much to everyone’s surprise, plays didn’t disappear with
 the advent of film, nor did film once TV arrived, and TV’s definitely
 still around despite the now several-decade-long existence of the web,
 and more ubiquitous digital media.
 
-Second of all film - as a medium and a context, remains informed by the
-play - as a medium and context. Film theatres kept many of the trappings
-of play theatres for decades - curtains, ushers, gilt mouldings - before
+Second of all film—as a medium and a context—remains informed by the
+play, as a medium and context. Film theatres kept many of the trappings
+of play theatres for decades—curtains, ushers, gilt mouldings—before
 they became the more fast-food-style, commercially driven outlets that
 they are today.
 

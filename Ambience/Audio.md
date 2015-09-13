@@ -6,8 +6,8 @@ sort: 5
 ---
 
 Almost finally; sound. The simplest form of immersion, and potentially
-the most effective. Sound - delivered through headphones or played by
-speakers that interrupt the wild track of the city - directs the
+the most effective. Sound—delivered through headphones or played by
+speakers that interrupt the wild track of the city—directs the
 attention like no other medium in this field. Video is invasive, and
 obscures with an obvious frame (we’ll amend this chapter when
 GoogleGlass II is available, and works, and doesn’t make you look like a
@@ -18,7 +18,7 @@ opportunity to create a genuinely immersed experience.
 <figure><img src="/images/audio.jpg" alt="Audio"></figure>
 
 [Circumstance](http://wearecircumstance.com)
-write with sound - we begin sketching our pieces with short fragments of
+write with sound—we begin sketching our pieces with short fragments of
 audio that establish a mood, amending and amended by the impact of space
 and the journey (even as bare, non-specific points to cross through),
 that then provide a scaffold to rebuild the audio for the final piece.

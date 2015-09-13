@@ -88,7 +88,7 @@ writing in Twitter as a ‘*diabolical treble-strapped textual
 straitjacket*’, suggesting that the confines of 140 character bursts of
 content did not make for comfortable writing. Of interest in terms of
 form and content though, is the use Mitchell made of Twitter’s brevity.
-His narrator - Nathan - is in the habit of stealing his mother’s Valium
+His narrator—Nathan—is in the habit of stealing his mother’s Valium
 for a quick high, and while in an altered state, is prone to short,
 abstracted descriptions of the world. As quoted above, ’*Valium breaks
 down the world into bite-sized sentences. Like this one*’ also displays

@@ -19,10 +19,10 @@ Don’t ask for help.
 
 Show people how they can help.
 
-This is where a writer’s key talents - communication, brevity,
-creativity, shaping things, doing not telling - come into play.
+This is where a writer’s key talents—communication, brevity,
+creativity, shaping things, doing not telling—come into play.
 
-The best way (caveat - this is not the best way, but we’re being
+The best way (caveat: this is not the best way, but we’re being
 provocative, and want to offer something more useful to you than the
 usual advice about gathering a trusted and talented team around you,
 which is just so bloody obvious that it should be struck from **every**

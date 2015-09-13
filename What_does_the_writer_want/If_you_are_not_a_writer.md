@@ -15,5 +15,5 @@ with illustrators, designers, and especially publishers.   Here’s the
 thing - and just to make sure that its a thing, there’s a whole section
 about it later on (or will be), aimed squarely at publishers wanting to get their
 head around what they can do with digital, and how they do it without
-going insane and / or bankrupt - we chose the title of this text very
+going insane and / or bankrupt. We chose the title of this text very
 carefully.

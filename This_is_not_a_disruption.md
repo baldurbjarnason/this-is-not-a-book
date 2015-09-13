@@ -25,7 +25,7 @@ it is always an act of violence, even when it is self-inflicted.
 
 - *[The Print Paradigm](/This_is_not_a_disruption/Print_paradigm.html)*. Worldview and process.
 - *[Everything is digital](/This_is_not_a_disruption/Everything_is_digital.html)*. Digital is inclusive where print is exclusive.
-- *[Ebooks – the stillborn hybrid](/This_is_not_a_disruption/Ebooks_-_the_stillborn_hybrid.html)*. The ebook. Oh, what to say about the ebook.
+- *[Ebooks: the stillborn hybrid](/This_is_not_a_disruption/Ebooks_-_the_stillborn_hybrid.html)*. The ebook. Oh, what to say about the ebook.
 - *[Paradigms are defined through practice](/This_is_not_a_disruption/Paradigms_practice.html)*. Worldviews can't be taught. Practice is what defines.
 - *[Debating a paradigm is pointless](/This_is_not_a_disruption/The_wealth_of_change.html)*. Trying to convert people is a waste of time.
 - *[Don't be framed!](/This_is_not_a_disruption/Do_not_be_framed.html)*. Avoid getting dragged into discussion anti-patterns.

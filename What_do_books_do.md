@@ -40,7 +40,7 @@ If books feed the imagination, then is digital writing any different?
 Should we approach creating a digital text any differently than a
 conventional novel? Do we need to?
 
-Well, it’s probably no surprise that we think you should. Digital books - when considered as a book - are very different animals to their
+Well, it’s probably no surprise that we think you should. Digital books—when considered as a book—are very different animals to their
 printed counterparts. They don’t really exist, for a start. They’re
 icons on your tablet, or a filename in an eReader. Maybe an App that’s
 in both places. Regardless, they don’t possess the same sort of gravity
@@ -62,8 +62,8 @@ It isn’t the desire to finish it.
 
 ------------------------------------------------------------------------
 
-- *[The thing about books – artful objects](/What_do_books_do/The_thing_about_books_-_the_artful_object.html)*.
-- *[The thing about books – affordances](/What_do_books_do/The_thing_about_books_-_affordances.html)*.
+- *[The thing about books: artful objects](/What_do_books_do/The_thing_about_books_-_the_artful_object.html)*.
+- *[The thing about books: affordances](/What_do_books_do/The_thing_about_books_-_affordances.html)*.
 - *[Hybridity](/What_do_books_do/Hybridity.html)*.
 - *[Curating the reader](/What_do_books_do/Curating_the_reader.html)*.
 

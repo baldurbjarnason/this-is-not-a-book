@@ -38,7 +38,7 @@ What happens next is that the composition alternates sections when the
 to elaborate and counter the central theme over a series of sections.
 Within these techniques, the duration of notes can be halved, doubled,
 retrograde (played backwards) and inverted (played upside down). Toward
-the end, a section - *stretto* - emerges in which the *subject* is
+the end, a section—*stretto*—emerges in which the *subject* is
 audible through overlapping voices, each one not waiting for the
 previous to complete, and so building toward a complex, interconnected
 whole that has to be heard, to be read as such to be enjoyed. What is
@@ -73,7 +73,7 @@ foregrounded at the outset.
 
 What strikes me though, is that writing, or thinking about writing, a
 Fugue is a good model to use when approaching Transmedia work. The
-*subject* - the central, driving idea, has to be strong enough to be
+*subject*—the central, driving idea, has to be strong enough to be
 lost in voices, and then found again. It has to be robust and clear
 enough to survive a potential cacophony. Each character, each platform
 in a Transmedia piece is a first-person voice. They speak in their own
@@ -103,7 +103,7 @@ happen though, is even if the first act is beautifully established, the
 middle sprawls and the end is rushed, appearing out of nowhere because
 our time is up. This is where halving, doubling, reflecting and
 inverting the *subject* plays off. So much Transmedia work - so much
-digital work in general - is in thrall to the adventure game syndrome of
+digital work in general—is in thrall to the adventure game syndrome of
 having to find every clue, mechanically, in order that the end make
 sense. Remove the mechanical and work with the subject. Show us the
 tone, and immerse us in music, don’t require us to understand every

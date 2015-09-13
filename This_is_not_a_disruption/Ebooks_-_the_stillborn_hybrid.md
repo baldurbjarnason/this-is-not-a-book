@@ -1,5 +1,5 @@
 ---
-title: "Ebooks – the stillborn hybrid"
+title: "Ebooks: the stillborn hybrid"
 date: "2015-07-25 14:21:31"
 category: This_is_not_a_disruption
 sort: 3

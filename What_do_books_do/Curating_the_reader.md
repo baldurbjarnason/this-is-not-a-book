@@ -9,8 +9,7 @@ Okay, time to move on to something else, but before we go, a few
 thoughts.
 
 What we’ve tried our best to demonstrate is that digital can be
-something different, that writing for digital asks new questions of you
-- as an author, a designer, an artist of any kind - and that taming the
+something different, that writing for digital asks new questions of you—as an author, a designer, an artist of any kind—and that taming the
 mutability of digital technology is key to all of this. For a medium
 that’s ostensibly all about play; control and scaffolds are paramount.
 
@@ -34,10 +33,10 @@ know you have access to those. That you live in a town, a city, or
 somewhere that still has a high street. If we only make the same product
 available by mail order, to a specialist audience, then we can make
 other assumptions about you. If we chose a digital-only distribution
-system, then we can extend and change some of those affordances - of the
+system, then we can extend and change some of those affordances, of the
 book itself, and our readers. Craig Mod wrote one of the most insightful
-commentaries on this in 2011 - [*Post-Artifact Books and Publishing*](http://craigmod.com/journal/post_artifact/)
-[^1]- and it’s fair to say that we’ve taken Mod’s writing as a starting
+commentaries on this in 2011—[*Post-Artifact Books and Publishing*](http://craigmod.com/journal/post_artifact/)
+[^1]—and it’s fair to say that we’ve taken Mod’s writing as a starting
 point any number of times in this book. Central to the argument in
 *Post-Artifact Books* is that the digital artifact is a scaffold between
 two states- a pre-artifact system in which texts are created in

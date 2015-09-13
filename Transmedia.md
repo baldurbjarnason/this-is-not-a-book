@@ -18,8 +18,7 @@ disparate beginnings.
     childish pursuit, the industry that has developed around games, and
     digital games in particular, is growing at an incredible rate,
     eclipsing the niches occupied by hypertextual narrative and MMORPGS.
-    Our teenager’s peers are embracing a new form of storytelling -
-    coined ‘transmedia narrative’ - and it seems that here, at last, a
+    Our teenager’s peers are embracing a new form of storytelling—coined ‘transmedia narrative’—and it seems that here, at last, a
     culture born intertextual, postmodern, might find a voice.
 
 2.  There is a contract between author and audience. Maintained and
@@ -46,8 +45,8 @@ disparate beginnings.
 5.  You know, we can do it, so why shouldn’t we.
 
 Each of these origins, addressed individually, might give rise to a
-singular approach to digital storytelling - and each can, in fact, do
-just that - but together they merge, overlap, infiltrate each other’s
+singular approach to digital storytelling—and each can, in fact, do
+just that—but together they merge, overlap, infiltrate each other’s
 territory and what we get is this:
 
 Transmedia storytelling.
@@ -63,10 +62,10 @@ Poughkeepsie:
 > There is only a construct built in a void, with every joint and seam and nail exposed. To create what Tolkien calls “a secondary universe” is to make a new world. A world where no voice has ever spoken before; where the act of speech is the act of creation. The only voice that speaks there is the creator’s voice. And every word counts.
 
 Transmedia wants to have its cake and to eat it. It wants the construct
-to be provided - the fabric of the world exists, ready to be populated
+to be provided—the fabric of the world exists, ready to be populated
 with tweets and status updates, with diary entries found pinned to the
 wall of a child’s bedroom, with knowing asides to the camera (because
-Transmedia knows that a camera is present, all the time) - and it wants
+Transmedia knows that a camera is present, all the time)—and it wants
 the pact between author and reader to be easy, to be smoothed by this
 plasterwork and nails built by other hands and never questioned. By
 wanting everything, by eschewing restraint, it wastes and scatters. It
@@ -109,9 +108,9 @@ those previously invisible content streams as elements within a
 connected, intertextual landscape.
 
 Henry Jenkins, then Professor of Communication, Journalism and Cinematic
-Arts at MIT, reflected that transmedia storytelling - the coordinated
-use of storytelling grammars across platforms - can work to make
-characters more compelling.⁠ It’s a persuasive argument; as readers
+Arts at MIT, reflected that transmedia storytelling—the coordinated
+use of storytelling grammars across platforms—can work to make
+characters more compelling. It’s a persuasive argument; as readers
 become conversant with each other’s presence on distributed media
 platforms, and as they observe and embody the performance exhibited by
 blogging, social media and other aspects of telepresence, then offering
@@ -161,15 +160,15 @@ element necessary to the overall story? Or is it simply well constructed
 fan-fiction within that world; not adding anything of consequence, nor
 illuminating character in a manner described by Jenkins.
 
-Since the emergence of a set of paragons for transmedia form - ‘The
-Matrix’ as cheerleader in chief - that difficulty of marrying form to
+Since the emergence of a set of paragons for transmedia form—‘The
+Matrix’ as cheerleader in chief—that difficulty of marrying form to
 content to intention has remained. It is possible that the wholehearted
 adoption of transmedia form by established production houses, and the
 subsequent emergence of a generation of writers capable of creating
 content within those platforms is a result of the fragmentation effect
 of remediated media forms, however what remains is a sense that all too
-often, new platforms and ancillary content - blogs, games, social media
-all - are included within a product’s release because then can be, and
+often, new platforms and ancillary content—blogs, games, social media
+all—are included within a product’s release because then can be, and
 not because they should be.
 
 Examining transmedia storytelling, we are confronted with a cacophony of
@@ -186,10 +185,10 @@ If you want to write transmedia, then don’t make the mistake of thinking
 that The Matrix is what you’re making. The Matrix is loud, and
 expensive, and you can’t remember what happened in the second film, can
 you? What The Matrix represents is a marketing executive’s dream of what
-digital storytelling might be. Dedicated readers (superfans - we’ll use
+digital storytelling might be. Dedicated readers (superfans—we’ll use
 this term again) will seek out and devour everything, at a fair amount
-of expense, and while they might represent a decent income - for as long
-as their attention is on you - they don’t last. Marketing transmedia is
+of expense, and while they might represent a decent income—for as long
+as their attention is on you—they don’t last. Marketing transmedia is
 brand extension, is a campaign to sell someone else’s product and it’s
 beneath you.
 
@@ -203,13 +202,13 @@ for Transmedia writers to consider:
 > It would be inappropriate – this early in the life of the book – to strip the latter parts of the story wide open; but this can be said. All 135 sequences of the footage (film fragments released anonymously on the internet by the ‘Garage Kubrick’) to date are numbered steganographically – that is, through a complex process of ‘digital watermarking’ which must be deciphered to be read – in a pattern that seems unmistakably to represent the map of some urban area. That the pattern is in fact not a city map, that it is in fact something whose implications wrench the heart, the reader will discover. For the pattern, and the story embedded in the pattern, and the maker of the pattern, are one. Together, they are the wound of the world doing story. (2003: 405)
 
 Clute isn’t terribly interested in digital writing. What he’s
-identifying in Gibson’s story - through the means of its telling - is,
+identifying in Gibson’s story—through the means of its telling—is,
 beyond the demand for decoding; a substructure that nods toward
 something else, something storyable, something that pertains and cannot
 be told another way. When Transmedia restrains its ambition, it can
 achieve something as subtle as the substructure of Gibson’s tale. The
 implication of utilising technology to tell a story suggests that the
-action of the reader is somehow required - somehow manifested - in the
+action of the reader is somehow required—somehow manifested—in the
 uncovering of meaning. Gibson is interested in story, and the manner in
 which technology can be utilised to tell a story in a new way. That does
 not equate to letting the technology tell the story though: In all of
@@ -224,11 +223,11 @@ demonstrates some aspect of the narrative left unsaid, or in need of
 explanation, although this is not without its own problems.
 
 Jeff VanderMeer’s Southern Reach trilogy sits squarely within his ‘Weird
-Fiction’ stable of work. The first novel - Annihilation, follows the
+Fiction’ stable of work. The first novel—Annihilation—follows the
 twelfth expedition sent into a zone (of Southern Florida) out of kilter
 with the rest of the world. The manner of the story dictates that each
-character is referred to only as their role - the Biologist, the
-Surveyor, the Psychologist - a naming structure that extends into their
+character is referred to only as their role—the Biologist, the
+Surveyor, the Psychologist—a naming structure that extends into their
 documentation of Area X itself. Annihilation had a [digital ‘extension’](http://join.thesouthernreach.com) designed to work as a taster for the
 book, an incursion into the real world and a bridge back to Area X.
 Within the site, viewers are introduced to the themes of the novel
