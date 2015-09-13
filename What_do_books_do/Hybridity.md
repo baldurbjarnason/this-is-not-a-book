@@ -45,7 +45,7 @@ a hybrid form for writing, adopt the same clarity.
 *What are you trying to achieve?*
 
 It should, we propose, be as simple as ‘increasing honey production’. It
-has to be something - if it isn’t, if you’re merging two storytelling
+has to be something—if it isn’t, if you’re merging two storytelling
 forms with no real idea as to why, then there’s no more honey, there’s
 only money being spent. The novel is perfectly fine where it is,
 thank you. If you’re determined to port it into a new platform, then that
@@ -84,7 +84,7 @@ Aristotelean unity of:
 -   *action* (the story should contain one main action, with few (if any)
     subplots)
 -   *time* (the story takes place over no more than 24 hours)
--   *location* (the story covers one physical space - no compression
+-   *location* (the story covers one physical space—no compression
     of geography)
 
 is at work in the film, and absent from the novel. Tarkovsky is making

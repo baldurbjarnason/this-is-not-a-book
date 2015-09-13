@@ -5,7 +5,7 @@ category: What_does_the_writer_want
 sort: 2
 ---
 
-This one isn’t without merit - knowing what you want, how to achieve it,
+This one isn’t without merit: knowing what you want, how to achieve it,
 and avoiding the pitfalls isn’t going to be easy, but neither is writing
 a novel. A combination of techniques, practices and persistence will get
 you a long way. Digital is hard when you overstretch, when you reach for

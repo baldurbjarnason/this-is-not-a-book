@@ -10,7 +10,7 @@ idea-of-the-book and fetishises the book-as-object.
 Let me explain.
 
 What’s happened to paperback sales in the last five years (it’s mid
-2015 as I type - this is worth bearing in mind) is, depending on your
+2015 as I type, this is worth bearing in mind) is, depending on your
 position in the industry, either a wholesale cannibalising of paperbacks
 by eBooks, a steady, inescapable plateauing of digital sales at the
 expense of the physical and a reduction in trade book sales overall, or

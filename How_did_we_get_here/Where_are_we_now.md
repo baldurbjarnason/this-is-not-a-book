@@ -81,7 +81,7 @@ little brats.
 Text starts out as one thing and becomes several others.
 
 That, in a nutshell, is one of the principal problems facing authors in
-a converged age - the degree of slippage between the intended form of
+a converged age—the degree of slippage between the intended form of
 the text, and the control the reader is afforded over that form, has
 only increased year on year. As new platforms emerge and bring with them
 associated publishing standards, complex reflows of typography and

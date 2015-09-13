@@ -29,9 +29,9 @@ better analogy.)
 Whether as an inevitable consequence of the mechanisms that brought them
 into being, or by deliberate intervention on the part of their author,
 materially specific texts reflect the culture they were born into. It
-has been written many times that the computer - initially the beige box
+has been written many times that the computer—initially the beige box
 on your desk, then the silver-grey laptop and now the smartphone and
-tablet, is a medium that consumes all others. Several influential texts
+tablet—is a medium that consumes all others. Several influential texts
 of what we might propose as the first-wave of digital criticism and
 futurology espouse this framework as a critical basis on which to
 approach content creation. Bolter and Grusin’s *Remediation*, an otherwise

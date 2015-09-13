@@ -6,8 +6,8 @@ sort: 1
 ---
 
 Now that’s a question we’re not going to approach an answer for. You
-have your reasons - you might anticipate an alternative to linear
-narrative, a challenge that’s not been met by the physical book, an
+have your reasons: you might anticipate an alternative to linear
+narrative; a challenge that’s not been met by the physical book; an
 escape from formats and expectations. Your reasons are your own, and
 we’d be the last people to inquire after them. What we will say though,
 is that to really grasp the nettle of digital technology, you have to

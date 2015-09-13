@@ -108,10 +108,10 @@ layout: single
 <article class="h-entry Entry Entry--post Entry--single Entry--singlepage e-content EntryContent EntryContent--page{% if page.tags %} EntryContent--{{ page.tags | first }}{% endif %}" id="{{ page.title | slugify }}">
 <h2 class="p-name EntryHeader-title EntryHeader--SingleChapter-title">{{ page.title }}</h2>
 
-{% capture href %}href="#fn-{{ page.path | replace: ".md", "" }}-{% endcapture %}
-{% capture fnid %}id="fn-{{ page.path | replace: ".md", "" }}-{% endcapture %}
-{% capture returnid %}id="fn-rn-{{ page.path | replace: ".md", "" }}-{% endcapture %}
-{% capture returnhref %}href="#fn-rn-{{ page.path | replace: ".md", "" }}-{% endcapture %}
+{% capture href %}href="#fn-{{ page.path | replace: ".md", "" | replace: "/", "-" }}-{% endcapture %}
+{% capture fnid %}id="fn-{{ page.path | replace: ".md", "" | replace: "/", "-" }}-{% endcapture %}
+{% capture returnid %}id="fn-rn-{{ page.path | replace: ".md", "" | replace: "/", "-" }}-{% endcapture %}
+{% capture returnhref %}href="#fn-rn-{{ page.path | replace: ".md", "" | replace: "/", "-" }}-{% endcapture %}
 {{ page.content | markdownify | replace: 'href="#fn:', href | replace: 'id="fn:', fnid | replace: 'id="fnref:', returnid | replace: 'href="#fnref:', returnhref }}
 
 </article>
@@ -124,10 +124,10 @@ layout: single
 <h2 class="p-name EntryHeader--Single-title">{{ page.title }}</h2>
 
 
-{% capture href %}href="#fn-{{ page.path | replace: ".md", "" }}-{% endcapture %}
-{% capture fnid %}id="fn-{{ page.path | replace: ".md", "" }}-{% endcapture %}
-{% capture returnid %}id="fn-rn-{{ page.path | replace: ".md", "" }}-{% endcapture %}
-{% capture returnhref %}href="#fn-rn-{{ page.path | replace: ".md", "" }}-{% endcapture %}
+{% capture href %}href="#fn-{{ page.path | replace: ".md", "" | replace: "/", "-" }}-{% endcapture %}
+{% capture fnid %}id="fn-{{ page.path | replace: ".md", "" | replace: "/", "-" }}-{% endcapture %}
+{% capture returnid %}id="fn-rn-{{ page.path | replace: ".md", "" | replace: "/", "-" }}-{% endcapture %}
+{% capture returnhref %}href="#fn-rn-{{ page.path | replace: ".md", "" | replace: "/", "-" }}-{% endcapture %}
 {{ page.content | markdownify | replace: 'href="#fn:', href | replace: 'id="fn:', fnid | replace: 'id="fnref:', returnid | replace: 'href="#fnref:', returnhref }}
 
 
@@ -191,10 +191,10 @@ layout: single
 <article class="h-entry Entry Entry--post Entry--single Entry--singlepage e-content EntryContent EntryContent--page{% if page.tags %} EntryContent--{{ page.tags | first }}{% endif %}" id="{{ page.title | slugify }}">
 <h2 class="p-name EntryHeader-title EntryHeader--SingleChapter-title">{{ page.title }}</h2>
 
-{% capture href %}href="#fn-{{ page.path | replace: ".md", "" }}-{% endcapture %}
-{% capture fnid %}id="fn-{{ page.path | replace: ".md", "" }}-{% endcapture %}
-{% capture returnid %}id="fn-rn-{{ page.path | replace: ".md", "" }}-{% endcapture %}
-{% capture returnhref %}href="#fn-rn-{{ page.path | replace: ".md", "" }}-{% endcapture %}
+{% capture href %}href="#fn-{{ page.path | replace: ".md", "" | replace: "/", "-" }}-{% endcapture %}
+{% capture fnid %}id="fn-{{ page.path | replace: ".md", "" | replace: "/", "-" }}-{% endcapture %}
+{% capture returnid %}id="fn-rn-{{ page.path | replace: ".md", "" | replace: "/", "-" }}-{% endcapture %}
+{% capture returnhref %}href="#fn-rn-{{ page.path | replace: ".md", "" | replace: "/", "-" }}-{% endcapture %}
 {{ page.content | markdownify | replace: 'href="#fn:', href | replace: 'id="fn:', fnid | replace: 'id="fnref:', returnid | replace: 'href="#fnref:', returnhref }}
 
 </article>
@@ -207,10 +207,10 @@ layout: single
 <h2 class="p-name EntryHeader--Single-title">{{ page.title }}</h2>
 
 
-{% capture href %}href="#fn-{{ page.path | replace: ".md", "" }}-{% endcapture %}
-{% capture fnid %}id="fn-{{ page.path | replace: ".md", "" }}-{% endcapture %}
-{% capture returnid %}id="fn-rn-{{ page.path | replace: ".md", "" }}-{% endcapture %}
-{% capture returnhref %}href="#fn-rn-{{ page.path | replace: ".md", "" }}-{% endcapture %}
+{% capture href %}href="#fn-{{ page.path | replace: ".md", "" | replace: "/", "-" }}-{% endcapture %}
+{% capture fnid %}id="fn-{{ page.path | replace: ".md", "" | replace: "/", "-" }}-{% endcapture %}
+{% capture returnid %}id="fn-rn-{{ page.path | replace: ".md", "" | replace: "/", "-" }}-{% endcapture %}
+{% capture returnhref %}href="#fn-rn-{{ page.path | replace: ".md", "" | replace: "/", "-" }}-{% endcapture %}
 {{ page.content | markdownify | replace: 'href="#fn:', href | replace: 'id="fn:', fnid | replace: 'id="fnref:', returnid | replace: 'href="#fnref:', returnhref }}
 
 
@@ -223,10 +223,10 @@ layout: single
 <article class="h-entry Entry Entry--post Entry--single Entry--singlepage e-content EntryContent EntryContent--page{% if page.tags %} EntryContent--{{ page.tags | first }}{% endif %}" id="{{ page.title | slugify }}">
 <h2 class="p-name EntryHeader-title EntryHeader--SingleChapter-title">{{ page.title }}</h2>
 
-{% capture href %}href="#fn-{{ page.path | replace: ".md", "" }}-{% endcapture %}
-{% capture fnid %}id="fn-{{ page.path | replace: ".md", "" }}-{% endcapture %}
-{% capture returnid %}id="fn-rn-{{ page.path | replace: ".md", "" }}-{% endcapture %}
-{% capture returnhref %}href="#fn-rn-{{ page.path | replace: ".md", "" }}-{% endcapture %}
+{% capture href %}href="#fn-{{ page.path | replace: ".md", "" | replace: "/", "-" }}-{% endcapture %}
+{% capture fnid %}id="fn-{{ page.path | replace: ".md", "" | replace: "/", "-" }}-{% endcapture %}
+{% capture returnid %}id="fn-rn-{{ page.path | replace: ".md", "" | replace: "/", "-" }}-{% endcapture %}
+{% capture returnhref %}href="#fn-rn-{{ page.path | replace: ".md", "" | replace: "/", "-" }}-{% endcapture %}
 {{ page.content | markdownify | replace: 'href="#fn:', href | replace: 'id="fn:', fnid | replace: 'id="fnref:', returnid | replace: 'href="#fnref:', returnhref }}
 
 </article>
@@ -238,10 +238,10 @@ layout: single
 <article class="h-entry Entry Entry--post Entry--single Entry--singlepage e-content EntryContent EntryContent--page{% if page.tags %} EntryContent--{{ page.tags | first }}{% endif %}" id="{{ page.title | slugify }}">
   <h2 class="p-name EntryHeader--Single-title">{{ page.title }}</h2>
 
-  {% capture href %}href="#fn-{{ page.path | replace: ".md", "" }}-{% endcapture %}
-  {% capture fnid %}id="fn-{{ page.path | replace: ".md", "" }}-{% endcapture %}
-  {% capture returnid %}id="fn-rn-{{ page.path | replace: ".md", "" }}-{% endcapture %}
-  {% capture returnhref %}href="#fn-rn-{{ page.path | replace: ".md", "" }}-{% endcapture %}
+  {% capture href %}href="#fn-{{ page.path | replace: ".md", "" | replace: "/", "-" }}-{% endcapture %}
+  {% capture fnid %}id="fn-{{ page.path | replace: ".md", "" | replace: "/", "-" }}-{% endcapture %}
+  {% capture returnid %}id="fn-rn-{{ page.path | replace: ".md", "" | replace: "/", "-" }}-{% endcapture %}
+  {% capture returnhref %}href="#fn-rn-{{ page.path | replace: ".md", "" | replace: "/", "-" }}-{% endcapture %}
   {{ page.content | markdownify | replace: 'href="#fn:', href | replace: 'id="fn:', fnid | replace: 'id="fnref:', returnid | replace: 'href="#fnref:', returnhref }}
 
 
@@ -292,10 +292,10 @@ layout: single
 <h2 class="p-name EntryHeader--Single-title">{{ page.title }}</h2>
 
 
-{% capture href %}href="#fn-{{ page.path | replace: ".md", "" }}-{% endcapture %}
-{% capture fnid %}id="fn-{{ page.path | replace: ".md", "" }}-{% endcapture %}
-{% capture returnid %}id="fn-rn-{{ page.path | replace: ".md", "" }}-{% endcapture %}
-{% capture returnhref %}href="#fn-rn-{{ page.path | replace: ".md", "" }}-{% endcapture %}
+{% capture href %}href="#fn-{{ page.path | replace: ".md", "" | replace: "/", "-" }}-{% endcapture %}
+{% capture fnid %}id="fn-{{ page.path | replace: ".md", "" | replace: "/", "-" }}-{% endcapture %}
+{% capture returnid %}id="fn-rn-{{ page.path | replace: ".md", "" | replace: "/", "-" }}-{% endcapture %}
+{% capture returnhref %}href="#fn-rn-{{ page.path | replace: ".md", "" | replace: "/", "-" }}-{% endcapture %}
 {{ page.content | markdownify | replace: 'href="#fn:', href | replace: 'id="fn:', fnid | replace: 'id="fnref:', returnid | replace: 'href="#fnref:', returnhref }}
 
 
@@ -310,10 +310,10 @@ layout: single
 <h2 class="p-name EntryHeader-title EntryHeader--SingleChapter-title">{{ page.title }}</h2>
 
 
-{% capture href %}href="#fn-{{ page.path | replace: ".md", "" }}-{% endcapture %}
-{% capture fnid %}id="fn-{{ page.path | replace: ".md", "" }}-{% endcapture %}
-{% capture returnid %}id="fn-rn-{{ page.path | replace: ".md", "" }}-{% endcapture %}
-{% capture returnhref %}href="#fn-rn-{{ page.path | replace: ".md", "" }}-{% endcapture %}
+{% capture href %}href="#fn-{{ page.path | replace: ".md", "" | replace: "/", "-" }}-{% endcapture %}
+{% capture fnid %}id="fn-{{ page.path | replace: ".md", "" | replace: "/", "-" }}-{% endcapture %}
+{% capture returnid %}id="fn-rn-{{ page.path | replace: ".md", "" | replace: "/", "-" }}-{% endcapture %}
+{% capture returnhref %}href="#fn-rn-{{ page.path | replace: ".md", "" | replace: "/", "-" }}-{% endcapture %}
 {{ page.content | markdownify | replace: 'href="#fn:', href | replace: 'id="fn:', fnid | replace: 'id="fnref:', returnid | replace: 'href="#fnref:', returnhref }}
 
 </article>
@@ -326,10 +326,10 @@ layout: single
 <h2 class="p-name EntryHeader--Single-title">{{ page.title }}</h2>
 
 
-{% capture href %}href="#fn-{{ page.path | replace: ".md", "" }}-{% endcapture %}
-{% capture fnid %}id="fn-{{ page.path | replace: ".md", "" }}-{% endcapture %}
-{% capture returnid %}id="fn-rn-{{ page.path | replace: ".md", "" }}-{% endcapture %}
-{% capture returnhref %}href="#fn-rn-{{ page.path | replace: ".md", "" }}-{% endcapture %}
+{% capture href %}href="#fn-{{ page.path | replace: ".md", "" | replace: "/", "-" }}-{% endcapture %}
+{% capture fnid %}id="fn-{{ page.path | replace: ".md", "" | replace: "/", "-" }}-{% endcapture %}
+{% capture returnid %}id="fn-rn-{{ page.path | replace: ".md", "" | replace: "/", "-" }}-{% endcapture %}
+{% capture returnhref %}href="#fn-rn-{{ page.path | replace: ".md", "" | replace: "/", "-" }}-{% endcapture %}
 {{ page.content | markdownify | replace: 'href="#fn:', href | replace: 'id="fn:', fnid | replace: 'id="fnref:', returnid | replace: 'href="#fnref:', returnhref }}
 
 

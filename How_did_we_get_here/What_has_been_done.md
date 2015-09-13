@@ -53,8 +53,8 @@ approach Elliot’s work as acolytes, as scholars, a position the app
 enforces.
 
 Flipboard is an app that aggregates various news items, blog posts,
-pictures, videos, etc., from all over the net. It’s both mass media – it
-has a curated set of news feeds you can read – and micro media, with its
+pictures, videos, etc., from all over the net. It’s both mass media—it
+has a curated set of news feeds you can read—and micro media, with its
 deep customisability. Being an aggregator is unique enough to digital
 media but Flipboard has taken a central role, not only in setting design
 trends but also because of the lead its lead designer, Craig Mod, has
@@ -73,7 +73,7 @@ venture into the book-App market has, to date, been an edition of Marc
 Saporta’s Composition No.1. Saporta’s original text - a boxed ‘novel’
 printed on 150 unbound pages which asks the reader to shuffle and read
 in any order, deriving meaning from accidental juxtaposition and
-aleatory connection - is repurposed for a tablet platform in exactly the
+aleatory connection—is repurposed for a tablet platform in exactly the
 same format as the physical original. The reader lets pages skim past,
 only stopping to read when a finger is pressed upon the screen. The page
 rests as long as a connection is maintained, upon removal, the motion
@@ -93,7 +93,7 @@ reading its physical forebear.
 By far the most popular incarnation of new, interactive, text is the
 web, which ranges from the facile and trivial to the complex and
 involved. News, personal journals, fiction, commentary, recipes, travel
-guides, tech references, how-to guides - the web has already absorbed
+guides, tech references, how-to guides—the web has already absorbed
 large segments of what before was an indivisible part of non-fiction
 publishing. Digital writing is already a profitable and successful mass
 medium, all managed without pushing books into extinction. To keep

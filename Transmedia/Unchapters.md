@@ -10,10 +10,9 @@ layered piece of writing who’s surface is a metaphysical adventure story
 about a man how cannot remember who he is. Eric Sanderson suffers from a
 recurring fugue state brought on by his encounters with a conceptual
 Ludovician shark. That the book is an extraordinary piece of writing
-should go without saying - it is - what is more useful here is the way
+should go without saying—it is—what is more useful here is the way
 Hall extended the narrative out of the confines of the textual object
-itself. The book comprises 36 chapters and can be read (and deciphered -
-this is a cousin to Danielewski’s *House of Leaves*) within the written
+itself. The book comprises 36 chapters and can be read (and deciphered; this is a cousin to Danielewski’s *House of Leaves*) within the written
 and visual text alone. Hall conceived of the work as a larger thing
 though, and 36 unchapters exist outside of the central text. From the
 horse’s mouth:
@@ -53,8 +52,8 @@ interpreted as meaning the unchapters are the echoes of Eric’s story in
 our world (the book is acutely aware of its existence as a medium for
 story to take place in, down to the textual rendering of the shark’s
 appearances) and an extra-textual reification of the events of the text.
-They exist - and it does not matter whether we have read all or none of
-them - as a set of negatives from which the positive prints of the book
+They exist—and it does not matter whether we have read all or none of
+them—as a set of negatives from which the positive prints of the book
 are fashioned. The simplicity of the idea slips past the primary /
 secondary problem outlined above and fuels the engine of discovery they
 demand.

@@ -10,7 +10,7 @@ insert-your-own-cliche.**
 
 First of all, see [the earlier essay](/What_does_the_reader_want/Choose_your_own_adventure.html).
 Digital can be all of those things, but it needn’t be. If you want to
-create one of those formats, then go for it - you’ll learn a huge amount
+create one of those formats, then go for it—you’ll learn a huge amount
 by doing, and trying, and falling flat on your arse halfway through.
 Digital can be subtle though, it can toy with little aspects of
 expectation and familiarity. It can pull the rug out from under our

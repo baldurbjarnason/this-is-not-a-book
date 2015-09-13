@@ -11,16 +11,16 @@ is certainly true is that entrenched interests don’t like change. They
 like what is familiar, what can be understood easily and doesn’t scare
 them.  It’s worth saying that a position of conservativism here isn’t
 *necessarily* a bad thing. Industries have been around a lot longer than
-you and I based on entirely that foundation - not rocking the boat is a
+you and I based on entirely that foundation—not rocking the boat is a
 safe, steady path. But, if we’re going to extend the metaphor, the water
 is getting choppy, and there are big fish out there just waiting to be
 caught.
 
-Readers do like what is familiar. They like to be told a story - a
+Readers do like what is familiar. They like to be told a story—a
 little while after her death, a Susan Sontag essay addressed this
 point[^1]; she remarks that ‘*A novel is not a set of proposals, or a
 list, or a collection of agendas, or an (open-ended, revisable)
-itinerary. It is the journey itself – made, experienced and
+itinerary. It is the journey itself—made, experienced and
 completed*’[^2]. However, as the title of this book suggests, digital
 stories are not *necessarily* novels, and that’s a critical distinction.
 If we persist in thinking of them as a novelistic form, in creating them
