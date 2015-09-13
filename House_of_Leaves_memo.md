@@ -130,7 +130,7 @@ haven’t seen yet. It should not, I believe, be the same object that
 exists in all of those print editions, in colours and with strikeout
 text. Those have an audience, and they’re very happy with their story
 (and I’ve seen the sales figures - for a book that’s 15 years old this
-year, it’s still shifting very nicely thankyou). The digital <span class="houseblue">House</span> is
+year, it’s still shifting very nicely thank you). The digital <span class="houseblue">House</span> is
 different, can be different. It can transpose what lurks at the heart of
 the <span class="houseblue">House</span> and make the uncanny new.
 
