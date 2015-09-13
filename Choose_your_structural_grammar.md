@@ -7,7 +7,7 @@ sort: 8
 My dad has regularly been going to the theatre for decades. He and a few
 of his friends have a subscription at Þjóðleikhúsið and, come rain, come
 shine, every few weeks they go to see whatever it is that they’re
-staging. It doesn’t matter if it’s getting awful review, whether it’s a
+staging. It doesn’t matter if it’s getting awful reviews, whether it’s a
 farce or a tragedy, they go, watch, and then talk about it over wine.
 This tradition has survived two divorces and several major career
 changes.
