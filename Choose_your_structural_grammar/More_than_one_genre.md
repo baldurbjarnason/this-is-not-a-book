@@ -44,7 +44,7 @@ transformation of matter.
 Because it isn’t the link, per se, that puts the ‘hyper’ in hypertext.
 It’s the instantaneous and dynamic transformation of one text into
 another when you press the link that gives hypertext the oomph we
-associate with hyper media.
+associate with hypermedia.
 
 Think ‘hyperspace’ and you’re on the right track.
 

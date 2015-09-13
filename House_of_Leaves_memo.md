@@ -6,7 +6,7 @@ sort: 5
 ---
 
 *I met Mark Z Danielewski in 2014. He’s charming, fiercely intelligent
-and a writer who’s work I admire, even if I don’t always find a
+and a writer whose work I admire, even if I don’t always find a
 connection to it. In 2001, he published his first novel (although it was
 published by Pantheon Books, the extent to which Danielewski was
 involved in the design and production of the book clarifies his
@@ -39,7 +39,7 @@ process, and of related form. The eBook is a reproduction of the printed
 book; in that it arises from the same word-processed source, sometimes
 rendered through a page-layout software, sometimes not, but regardless;
 text unaltered from that which will be set, printed and bound. It is
-tied to the physicality of the book by a tangled skien of commercial
+tied to the physicality of the book by a tangled skein of commercial
 opportunity and myopia. For most texts, regardless of their content,
 this is not an unideal scenario. A best-selling thriller, the motion of
 which is forward, always forward into the unknown and the solving of a
@@ -104,7 +104,7 @@ should not be possible within the conventions of a novel.
 But here we are, and there they are, and now the question is: What might
 a digital edition of <span class="houseblue">House</span> of Leaves attempt to do with that?
 
-Let us be clear. Where <span class="houseblue">House</span> of Leaves to be directly adapted into a new
+Let us be clear. Were <span class="houseblue">House</span> of Leaves to be directly adapted into a new
 form, with every footnote, typographic trick, intertextual referent,
 typeface and layout completely intact then it will have failed. The
 nature of the book - as a book - is part of the power of the story. We
