@@ -4,20 +4,19 @@ date: "2015-07-25 14:13:56"
 sort: 12
 ---
 
-From the perspective of a creator, writer, or artist, it does not matter whether Clayton Christensen’s theory of Disruptive Innovation is true or not. It doesn’t matter if it
-can be tested. There is little point in debating its flaws. It is a theory of business and management with little bearing on the practice of storytelling. It isn't nearly as all-encompassing as the cult of Silicon Valley would have us believe. The phrase "Disruptive Innovation" has become a shibboleth—the code word that tells us whether you are with us or against us. Debates on the theory are nothing more than the clubs and
-claws of warring paradigms and will net us nothing but pain and
-conflict.
+It's harder than you'd like to separate money out from art. Money is a part of almost every step: creation, production, distribution. Capitalism won, after all. Where we run into problems when we start to assume that money and business plays the same role everywhere in everything. Everything new, everything different, everything unexpected becomes a disruptive innovation.  Everything gets mauled under the economic machine of the digital tech behemoths.
 
-What publishing and media are going through is not a disruption but a paradigm shift. It may or may not be accompanied by Disruptive Innovations™ but even if it is, the paradigm shift is purely in terms of our practice and how we see our practice. Akin to a religion, each paradigm is a worldview, conceptual framework, and theory of practice all wrapped into one. Switching from one to another is not achieved through reason and debate but through revelation and apostasy. The business implications of media a networked society are orthogonal to the practice of storytelling in a networked society.
+Maybe. Probably. High street retail has certainly been stomped on, heavily. Book stores *were* disrupted by eCommerce websites (read: Amazon). TV has been hit by streaming. As has music. Disruptive innovations are indeed disruptive and innovative. All that and more is happening on the business side of media.
 
-This isn’t a question of changing your mind but of feeling your old god
-die in your heart as it is strangled by the new god. You can sometimes
-change a person’s mind but a wholesale transformation of a worldview is
-a place people have to walk to themselves. You can only arrive at an apostasy on your own, you can't be brought there.
+But the mess happening on the creative and production side of media is something else entirely. The conflict, the fear-mongering, the vehemence, the total incomprehension of the other perspective—all of these are hallmarks of a *paradigm shift*, not a disruptive innovation.
 
-Faith abides and is not subject to reason. Shattering faith to replace
-it is always an act of violence, even when it is self-inflicted.
+Digger operators didn't accuse hydraulics of causing the downfall of civilisation. Programmers didn't claim that older, larger, smaller capacity hard disk drives were somehow more "real" than the newer, smaller, larger capacity ones. Builders didn't stare in incomprehension at steel produced by steel mini mills. A hole in the ground is a hole in the ground. Storage space is storage space. Steel is steel. A disruptive innovation is a business proposition leading to a business transition. It rarely results in fundamental shifts in worldview. When that happens, when a new worldview appears in a field, that is a paradigm shift and it always leads to tension and conflict. Paradigm shifts extend beyond the merely financial and business-oriented. It is a seismic cultural transformation. Disruptive innovations, due to their economic dynamics, tend to completely take over their fields. Paradigm shifts always leave somebody behind. Sometimes it's a lot of "somebodys". A paradigm shift creates a schism in a field, causing conflict, misery, and heartache. When a disruptive innovation hits, both the old and the new are built on value networks that the other side can understand, at least intellectually, even when they disagree. The value networks force them to *act* in a certain way but do not prevent understanding.  The two sides of a paradigm shift have no conceptual common ground because the shift represents a transformation of the field's conceptual framework. Because the shift changes all models, theories, and practices, the two sides have very little in terms of common reference points to agree on. To a person on one side of the shift, the proclamations of the other will at best sound misguided and at worst sound utterly insane. What is basic common sense to one sounds like random noise to another.
+
+The gap created by a disruptive innovation is eventually bridged. Low cost innovations iterate upwards to address the use cases of its predecessor, often doing exactly the same thing, just using a slightly different cost framework. The predecessor, the disrupted, often finds itself in a smaller but higher margin market that the disruptor cannot copy. The roles they play are economic.
+
+A paradigm shift is less forgiving. The transition takes decades as people only give up their worldview in death. Fields change at a slower pace—as incumbents grow old, retire, and die. The losing paradigm becomes a parody of itself and whatever value it has to offer is captured by the new. The winning paradigm doesn't recognise the validity or perspective of the conquered. It was a heresy, delusion, madness of the crowd, a superstition of an older era—even when it has stolen ideas, concepts, and methods wholesale from that 'superstition'.
+
+Which shows us the core difference between disruptive innovations and paradigm shifts. Disruptions are business conflicts where the human cost, if there is any, is in livelihoods and careers. Paradigm shifts are cultural conflicts that result in the loss of identities, beliefs, and values. I wish that what modern art and media is facing in a networked society were merely a disruptive innovation. But it isn't. What we have instead is a conflict that cannot be won.
 
 <div class="not-on-single-page" markdown="1">
 
