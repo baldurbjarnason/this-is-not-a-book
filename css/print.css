@@ -1,6 +1,6 @@
 html, body {
-	font-size: 19px;
-	line-height: 24px;
+	font-size: 16px;
+	line-height: 18px;
 	font-family: "Garamond Premier Pro", Garamond, "Hoefler Text", Baskerville, Georgia, serif;
 }
 
@@ -172,6 +172,7 @@ h2 {
 	margin-bottom: 0;
 	font-style: normal;
 	border-bottom: none;
+	font-size: 250%;
 }
 
 .EntryHeader--SingleChapter-title + h2 {
@@ -293,7 +294,7 @@ h2 {
 }
 
 @page chapter:first {
-  margin-top: 3cm;
+  margin-top: 4cm;
   @top-right {
         content: " ";
   }
@@ -301,4 +302,19 @@ h2 {
           content: " ";
   }
 
+}
+
+hr {
+	width: 100%;
+	margin: 1em auto;
+	margin-bottom: 0.5em;
+	border: none;
+	line-height: 1rem;
+	text-align: center;
+}
+
+hr::after {
+	text-align: center;
+	width: 100%;
+	content: "* * *";
 }

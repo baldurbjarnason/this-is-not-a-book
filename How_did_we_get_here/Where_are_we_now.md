@@ -12,7 +12,7 @@ structure and pacing of reading.
 Digital text is structured prose, just like print text, but it gains a
 new, important, feature: links. In the words of hypertext toolmaker,
 Mark Bernstein: ‘the most important new punctuation mark since the
-comma’.1
+comma’.
 
 Digital text gives a writer the freedom to be less textual if they wish,
 adding video clips, audio, and assorted interactive elements into the
