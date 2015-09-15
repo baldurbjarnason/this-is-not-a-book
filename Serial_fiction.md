@@ -102,4 +102,4 @@ complete.
 
 Jeff Noon uses Twitter as most of the rest of us use air. He breathes it
 in, and exhales something utterly ‘other’ as a byproduct of his being in
-the world. Noon is a prose stylist,
+the world. 

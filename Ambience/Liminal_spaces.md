@@ -1,5 +1,5 @@
 ---
-title: "Liminal spaces."
+title: "Liminal spaces"
 date: "2015-07-25 14:07:01"
 category: Ambience
 sort: 7

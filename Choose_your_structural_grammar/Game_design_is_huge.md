@@ -1,5 +1,5 @@
 ---
-title: "Games design is huge."
+title: "Games design is huge"
 date: "2015-07-25 13:55:32"
 category: Choose_your_structural_grammar
 sort: 5
