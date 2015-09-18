@@ -3,7 +3,7 @@ layout: atom-podcast
 type: page
 ---
 
-{% assign updates = site.pages | where: "category", "Podcast" | sort: 'date' | reverse %}
+{% assign updates = site.pages | where: "category", "podcast" | sort: 'date' | reverse %}
 {% for post in updates limit:15 %}
  <item>
    <title>{{ post.title | strip_html }}</title>
