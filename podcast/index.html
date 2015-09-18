@@ -23,7 +23,7 @@ layout: index
 
 {% assign sortedpages = site.pages | sort: 'sort' %}
 <ol>
-  {% for page in sortedpages %}{% if page.category == "Podcast" and page.sort %}
+  {% for page in sortedpages %}{% if page.category == "podcast" and page.sort %}
   <li><a href="{{ page.url }}">{{ page.title }}</a></li>
   {% endif %}{% endfor %}
 </ol>
