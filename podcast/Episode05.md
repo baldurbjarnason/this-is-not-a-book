@@ -8,7 +8,7 @@ layout: podcast
 
 In this one we cover the following thingamajigs:
 
-* Expecting the mainstream to head to you but ending up in the wilderness of the avant-garde and the experimental.
+* Baldur talks about what it feels like to anticipate that the mainstream will coincide with your interests but then watching it go into a different direction. Three different directions, to be specific.
 * Craig Mod's [article](http://aeon.co/magazine/technology/why-have-digital-books-stopped-evolving/). (And the [coda he posted on his website](http://craigmod.com/sputnik/as_we_may_read/), which you should also read.)
 * Fahrenheit Press's audience engagement.
 * [Xcode playgrounds](https://developer.apple.com/library/ios/recipes/Playground_Help/Chapters/AboutPlaygrounds.html).
