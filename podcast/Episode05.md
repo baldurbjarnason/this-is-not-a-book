@@ -6,9 +6,9 @@ sort: 5
 layout: podcast
 ---
 
-In this one we cover:
+In this one we cover the following thingamajigs:
 
-* On expecting the mainstream to head to you but ending up in the wilderness of the avant-garde and the experimental.
+* Expecting the mainstream to head to you but ending up in the wilderness of the avant-garde and the experimental.
 * Craig Mod's [article](http://aeon.co/magazine/technology/why-have-digital-books-stopped-evolving/). (And the [coda he posted on his website](http://craigmod.com/sputnik/as_we_may_read/), which you should also read.)
 * Fahrenheit Press's audience engagement.
 * [Xcode playgrounds](https://developer.apple.com/library/ios/recipes/Playground_Help/Chapters/AboutPlaygrounds.html).
