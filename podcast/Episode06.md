@@ -9,7 +9,7 @@ layout: podcast
 In this episode we worry about digital publishing not moving forward to the future:
 
 * How do we get ebooks and the like moving forward without wholesale destruction?
-* We also respond to that Hackathon article. [No, not that one](http://publishingperspectives.com/2015/06/what-the-hell-happens-at-a-publishing-hackathon/#.Vjo83tal3p4). [No, not that one](http://thoughtcatalog.com/porter-anderson/2014/05/the-futurebook-hackathon-londons-publishers-brave-the-weird/). [This one](http://publishingperspectives.com/2015/10/editorial-where-is-publishings-jet-pack/#.Vjo85tal3p4).
+* We also respond to that Hackathon article. [No, not that one](http://publishingperspectives.com/2015/06/what-the-hell-happens-at-a-publishing-hackathon/#.Vjo83tal3p4). [No, not that one either](http://thoughtcatalog.com/porter-anderson/2014/05/the-futurebook-hackathon-londons-publishers-brave-the-weird/). [This one](http://publishingperspectives.com/2015/10/editorial-where-is-publishings-jet-pack/#.Vjo85tal3p4).
 * When do hackathons work?
 * This is the episode where we sing the praises of React. No, not that [react](https://facebook.github.io/react/index.html). [The other one](http://www.react-hub.org.uk).
 * Singing the praises of [Claire Reddington](https://twitter.com/clarered).
