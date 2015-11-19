@@ -24,6 +24,7 @@ Some thoughts prompted by [Touchpress's pivot](http://www.thebookseller.com/news
 * Pick a genre and stick to it.
 * Baldur goes on a rant on publishing industry contracts.
 * On not confusing detail with quality.
+* To be continued…
 
 May contain swearing.
 
