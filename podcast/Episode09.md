@@ -27,7 +27,7 @@ In this episode we cover a schism in digital media that traditional publishing h
 * What does this dichotomy mean for publishers?
 * What is a publisher in print? What is a publisher in digital?
 * End-to-end integration is very hard to pull off in digital. Choose a focus: author or audiences.
-* Audience aggregator versus production aggregators.
+* Audience aggregators versus production aggregators.
 * Publishers act as if authors were completely fungible. Foundation labour in publishing is brittle.
 * Using [Unbound](https://unbound.co.uk) as a case study: a social capital converter.
 * Trade publishers don't have that clarity yet.
@@ -42,7 +42,7 @@ In this episode we cover a schism in digital media that traditional publishing h
 * How do you get to the point where you're covering your costs?
 * Patreon only works if you do like Dave Sim did with [Cerebus](https://en.wikipedia.org/wiki/Cerebus_the_Aardvark): deliver on your promises, consistently and reliably. (All of Dave Sim's other weirdnesses are decidedly optional.)
 * The 'Print is Great' worldview hinders all digital efforts.
-* How Baldur could fund the purchase of a budget iPad Mini.
+* How Baldur could fund the purchase of the cheapest iPad Mini.
 * 'Toxic' is relative.
 * Amazon's asymmetric bet with the Kindle.
 * Print is viable in the long term, just not interesting to Baldur.
