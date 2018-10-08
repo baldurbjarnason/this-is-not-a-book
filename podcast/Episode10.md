@@ -23,10 +23,11 @@ In this episode we cover conferences, production systems, W.E. Deming, David Pye
 * Why the web-based Pelican Books is both a huge missed opportunity and not. Grasping an opportunity is a mistake when you don't have a system in place to capitalise on it.
 * Copying Dickens is a bad idea.
 * Belgravia. How publishers look like mad, adrenaline-fuelled risk seekers to Baldur.
-* The entire point of making anything within a complex system is that you know very little about what is actually happening.
+* The entire point of making anything within a complex system is that you know very little about what is actually happening .
 
 ***
 
+* <label for="episode-10">Play the episode in your browser</label><br><audio id="episode-10" controls src="/podcast/thisisnotthefutureofthebook-episode10.mp3" preload="metadata">Your browser does not support the <code>audio</code> element.</audio>
 * Download <a href="http://thisisnotabook.baldurbjarnason.com/podcast/thisisnotthefutureofthebook-episode10.mp3" target="_blank">episode ten</a>
 * [Subscribe to the podcast feed directly](http://feedpress.me/thissnotthefutureofthebook)
 * [Or on iTunes](https://itunes.apple.com/gb/podcast/this-is-not-future-book/id1038121104)

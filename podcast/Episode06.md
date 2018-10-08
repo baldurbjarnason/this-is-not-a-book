@@ -20,6 +20,7 @@ In this episode we worry about digital publishing not moving forward to the futu
 
 May contain swearing.
 
+* <label for="episode-6">Play the episode in your browser</label><br><audio id="episode-6" controls src="/podcast/thisisnotthefutureofthebook-episode06.mp3" preload="metadata">Your browser does not support the <code>audio</code> element.</audio>
 * Download <a href="http://thisisnotabook.baldurbjarnason.com/podcast/thisisnotthefutureofthebook-episode06.mp3" target="_blank">episode six</a>
 * [Subscribe to the podcast feed directly](http://feedpress.me/thissnotthefutureofthebook)
 * [Or on iTunes](https://itunes.apple.com/gb/podcast/this-is-not-future-book/id1038121104)

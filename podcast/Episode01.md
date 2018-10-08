@@ -10,6 +10,7 @@ In which we (Baldur and Tom) sit in Tom's kitchen and talk about the importance 
 
 May contain swearing.
 
+* <label for="episode-1">Play the episode in your browser</label><br><audio id="episode-1" controls src="/podcast/thisisnotthefutureofthebook-episode01.mp3" preload="metadata">Your browser does not support the <code>audio</code> element.</audio>
 * Download [episode one](http://thisisnotabook.baldurbjarnason.com/podcast/thisisnotthefutureofthebook-episode01.mp3)
 * [Subscribe to the podcast feed directly](http://feedpress.me/thissnotthefutureofthebook)
 * [Or on iTunes](https://itunes.apple.com/gb/podcast/this-is-not-future-book/id1038121104)
