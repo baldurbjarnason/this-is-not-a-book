@@ -49,6 +49,7 @@ In this episode we cover a schism in digital media that traditional publishing h
 
 Warning! Contains ums, aws, and wobbly arguments.
 
+* <label for="episode-9">Play the episode in your browser</label><br><audio id="episode-9" controls src="/podcast/thisisnotthefutureofthebook-episode09.mp3" preload="metadata">Your browser does not support the <code>audio</code> element.</audio>
 * Download <a href="http://thisisnotabook.baldurbjarnason.com/podcast/thisisnotthefutureofthebook-episode09.mp3" target="_blank">episode nine</a>
 * [Subscribe to the podcast feed directly](http://feedpress.me/thissnotthefutureofthebook)
 * [Or on iTunes](https://itunes.apple.com/gb/podcast/this-is-not-future-book/id1038121104)

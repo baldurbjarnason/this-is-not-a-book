@@ -10,6 +10,7 @@ The kitchen talks continue. This time we (Baldur and Tom) talk about: the differ
 
 May contain swearing.
 
+* <label for="episode-3">Play the episode in your browser</label><br><audio id="episode-3" controls src="/podcast/thisisnotthefutureofthebook-episode03.mp3" preload="metadata">Your browser does not support the <code>audio</code> element.</audio>
 * Download <a href="http://thisisnotabook.baldurbjarnason.com/podcast/thisisnotthefutureofthebook-episode03.mp3" target="_blank">episode three</a>
 * [Subscribe to the podcast feed directly](http://feedpress.me/thissnotthefutureofthebook)
 * [Or on iTunes](https://itunes.apple.com/gb/podcast/this-is-not-future-book/id1038121104)

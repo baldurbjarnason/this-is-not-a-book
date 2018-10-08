@@ -27,6 +27,7 @@ Some thoughts on where to go from wherever you are. Most of us aren't in the pos
 
 Warning! Contains waffling, hemming, hawing, digressions, and indirection.
 
+* <label for="episode-8">Play the episode in your browser</label><br><audio id="episode-8" controls src="/podcast/thisisnotthefutureofthebook-episode08.mp3" preload="metadata">Your browser does not support the <code>audio</code> element.</audio>
 * Download <a href="http://thisisnotabook.baldurbjarnason.com/podcast/thisisnotthefutureofthebook-episode08.mp3" target="_blank">episode eight</a>
 * [Subscribe to the podcast feed directly](http://feedpress.me/thissnotthefutureofthebook)
 * [Or on iTunes](https://itunes.apple.com/gb/podcast/this-is-not-future-book/id1038121104)
